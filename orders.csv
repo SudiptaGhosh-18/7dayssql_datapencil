@@ -1,0 +1,3001 @@
+order_id,customer_id,order_date,status,channel
+1,817,2025-12-09,Delivered,Website
+2,552,2025-12-30,Delivered,Social Commerce
+3,168,2026-09-20,Delivered,Website
+4,819,2025-12-03,Delivered,Marketplace
+5,460,2026-09-06,Returned,Website
+6,628,2025-11-15,Delivered,Mobile App
+7,865,2025-10-04,Returned,Social Commerce
+8,320,2025-12-23,Delivered,Website
+9,598,2025-04-17,Delivered,Website
+10,78,2026-07-24,Delivered,Marketplace
+11,814,2026-03-31,Delivered,Website
+12,31,2026-03-03,Cancelled,Marketplace
+13,301,2025-05-11,Delivered,Social Commerce
+14,466,2025-02-14,Delivered,Social Commerce
+15,107,2025-03-22,Shipped,Mobile App
+16,979,2026-04-16,Delivered,Social Commerce
+17,492,2026-08-18,Shipped,Website
+18,659,2025-10-24,Delivered,Marketplace
+19,447,2026-04-06,Cancelled,Mobile App
+20,834,2026-08-29,Cancelled,Mobile App
+21,878,2026-04-11,Cancelled,Social Commerce
+22,961,2026-06-25,Cancelled,Marketplace
+23,610,2025-06-05,Processing,Website
+24,551,2025-11-20,Cancelled,Social Commerce
+25,321,2026-04-03,Delivered,Mobile App
+26,119,2026-07-26,Returned,Mobile App
+27,40,2025-05-05,Cancelled,Mobile App
+28,863,2026-04-19,Delivered,Website
+29,520,2025-08-18,Returned,Mobile App
+30,938,2026-01-25,Delivered,Social Commerce
+31,225,2025-10-11,Processing,Marketplace
+32,877,2026-02-10,Delivered,Website
+33,781,2025-09-29,Delivered,Mobile App
+34,733,2025-04-18,Returned,Social Commerce
+35,253,2025-12-06,Delivered,Social Commerce
+36,870,2026-04-02,Shipped,Website
+37,760,2026-06-09,Delivered,Marketplace
+38,179,2025-10-27,Delivered,Website
+39,31,2026-06-13,Shipped,Website
+40,345,2026-05-22,Cancelled,Website
+41,659,2026-02-06,Delivered,Website
+42,743,2026-02-22,Delivered,Social Commerce
+43,448,2026-01-27,Delivered,Social Commerce
+44,740,2026-05-27,Returned,Mobile App
+45,994,2026-02-24,Delivered,Mobile App
+46,369,2026-03-31,Delivered,Social Commerce
+47,233,2025-11-15,Processing,Social Commerce
+48,363,2025-08-20,Cancelled,Mobile App
+49,543,2025-12-17,Delivered,Marketplace
+50,464,2026-01-10,Delivered,Website
+51,559,2025-12-28,Delivered,Marketplace
+52,995,2025-12-31,Delivered,Website
+53,465,2026-05-30,Delivered,Mobile App
+54,832,2026-03-12,Cancelled,Social Commerce
+55,581,2025-03-13,Processing,Website
+56,10,2025-03-10,Delivered,Social Commerce
+57,528,2025-12-19,Processing,Website
+58,825,2025-08-23,Delivered,Social Commerce
+59,889,2025-09-22,Delivered,Website
+60,428,2025-06-10,Delivered,Social Commerce
+61,491,2025-09-13,Delivered,Social Commerce
+62,466,2026-02-05,Delivered,Marketplace
+63,724,2026-09-28,Processing,Marketplace
+64,720,2026-05-15,Cancelled,Mobile App
+65,870,2025-10-11,Delivered,Social Commerce
+66,470,2025-07-13,Returned,Website
+67,287,2025-02-03,Processing,Mobile App
+68,738,2025-03-08,Cancelled,Social Commerce
+69,889,2025-09-16,Delivered,Mobile App
+70,223,2025-01-31,Delivered,Mobile App
+71,463,2026-07-02,Cancelled,Website
+72,129,2026-04-13,Shipped,Website
+73,491,2025-07-17,Shipped,Marketplace
+74,46,2025-03-26,Delivered,Social Commerce
+75,34,2025-05-12,Delivered,Website
+76,788,2026-01-24,Delivered,Social Commerce
+77,401,2025-04-29,Returned,Marketplace
+78,374,2025-07-23,Shipped,Website
+79,652,2026-08-14,Cancelled,Website
+80,2,2026-09-28,Delivered,Marketplace
+81,125,2026-09-30,Returned,Marketplace
+82,1000,2026-02-22,Delivered,Mobile App
+83,913,2026-06-11,Delivered,Website
+84,883,2025-04-13,Shipped,Social Commerce
+85,14,2026-06-06,Delivered,Mobile App
+86,674,2025-07-15,Returned,Social Commerce
+87,465,2026-06-01,Delivered,Marketplace
+88,766,2025-09-17,Processing,Mobile App
+89,744,2025-04-27,Cancelled,Marketplace
+90,737,2025-04-10,Delivered,Mobile App
+91,135,2026-03-03,Cancelled,Website
+92,31,2025-05-22,Returned,Social Commerce
+93,919,2025-06-17,Returned,Marketplace
+94,655,2025-07-09,Delivered,Website
+95,736,2025-05-30,Delivered,Website
+96,673,2026-09-24,Shipped,Mobile App
+97,910,2025-11-15,Delivered,Website
+98,382,2026-07-29,Processing,Marketplace
+99,722,2026-07-18,Processing,Website
+100,151,2025-11-15,Delivered,Social Commerce
+101,743,2025-01-22,Delivered,Social Commerce
+102,953,2025-08-11,Delivered,Social Commerce
+103,525,2026-09-01,Cancelled,Marketplace
+104,160,2025-10-05,Returned,Social Commerce
+105,226,2025-12-05,Processing,Mobile App
+106,111,2025-12-29,Delivered,Website
+107,781,2026-07-18,Delivered,Social Commerce
+108,579,2025-01-16,Shipped,Mobile App
+109,778,2026-01-12,Shipped,Social Commerce
+110,746,2026-07-03,Returned,Website
+111,689,2026-01-19,Delivered,Social Commerce
+112,935,2026-01-09,Delivered,Website
+113,996,2026-04-08,Delivered,Website
+114,126,2025-07-13,Delivered,Marketplace
+115,231,2025-04-19,Returned,Marketplace
+116,723,2025-06-13,Delivered,Marketplace
+117,170,2026-04-05,Shipped,Social Commerce
+118,183,2026-09-10,Shipped,Mobile App
+119,712,2026-02-03,Delivered,Marketplace
+120,901,2025-04-30,Delivered,Mobile App
+121,748,2025-11-30,Returned,Website
+122,162,2026-07-15,Delivered,Mobile App
+123,755,2025-12-08,Returned,Marketplace
+124,464,2026-07-29,Shipped,Website
+125,540,2026-02-26,Returned,Website
+126,3,2025-04-10,Returned,Mobile App
+127,541,2025-07-09,Returned,Social Commerce
+128,902,2025-06-03,Delivered,Marketplace
+129,834,2025-06-08,Delivered,Website
+130,485,2025-03-26,Delivered,Mobile App
+131,449,2025-12-29,Delivered,Website
+132,358,2026-05-04,Shipped,Website
+133,860,2026-06-19,Delivered,Marketplace
+134,503,2026-08-17,Delivered,Social Commerce
+135,855,2025-07-15,Returned,Marketplace
+136,882,2025-03-11,Cancelled,Marketplace
+137,959,2025-04-12,Delivered,Social Commerce
+138,566,2025-12-10,Returned,Marketplace
+139,905,2025-01-23,Processing,Mobile App
+140,270,2025-11-29,Shipped,Website
+141,332,2026-06-24,Delivered,Social Commerce
+142,997,2025-10-05,Delivered,Website
+143,199,2025-04-16,Shipped,Social Commerce
+144,135,2025-12-02,Returned,Social Commerce
+145,616,2026-04-06,Returned,Mobile App
+146,442,2025-05-03,Processing,Social Commerce
+147,238,2026-01-27,Delivered,Marketplace
+148,27,2025-03-22,Delivered,Mobile App
+149,849,2025-12-08,Delivered,Marketplace
+150,90,2026-04-21,Delivered,Mobile App
+151,274,2026-07-26,Shipped,Mobile App
+152,916,2026-08-21,Delivered,Website
+153,828,2026-09-30,Returned,Social Commerce
+154,909,2026-05-24,Delivered,Social Commerce
+155,210,2025-03-19,Cancelled,Website
+156,573,2025-02-11,Delivered,Website
+157,117,2026-05-11,Delivered,Website
+158,955,2025-07-21,Returned,Website
+159,313,2026-08-23,Delivered,Website
+160,503,2026-06-21,Delivered,Marketplace
+161,303,2025-06-28,Delivered,Marketplace
+162,242,2025-03-19,Delivered,Mobile App
+163,637,2026-03-02,Delivered,Social Commerce
+164,389,2025-03-05,Delivered,Website
+165,476,2026-02-01,Shipped,Marketplace
+166,635,2026-07-04,Delivered,Social Commerce
+167,258,2025-06-25,Delivered,Social Commerce
+168,338,2026-02-02,Delivered,Marketplace
+169,292,2025-06-23,Delivered,Marketplace
+170,845,2025-04-29,Delivered,Website
+171,435,2025-02-03,Delivered,Mobile App
+172,225,2026-09-15,Returned,Marketplace
+173,355,2025-08-28,Delivered,Website
+174,81,2025-04-15,Cancelled,Website
+175,29,2025-06-11,Delivered,Website
+176,12,2025-10-26,Delivered,Social Commerce
+177,245,2026-09-13,Delivered,Marketplace
+178,903,2026-06-06,Delivered,Mobile App
+179,224,2026-07-10,Delivered,Marketplace
+180,148,2025-04-23,Delivered,Website
+181,9,2025-08-14,Processing,Website
+182,909,2025-10-20,Delivered,Website
+183,184,2025-12-08,Cancelled,Social Commerce
+184,959,2026-07-13,Delivered,Marketplace
+185,409,2026-09-29,Shipped,Marketplace
+186,448,2026-07-09,Delivered,Social Commerce
+187,806,2026-07-08,Delivered,Marketplace
+188,650,2025-03-25,Returned,Website
+189,706,2025-11-28,Shipped,Social Commerce
+190,48,2026-03-18,Delivered,Mobile App
+191,810,2025-04-27,Returned,Social Commerce
+192,448,2026-04-09,Delivered,Website
+193,460,2025-11-05,Delivered,Marketplace
+194,148,2025-04-25,Delivered,Website
+195,284,2025-07-06,Delivered,Website
+196,907,2026-05-25,Cancelled,Website
+197,854,2025-09-14,Shipped,Marketplace
+198,118,2025-03-10,Returned,Marketplace
+199,721,2025-05-20,Shipped,Website
+200,361,2025-11-05,Delivered,Website
+201,826,2026-08-16,Cancelled,Mobile App
+202,310,2025-06-27,Delivered,Marketplace
+203,316,2025-09-05,Delivered,Website
+204,232,2026-02-26,Delivered,Social Commerce
+205,303,2026-04-27,Delivered,Mobile App
+206,260,2025-02-07,Returned,Mobile App
+207,130,2026-01-17,Delivered,Marketplace
+208,127,2025-06-04,Delivered,Website
+209,297,2025-04-18,Delivered,Mobile App
+210,46,2025-04-26,Delivered,Website
+211,230,2026-04-22,Delivered,Website
+212,507,2025-04-27,Delivered,Social Commerce
+213,26,2026-06-13,Delivered,Social Commerce
+214,562,2025-01-03,Processing,Marketplace
+215,672,2025-05-29,Delivered,Social Commerce
+216,153,2026-02-08,Delivered,Website
+217,707,2026-09-24,Delivered,Website
+218,435,2026-09-02,Shipped,Mobile App
+219,362,2025-05-26,Delivered,Mobile App
+220,315,2026-08-28,Delivered,Mobile App
+221,531,2026-01-18,Delivered,Marketplace
+222,694,2025-09-21,Delivered,Marketplace
+223,403,2026-09-23,Returned,Social Commerce
+224,279,2025-06-15,Delivered,Mobile App
+225,926,2026-04-20,Delivered,Website
+226,22,2025-12-07,Returned,Mobile App
+227,876,2025-03-04,Delivered,Website
+228,5,2025-03-15,Delivered,Website
+229,103,2026-05-24,Returned,Mobile App
+230,40,2025-06-15,Delivered,Website
+231,918,2026-01-13,Delivered,Mobile App
+232,643,2025-08-19,Delivered,Social Commerce
+233,618,2026-06-28,Delivered,Website
+234,866,2025-06-28,Delivered,Social Commerce
+235,394,2026-08-01,Delivered,Website
+236,59,2025-07-06,Cancelled,Website
+237,385,2025-08-28,Delivered,Marketplace
+238,922,2026-06-10,Delivered,Social Commerce
+239,14,2025-04-08,Delivered,Website
+240,437,2025-11-08,Shipped,Website
+241,903,2026-01-11,Delivered,Social Commerce
+242,250,2025-03-17,Delivered,Website
+243,448,2025-04-02,Delivered,Marketplace
+244,654,2026-02-02,Delivered,Social Commerce
+245,513,2026-01-14,Delivered,Mobile App
+246,947,2025-04-08,Processing,Social Commerce
+247,200,2025-11-17,Shipped,Marketplace
+248,873,2025-02-04,Shipped,Marketplace
+249,884,2026-08-28,Delivered,Mobile App
+250,972,2026-08-05,Returned,Marketplace
+251,84,2026-08-24,Shipped,Marketplace
+252,775,2026-04-30,Shipped,Mobile App
+253,371,2025-02-26,Delivered,Mobile App
+254,366,2025-12-29,Delivered,Social Commerce
+255,510,2026-01-12,Delivered,Mobile App
+256,396,2026-09-16,Processing,Marketplace
+257,530,2025-03-02,Delivered,Social Commerce
+258,184,2025-01-29,Processing,Mobile App
+259,583,2025-07-05,Delivered,Mobile App
+260,817,2025-09-19,Processing,Website
+261,666,2025-02-17,Delivered,Marketplace
+262,143,2025-11-15,Delivered,Marketplace
+263,902,2025-10-17,Processing,Social Commerce
+264,424,2025-06-26,Delivered,Social Commerce
+265,8,2026-05-04,Delivered,Marketplace
+266,374,2025-12-28,Delivered,Website
+267,687,2026-02-11,Delivered,Marketplace
+268,721,2025-01-12,Delivered,Mobile App
+269,985,2026-09-15,Cancelled,Social Commerce
+270,208,2025-10-15,Shipped,Website
+271,310,2025-03-04,Delivered,Social Commerce
+272,519,2026-05-05,Shipped,Marketplace
+273,266,2026-06-09,Delivered,Marketplace
+274,29,2025-10-19,Shipped,Mobile App
+275,107,2025-04-07,Processing,Marketplace
+276,27,2026-04-14,Delivered,Website
+277,179,2025-08-11,Delivered,Mobile App
+278,527,2025-10-18,Shipped,Website
+279,962,2025-08-20,Delivered,Website
+280,874,2025-10-13,Shipped,Mobile App
+281,536,2025-12-30,Delivered,Mobile App
+282,829,2025-03-10,Returned,Website
+283,253,2026-04-08,Cancelled,Marketplace
+284,958,2025-06-22,Delivered,Marketplace
+285,37,2025-12-07,Delivered,Social Commerce
+286,743,2026-02-02,Delivered,Marketplace
+287,184,2025-11-01,Processing,Social Commerce
+288,121,2026-09-25,Delivered,Social Commerce
+289,949,2025-09-15,Delivered,Website
+290,896,2026-07-25,Shipped,Website
+291,116,2025-11-19,Delivered,Mobile App
+292,496,2025-05-12,Shipped,Social Commerce
+293,137,2026-07-02,Cancelled,Social Commerce
+294,98,2026-05-13,Delivered,Marketplace
+295,222,2025-02-22,Delivered,Social Commerce
+296,748,2025-07-11,Delivered,Mobile App
+297,242,2025-07-11,Cancelled,Website
+298,185,2025-01-15,Delivered,Social Commerce
+299,835,2025-03-10,Processing,Social Commerce
+300,805,2025-02-17,Delivered,Social Commerce
+301,441,2026-06-02,Delivered,Mobile App
+302,601,2025-03-06,Delivered,Social Commerce
+303,117,2025-03-27,Shipped,Marketplace
+304,750,2026-05-26,Processing,Mobile App
+305,149,2025-09-07,Delivered,Marketplace
+306,691,2026-07-14,Delivered,Website
+307,174,2025-12-14,Delivered,Marketplace
+308,41,2025-06-21,Cancelled,Social Commerce
+309,278,2026-01-30,Delivered,Marketplace
+310,885,2025-04-17,Cancelled,Website
+311,735,2025-08-24,Delivered,Website
+312,759,2025-10-19,Delivered,Mobile App
+313,581,2026-02-19,Returned,Mobile App
+314,83,2026-09-11,Delivered,Website
+315,720,2025-12-18,Returned,Website
+316,348,2025-07-12,Delivered,Website
+317,246,2025-02-07,Delivered,Mobile App
+318,599,2026-06-27,Processing,Marketplace
+319,700,2026-09-10,Delivered,Website
+320,647,2025-07-13,Delivered,Social Commerce
+321,126,2026-09-27,Delivered,Mobile App
+322,380,2025-07-21,Delivered,Marketplace
+323,744,2026-05-28,Delivered,Mobile App
+324,352,2026-05-09,Processing,Social Commerce
+325,429,2026-04-20,Returned,Website
+326,21,2026-05-10,Delivered,Mobile App
+327,475,2025-02-09,Processing,Marketplace
+328,558,2026-07-20,Shipped,Social Commerce
+329,893,2026-01-11,Delivered,Mobile App
+330,141,2026-05-18,Delivered,Mobile App
+331,774,2025-02-23,Delivered,Website
+332,898,2026-07-27,Delivered,Mobile App
+333,226,2026-09-18,Cancelled,Social Commerce
+334,473,2025-11-25,Cancelled,Website
+335,862,2025-01-05,Delivered,Social Commerce
+336,263,2025-04-15,Delivered,Social Commerce
+337,15,2025-12-04,Shipped,Mobile App
+338,451,2026-08-24,Delivered,Website
+339,932,2025-10-12,Delivered,Social Commerce
+340,901,2025-01-03,Delivered,Website
+341,663,2026-09-07,Returned,Website
+342,997,2025-04-20,Delivered,Social Commerce
+343,191,2025-01-07,Returned,Marketplace
+344,509,2025-03-28,Processing,Mobile App
+345,229,2025-03-18,Shipped,Website
+346,344,2026-05-29,Delivered,Mobile App
+347,145,2025-07-24,Delivered,Social Commerce
+348,275,2025-08-12,Delivered,Social Commerce
+349,664,2026-07-13,Shipped,Social Commerce
+350,41,2026-07-19,Processing,Website
+351,410,2025-02-26,Delivered,Website
+352,736,2026-03-01,Delivered,Social Commerce
+353,559,2025-12-17,Delivered,Social Commerce
+354,538,2025-05-09,Cancelled,Website
+355,182,2025-06-04,Delivered,Mobile App
+356,136,2025-10-12,Delivered,Social Commerce
+357,832,2025-11-10,Delivered,Mobile App
+358,158,2025-02-17,Shipped,Website
+359,85,2025-05-30,Delivered,Social Commerce
+360,261,2025-01-12,Returned,Mobile App
+361,751,2025-08-09,Delivered,Website
+362,211,2025-06-10,Delivered,Website
+363,886,2025-07-06,Delivered,Marketplace
+364,95,2026-09-20,Returned,Marketplace
+365,389,2025-02-20,Delivered,Mobile App
+366,422,2026-02-27,Cancelled,Mobile App
+367,313,2025-02-28,Processing,Mobile App
+368,186,2025-04-24,Shipped,Website
+369,317,2025-12-02,Delivered,Mobile App
+370,572,2025-09-10,Delivered,Mobile App
+371,676,2026-03-27,Delivered,Marketplace
+372,614,2025-04-11,Shipped,Social Commerce
+373,395,2025-08-12,Returned,Social Commerce
+374,976,2025-07-24,Returned,Marketplace
+375,913,2025-05-22,Delivered,Mobile App
+376,4,2025-02-23,Delivered,Website
+377,732,2025-01-22,Cancelled,Website
+378,670,2025-08-10,Returned,Social Commerce
+379,183,2025-09-01,Returned,Marketplace
+380,491,2025-06-25,Delivered,Social Commerce
+381,52,2026-08-17,Delivered,Mobile App
+382,897,2026-03-21,Delivered,Social Commerce
+383,813,2026-05-11,Delivered,Marketplace
+384,632,2025-07-04,Shipped,Mobile App
+385,665,2025-12-16,Shipped,Marketplace
+386,861,2025-06-19,Delivered,Marketplace
+387,94,2025-06-27,Delivered,Website
+388,4,2025-11-24,Delivered,Website
+389,951,2025-03-22,Delivered,Mobile App
+390,334,2026-05-28,Delivered,Social Commerce
+391,181,2025-10-16,Delivered,Mobile App
+392,935,2025-11-13,Shipped,Social Commerce
+393,158,2026-06-05,Delivered,Social Commerce
+394,546,2025-04-18,Delivered,Mobile App
+395,945,2026-04-25,Processing,Social Commerce
+396,616,2025-01-19,Delivered,Mobile App
+397,985,2025-06-03,Delivered,Social Commerce
+398,47,2025-05-14,Delivered,Social Commerce
+399,963,2025-03-31,Processing,Social Commerce
+400,988,2026-07-14,Delivered,Social Commerce
+401,146,2025-02-07,Delivered,Website
+402,729,2026-04-30,Delivered,Social Commerce
+403,211,2026-03-29,Delivered,Mobile App
+404,349,2026-07-24,Processing,Website
+405,11,2025-05-07,Delivered,Mobile App
+406,42,2025-08-09,Processing,Website
+407,328,2026-06-06,Cancelled,Marketplace
+408,858,2026-08-15,Processing,Mobile App
+409,556,2025-08-10,Delivered,Marketplace
+410,851,2025-05-21,Shipped,Social Commerce
+411,201,2025-08-24,Shipped,Website
+412,583,2025-04-01,Returned,Marketplace
+413,427,2026-02-05,Shipped,Social Commerce
+414,14,2026-01-05,Cancelled,Mobile App
+415,582,2026-07-11,Delivered,Mobile App
+416,58,2025-04-12,Delivered,Website
+417,374,2025-06-13,Shipped,Website
+418,911,2026-04-07,Shipped,Social Commerce
+419,68,2025-08-21,Delivered,Marketplace
+420,700,2025-06-20,Delivered,Mobile App
+421,500,2025-12-09,Processing,Website
+422,609,2026-02-04,Shipped,Social Commerce
+423,491,2025-01-23,Processing,Social Commerce
+424,119,2025-01-06,Shipped,Marketplace
+425,966,2025-08-27,Returned,Website
+426,588,2025-02-01,Delivered,Mobile App
+427,557,2025-02-09,Delivered,Mobile App
+428,830,2026-08-26,Shipped,Social Commerce
+429,3,2025-04-03,Delivered,Mobile App
+430,486,2025-01-22,Returned,Mobile App
+431,708,2025-12-15,Shipped,Marketplace
+432,332,2026-02-24,Delivered,Website
+433,999,2025-09-01,Delivered,Social Commerce
+434,668,2025-04-01,Processing,Marketplace
+435,609,2026-09-09,Delivered,Marketplace
+436,649,2026-05-26,Delivered,Social Commerce
+437,237,2025-10-07,Delivered,Social Commerce
+438,187,2026-05-18,Shipped,Mobile App
+439,308,2026-04-17,Delivered,Marketplace
+440,3,2025-11-18,Delivered,Social Commerce
+441,232,2025-07-25,Delivered,Social Commerce
+442,506,2025-03-25,Shipped,Marketplace
+443,941,2025-02-22,Processing,Website
+444,697,2026-05-10,Processing,Mobile App
+445,420,2025-05-10,Returned,Social Commerce
+446,978,2026-05-25,Delivered,Marketplace
+447,597,2025-08-18,Delivered,Mobile App
+448,736,2026-02-10,Shipped,Social Commerce
+449,112,2025-08-28,Delivered,Marketplace
+450,965,2025-12-26,Delivered,Social Commerce
+451,712,2025-07-24,Delivered,Marketplace
+452,274,2026-03-29,Returned,Social Commerce
+453,778,2025-10-03,Delivered,Mobile App
+454,411,2025-02-23,Delivered,Marketplace
+455,873,2025-06-07,Delivered,Website
+456,996,2025-02-08,Delivered,Marketplace
+457,788,2025-04-01,Delivered,Marketplace
+458,981,2026-01-26,Delivered,Mobile App
+459,298,2025-01-22,Shipped,Mobile App
+460,511,2026-02-23,Delivered,Marketplace
+461,394,2025-02-15,Delivered,Mobile App
+462,1,2025-12-20,Cancelled,Mobile App
+463,912,2026-01-28,Shipped,Mobile App
+464,115,2025-03-08,Shipped,Marketplace
+465,794,2025-01-27,Delivered,Website
+466,997,2025-12-28,Delivered,Website
+467,838,2025-03-24,Cancelled,Mobile App
+468,514,2025-08-03,Delivered,Website
+469,689,2025-10-13,Shipped,Social Commerce
+470,618,2025-05-28,Shipped,Marketplace
+471,324,2026-03-21,Delivered,Mobile App
+472,603,2026-06-04,Delivered,Website
+473,203,2026-09-24,Processing,Social Commerce
+474,803,2025-09-02,Returned,Marketplace
+475,892,2026-05-03,Delivered,Social Commerce
+476,380,2025-10-14,Returned,Website
+477,544,2026-03-25,Cancelled,Website
+478,297,2025-03-25,Delivered,Website
+479,413,2025-01-21,Returned,Mobile App
+480,74,2025-10-15,Cancelled,Social Commerce
+481,330,2025-03-25,Delivered,Social Commerce
+482,991,2026-04-19,Delivered,Marketplace
+483,843,2025-07-20,Delivered,Website
+484,91,2025-10-28,Delivered,Social Commerce
+485,890,2026-03-20,Delivered,Mobile App
+486,885,2025-09-18,Cancelled,Website
+487,949,2026-08-04,Returned,Mobile App
+488,892,2025-04-02,Cancelled,Marketplace
+489,340,2026-02-17,Delivered,Mobile App
+490,58,2025-08-03,Delivered,Mobile App
+491,272,2026-03-31,Shipped,Website
+492,499,2026-06-27,Processing,Mobile App
+493,508,2025-11-19,Delivered,Mobile App
+494,303,2026-02-13,Shipped,Marketplace
+495,7,2026-01-19,Delivered,Mobile App
+496,795,2026-08-03,Returned,Website
+497,442,2025-10-01,Delivered,Website
+498,442,2025-02-21,Cancelled,Marketplace
+499,594,2026-06-19,Delivered,Mobile App
+500,553,2026-05-20,Processing,Mobile App
+501,986,2026-09-02,Cancelled,Social Commerce
+502,635,2025-10-17,Delivered,Website
+503,941,2026-02-16,Processing,Social Commerce
+504,361,2025-11-15,Shipped,Mobile App
+505,519,2025-04-15,Shipped,Mobile App
+506,329,2025-01-08,Delivered,Website
+507,912,2025-07-06,Delivered,Website
+508,176,2025-07-08,Returned,Marketplace
+509,786,2026-08-25,Shipped,Mobile App
+510,692,2025-01-13,Delivered,Marketplace
+511,812,2025-02-06,Delivered,Website
+512,259,2025-08-06,Shipped,Website
+513,499,2026-02-27,Delivered,Website
+514,676,2026-08-19,Delivered,Mobile App
+515,645,2026-05-06,Cancelled,Marketplace
+516,4,2026-01-31,Processing,Website
+517,24,2026-01-06,Delivered,Social Commerce
+518,567,2026-05-13,Delivered,Website
+519,76,2025-04-22,Delivered,Marketplace
+520,573,2026-05-30,Delivered,Website
+521,284,2026-05-06,Delivered,Social Commerce
+522,811,2025-04-11,Cancelled,Social Commerce
+523,509,2025-08-02,Delivered,Marketplace
+524,599,2026-02-03,Delivered,Website
+525,876,2025-05-05,Delivered,Mobile App
+526,463,2026-01-01,Cancelled,Marketplace
+527,72,2025-07-21,Delivered,Website
+528,520,2026-06-25,Shipped,Social Commerce
+529,454,2025-01-30,Delivered,Marketplace
+530,126,2025-11-23,Shipped,Website
+531,312,2025-08-07,Shipped,Mobile App
+532,931,2026-01-19,Returned,Marketplace
+533,685,2025-04-07,Delivered,Marketplace
+534,277,2026-07-30,Delivered,Social Commerce
+535,910,2026-08-17,Delivered,Social Commerce
+536,509,2025-11-05,Delivered,Marketplace
+537,329,2025-09-01,Delivered,Social Commerce
+538,960,2026-03-01,Delivered,Marketplace
+539,349,2025-02-26,Shipped,Social Commerce
+540,582,2025-11-25,Shipped,Website
+541,498,2025-10-21,Processing,Mobile App
+542,358,2025-09-11,Returned,Marketplace
+543,15,2025-03-28,Returned,Mobile App
+544,253,2025-11-18,Delivered,Marketplace
+545,470,2026-06-26,Delivered,Mobile App
+546,821,2026-01-19,Delivered,Website
+547,605,2025-07-03,Cancelled,Website
+548,327,2025-10-21,Delivered,Social Commerce
+549,304,2025-10-23,Returned,Website
+550,95,2025-02-26,Delivered,Social Commerce
+551,158,2025-09-16,Shipped,Marketplace
+552,655,2026-06-02,Cancelled,Marketplace
+553,987,2025-02-28,Cancelled,Social Commerce
+554,376,2026-06-30,Delivered,Mobile App
+555,986,2025-11-06,Shipped,Website
+556,962,2026-08-10,Delivered,Website
+557,471,2026-06-04,Delivered,Website
+558,80,2026-09-19,Delivered,Mobile App
+559,520,2025-05-19,Shipped,Mobile App
+560,361,2025-01-10,Delivered,Mobile App
+561,419,2025-12-27,Shipped,Mobile App
+562,949,2026-04-27,Cancelled,Mobile App
+563,51,2026-07-11,Shipped,Marketplace
+564,72,2026-06-06,Returned,Website
+565,209,2026-09-25,Delivered,Website
+566,854,2025-03-29,Delivered,Social Commerce
+567,225,2025-12-17,Delivered,Social Commerce
+568,82,2025-01-14,Delivered,Website
+569,124,2025-02-17,Processing,Website
+570,694,2026-09-15,Shipped,Social Commerce
+571,957,2026-06-21,Returned,Mobile App
+572,656,2025-06-26,Delivered,Website
+573,601,2025-01-25,Delivered,Social Commerce
+574,425,2025-08-23,Delivered,Website
+575,459,2025-05-31,Delivered,Social Commerce
+576,144,2026-07-21,Delivered,Mobile App
+577,773,2026-05-30,Delivered,Social Commerce
+578,927,2025-01-09,Delivered,Website
+579,775,2026-07-23,Processing,Marketplace
+580,149,2025-06-28,Delivered,Marketplace
+581,684,2026-07-28,Delivered,Marketplace
+582,320,2025-12-23,Delivered,Mobile App
+583,700,2025-03-03,Processing,Marketplace
+584,666,2026-02-27,Cancelled,Website
+585,493,2026-02-28,Delivered,Social Commerce
+586,431,2025-06-10,Delivered,Mobile App
+587,888,2025-03-24,Processing,Website
+588,818,2026-02-18,Processing,Social Commerce
+589,338,2025-09-12,Returned,Social Commerce
+590,27,2026-03-26,Returned,Website
+591,477,2025-09-15,Returned,Website
+592,243,2026-04-14,Processing,Website
+593,393,2026-06-05,Delivered,Mobile App
+594,599,2025-06-27,Delivered,Website
+595,324,2026-08-09,Cancelled,Social Commerce
+596,231,2026-04-19,Cancelled,Website
+597,744,2026-04-16,Delivered,Website
+598,164,2026-06-20,Returned,Website
+599,269,2025-07-02,Delivered,Social Commerce
+600,51,2026-05-08,Delivered,Social Commerce
+601,347,2025-07-12,Shipped,Marketplace
+602,584,2025-11-21,Delivered,Mobile App
+603,124,2025-09-02,Delivered,Marketplace
+604,58,2025-03-06,Processing,Website
+605,209,2026-09-30,Shipped,Website
+606,724,2026-09-06,Delivered,Marketplace
+607,807,2025-01-04,Shipped,Social Commerce
+608,379,2025-05-23,Delivered,Website
+609,84,2025-12-07,Delivered,Social Commerce
+610,53,2026-03-29,Delivered,Marketplace
+611,756,2026-04-08,Delivered,Mobile App
+612,533,2025-10-21,Delivered,Website
+613,209,2025-07-30,Delivered,Website
+614,708,2025-11-22,Shipped,Mobile App
+615,812,2026-05-28,Delivered,Website
+616,152,2025-02-22,Delivered,Social Commerce
+617,456,2026-09-10,Delivered,Social Commerce
+618,243,2026-04-25,Delivered,Social Commerce
+619,9,2025-03-09,Processing,Marketplace
+620,96,2025-03-29,Processing,Marketplace
+621,946,2026-05-26,Delivered,Marketplace
+622,511,2026-04-24,Delivered,Marketplace
+623,329,2026-06-11,Delivered,Marketplace
+624,505,2025-05-12,Shipped,Mobile App
+625,286,2026-04-07,Delivered,Mobile App
+626,896,2026-07-06,Shipped,Marketplace
+627,586,2025-07-14,Delivered,Social Commerce
+628,56,2025-10-14,Shipped,Marketplace
+629,130,2025-07-18,Delivered,Mobile App
+630,579,2025-08-09,Delivered,Website
+631,524,2025-05-20,Delivered,Marketplace
+632,550,2025-12-27,Cancelled,Mobile App
+633,22,2026-09-04,Delivered,Marketplace
+634,622,2026-01-19,Processing,Marketplace
+635,346,2025-12-15,Delivered,Marketplace
+636,110,2026-02-01,Cancelled,Social Commerce
+637,571,2025-01-13,Delivered,Marketplace
+638,121,2025-12-22,Delivered,Mobile App
+639,599,2025-09-03,Shipped,Social Commerce
+640,516,2025-11-08,Delivered,Website
+641,954,2026-09-29,Delivered,Marketplace
+642,292,2025-01-06,Delivered,Social Commerce
+643,104,2025-03-21,Delivered,Social Commerce
+644,523,2025-04-13,Delivered,Website
+645,717,2025-03-27,Delivered,Marketplace
+646,118,2025-06-19,Processing,Marketplace
+647,523,2025-03-05,Returned,Marketplace
+648,524,2026-05-18,Delivered,Social Commerce
+649,743,2026-08-04,Processing,Website
+650,522,2025-10-14,Delivered,Marketplace
+651,577,2026-07-25,Delivered,Website
+652,699,2025-08-30,Delivered,Website
+653,882,2025-04-14,Returned,Website
+654,594,2026-09-11,Delivered,Website
+655,947,2025-04-22,Delivered,Website
+656,708,2025-01-29,Delivered,Social Commerce
+657,971,2025-10-10,Processing,Marketplace
+658,643,2025-05-12,Delivered,Social Commerce
+659,526,2025-03-08,Delivered,Mobile App
+660,614,2026-08-17,Delivered,Mobile App
+661,553,2026-03-25,Returned,Social Commerce
+662,994,2025-06-17,Delivered,Marketplace
+663,45,2025-07-12,Delivered,Website
+664,128,2026-02-20,Processing,Website
+665,691,2026-05-22,Cancelled,Marketplace
+666,162,2025-08-20,Delivered,Website
+667,105,2025-02-27,Delivered,Mobile App
+668,261,2025-07-25,Returned,Social Commerce
+669,439,2025-12-03,Delivered,Social Commerce
+670,560,2025-02-05,Delivered,Social Commerce
+671,646,2026-04-22,Returned,Website
+672,814,2025-12-06,Cancelled,Marketplace
+673,197,2026-06-21,Shipped,Mobile App
+674,444,2025-03-04,Processing,Website
+675,793,2025-12-29,Delivered,Mobile App
+676,939,2025-05-14,Delivered,Mobile App
+677,968,2025-08-03,Returned,Marketplace
+678,979,2026-04-11,Delivered,Website
+679,270,2026-08-17,Delivered,Mobile App
+680,442,2026-09-28,Returned,Marketplace
+681,436,2025-07-21,Delivered,Website
+682,322,2025-12-21,Delivered,Marketplace
+683,648,2025-06-16,Delivered,Website
+684,959,2026-06-21,Delivered,Social Commerce
+685,628,2026-09-11,Delivered,Marketplace
+686,403,2025-04-28,Returned,Mobile App
+687,717,2025-12-20,Delivered,Website
+688,200,2026-03-03,Delivered,Mobile App
+689,580,2025-04-24,Delivered,Mobile App
+690,766,2026-05-06,Cancelled,Website
+691,728,2025-03-05,Shipped,Mobile App
+692,314,2025-06-05,Delivered,Website
+693,430,2025-11-06,Delivered,Website
+694,959,2025-01-09,Delivered,Marketplace
+695,500,2025-01-21,Returned,Social Commerce
+696,737,2026-06-20,Delivered,Mobile App
+697,298,2026-05-14,Delivered,Social Commerce
+698,624,2025-11-07,Delivered,Marketplace
+699,238,2025-10-26,Returned,Mobile App
+700,943,2025-02-18,Processing,Marketplace
+701,369,2025-07-19,Delivered,Website
+702,780,2025-03-11,Delivered,Website
+703,116,2025-12-22,Delivered,Marketplace
+704,633,2026-07-19,Delivered,Social Commerce
+705,554,2025-08-02,Shipped,Website
+706,749,2025-08-13,Delivered,Social Commerce
+707,240,2025-08-12,Returned,Marketplace
+708,719,2025-08-08,Processing,Mobile App
+709,853,2025-05-31,Delivered,Social Commerce
+710,93,2026-05-12,Shipped,Social Commerce
+711,408,2026-09-05,Delivered,Website
+712,43,2025-07-26,Cancelled,Website
+713,68,2026-08-05,Shipped,Website
+714,327,2026-06-16,Delivered,Mobile App
+715,706,2026-06-13,Shipped,Marketplace
+716,905,2025-03-02,Delivered,Marketplace
+717,489,2026-08-15,Delivered,Mobile App
+718,615,2026-04-28,Processing,Mobile App
+719,340,2025-11-04,Delivered,Mobile App
+720,767,2025-04-13,Delivered,Marketplace
+721,47,2026-02-21,Delivered,Mobile App
+722,769,2025-05-31,Delivered,Mobile App
+723,488,2026-06-28,Returned,Website
+724,570,2025-10-24,Delivered,Mobile App
+725,532,2025-02-13,Returned,Website
+726,903,2025-01-23,Returned,Marketplace
+727,321,2025-08-08,Cancelled,Mobile App
+728,897,2025-12-19,Delivered,Marketplace
+729,374,2025-04-24,Shipped,Social Commerce
+730,858,2025-02-27,Delivered,Website
+731,779,2025-01-31,Delivered,Marketplace
+732,217,2025-03-15,Delivered,Social Commerce
+733,860,2026-04-25,Delivered,Social Commerce
+734,339,2025-09-20,Returned,Mobile App
+735,454,2025-11-08,Cancelled,Marketplace
+736,119,2025-08-23,Delivered,Mobile App
+737,197,2025-07-13,Processing,Website
+738,274,2026-05-23,Delivered,Social Commerce
+739,965,2025-07-15,Shipped,Social Commerce
+740,881,2025-11-20,Processing,Marketplace
+741,556,2025-11-23,Processing,Mobile App
+742,487,2026-02-15,Delivered,Marketplace
+743,633,2026-01-27,Delivered,Social Commerce
+744,376,2025-12-11,Delivered,Marketplace
+745,960,2026-03-16,Returned,Mobile App
+746,486,2025-12-29,Delivered,Social Commerce
+747,598,2026-04-13,Shipped,Marketplace
+748,570,2025-04-24,Processing,Website
+749,127,2026-06-02,Delivered,Marketplace
+750,308,2026-06-14,Delivered,Website
+751,170,2025-04-21,Returned,Website
+752,729,2025-08-18,Delivered,Mobile App
+753,715,2025-01-17,Delivered,Social Commerce
+754,711,2025-11-28,Delivered,Website
+755,302,2025-06-14,Delivered,Social Commerce
+756,389,2025-07-12,Processing,Website
+757,512,2025-08-29,Delivered,Website
+758,539,2026-06-26,Returned,Social Commerce
+759,973,2026-05-02,Cancelled,Social Commerce
+760,845,2026-07-28,Delivered,Social Commerce
+761,84,2025-09-28,Processing,Mobile App
+762,838,2025-10-14,Processing,Social Commerce
+763,940,2025-01-13,Processing,Marketplace
+764,977,2025-06-12,Delivered,Marketplace
+765,525,2026-03-25,Shipped,Website
+766,434,2026-01-19,Delivered,Marketplace
+767,872,2026-01-24,Delivered,Marketplace
+768,135,2025-04-24,Processing,Website
+769,879,2025-03-25,Delivered,Website
+770,338,2025-04-10,Delivered,Marketplace
+771,584,2026-07-07,Delivered,Mobile App
+772,927,2026-08-10,Delivered,Social Commerce
+773,744,2025-07-16,Processing,Website
+774,322,2026-05-27,Delivered,Social Commerce
+775,113,2025-08-19,Shipped,Mobile App
+776,458,2025-07-08,Delivered,Social Commerce
+777,160,2025-05-16,Shipped,Marketplace
+778,307,2025-07-03,Shipped,Website
+779,156,2026-07-07,Delivered,Website
+780,979,2026-04-24,Delivered,Social Commerce
+781,970,2026-05-25,Returned,Marketplace
+782,379,2026-07-28,Delivered,Marketplace
+783,139,2026-03-11,Cancelled,Marketplace
+784,498,2026-02-11,Delivered,Social Commerce
+785,781,2025-11-30,Delivered,Mobile App
+786,978,2026-06-10,Delivered,Website
+787,71,2025-12-20,Shipped,Mobile App
+788,786,2025-04-15,Delivered,Mobile App
+789,664,2026-06-05,Returned,Mobile App
+790,868,2026-03-19,Delivered,Social Commerce
+791,917,2025-02-15,Delivered,Website
+792,83,2026-02-05,Delivered,Mobile App
+793,91,2026-09-25,Delivered,Website
+794,298,2025-10-30,Cancelled,Marketplace
+795,910,2025-07-07,Delivered,Social Commerce
+796,434,2026-08-20,Processing,Marketplace
+797,168,2026-04-23,Delivered,Mobile App
+798,574,2026-05-14,Delivered,Website
+799,809,2026-07-22,Processing,Marketplace
+800,472,2025-08-10,Delivered,Mobile App
+801,781,2025-03-23,Returned,Website
+802,205,2025-03-28,Delivered,Social Commerce
+803,246,2026-02-03,Delivered,Mobile App
+804,958,2026-09-15,Delivered,Marketplace
+805,375,2025-02-15,Delivered,Website
+806,378,2026-07-10,Delivered,Mobile App
+807,445,2026-06-16,Processing,Website
+808,572,2025-11-07,Delivered,Social Commerce
+809,216,2025-08-13,Delivered,Website
+810,456,2025-04-28,Delivered,Social Commerce
+811,104,2025-02-10,Delivered,Social Commerce
+812,839,2025-08-31,Delivered,Mobile App
+813,5,2025-03-25,Delivered,Mobile App
+814,807,2026-03-25,Delivered,Social Commerce
+815,937,2025-02-13,Delivered,Website
+816,130,2026-05-08,Returned,Mobile App
+817,976,2026-02-07,Shipped,Social Commerce
+818,640,2026-01-20,Delivered,Website
+819,510,2025-09-11,Processing,Marketplace
+820,451,2025-04-25,Delivered,Marketplace
+821,503,2025-04-16,Processing,Mobile App
+822,589,2026-06-16,Processing,Marketplace
+823,779,2025-12-05,Cancelled,Mobile App
+824,591,2025-08-31,Shipped,Mobile App
+825,451,2025-04-24,Delivered,Social Commerce
+826,139,2026-07-10,Delivered,Social Commerce
+827,905,2025-08-03,Delivered,Mobile App
+828,859,2026-05-27,Processing,Marketplace
+829,181,2025-10-08,Shipped,Mobile App
+830,522,2026-06-11,Shipped,Marketplace
+831,924,2025-02-19,Delivered,Mobile App
+832,706,2025-02-03,Cancelled,Mobile App
+833,101,2025-06-08,Shipped,Social Commerce
+834,496,2026-05-23,Processing,Mobile App
+835,958,2025-02-18,Delivered,Website
+836,749,2026-09-03,Delivered,Website
+837,176,2025-07-11,Shipped,Marketplace
+838,268,2026-02-03,Delivered,Website
+839,933,2026-09-26,Delivered,Mobile App
+840,537,2025-09-02,Delivered,Website
+841,231,2026-05-01,Shipped,Website
+842,173,2025-09-04,Delivered,Marketplace
+843,472,2025-04-23,Delivered,Marketplace
+844,693,2026-08-11,Delivered,Social Commerce
+845,68,2025-11-24,Delivered,Social Commerce
+846,527,2026-08-01,Delivered,Mobile App
+847,332,2025-04-30,Returned,Social Commerce
+848,628,2025-12-02,Delivered,Social Commerce
+849,959,2026-05-15,Delivered,Social Commerce
+850,308,2025-12-16,Shipped,Social Commerce
+851,25,2026-05-25,Delivered,Mobile App
+852,130,2026-05-30,Delivered,Mobile App
+853,258,2026-01-25,Shipped,Mobile App
+854,486,2025-08-10,Delivered,Website
+855,414,2026-05-24,Delivered,Website
+856,852,2025-08-07,Delivered,Website
+857,940,2025-02-28,Shipped,Website
+858,835,2025-05-10,Shipped,Marketplace
+859,863,2026-08-15,Delivered,Social Commerce
+860,568,2025-11-14,Returned,Website
+861,861,2026-08-09,Delivered,Marketplace
+862,263,2025-12-14,Delivered,Social Commerce
+863,919,2026-06-10,Delivered,Social Commerce
+864,772,2026-03-01,Delivered,Website
+865,742,2025-10-07,Returned,Social Commerce
+866,114,2026-03-19,Delivered,Mobile App
+867,131,2025-05-20,Processing,Marketplace
+868,426,2025-07-25,Delivered,Website
+869,764,2025-12-14,Delivered,Website
+870,67,2025-12-17,Returned,Website
+871,124,2025-09-13,Delivered,Social Commerce
+872,785,2025-04-03,Delivered,Mobile App
+873,100,2026-03-06,Shipped,Mobile App
+874,704,2025-07-04,Delivered,Website
+875,615,2026-03-31,Delivered,Mobile App
+876,761,2025-10-18,Processing,Website
+877,866,2025-06-06,Delivered,Marketplace
+878,257,2026-05-30,Shipped,Marketplace
+879,751,2025-04-05,Cancelled,Website
+880,677,2026-05-14,Shipped,Website
+881,776,2025-03-09,Shipped,Social Commerce
+882,488,2026-03-26,Delivered,Website
+883,832,2025-01-14,Delivered,Marketplace
+884,323,2025-08-29,Delivered,Mobile App
+885,658,2025-02-20,Delivered,Social Commerce
+886,786,2025-06-16,Delivered,Website
+887,55,2026-09-11,Delivered,Mobile App
+888,945,2025-12-05,Returned,Marketplace
+889,601,2025-02-28,Delivered,Marketplace
+890,21,2026-01-28,Returned,Social Commerce
+891,587,2026-06-09,Delivered,Marketplace
+892,277,2026-09-22,Delivered,Website
+893,26,2026-07-31,Processing,Mobile App
+894,564,2026-09-06,Shipped,Social Commerce
+895,343,2026-01-07,Delivered,Social Commerce
+896,561,2025-08-16,Delivered,Website
+897,726,2025-06-13,Delivered,Social Commerce
+898,791,2026-03-28,Shipped,Website
+899,489,2025-05-30,Returned,Social Commerce
+900,522,2026-03-16,Delivered,Social Commerce
+901,402,2026-01-15,Delivered,Social Commerce
+902,956,2025-04-21,Cancelled,Social Commerce
+903,80,2025-05-29,Cancelled,Website
+904,897,2025-12-19,Cancelled,Website
+905,252,2026-05-02,Returned,Website
+906,329,2026-01-22,Shipped,Social Commerce
+907,61,2025-06-03,Processing,Social Commerce
+908,994,2025-07-04,Delivered,Website
+909,758,2026-02-18,Shipped,Marketplace
+910,721,2025-12-19,Returned,Website
+911,814,2025-05-04,Delivered,Mobile App
+912,498,2025-04-23,Delivered,Mobile App
+913,357,2026-01-24,Shipped,Mobile App
+914,323,2025-12-01,Cancelled,Marketplace
+915,17,2026-07-22,Cancelled,Website
+916,680,2025-05-24,Delivered,Social Commerce
+917,535,2026-05-29,Delivered,Website
+918,433,2025-08-30,Delivered,Website
+919,402,2025-09-13,Delivered,Mobile App
+920,424,2025-04-28,Shipped,Marketplace
+921,669,2025-07-27,Shipped,Marketplace
+922,773,2025-05-10,Delivered,Marketplace
+923,55,2025-03-30,Delivered,Marketplace
+924,505,2025-09-28,Delivered,Marketplace
+925,423,2026-04-21,Delivered,Social Commerce
+926,147,2025-06-20,Returned,Website
+927,645,2025-08-22,Shipped,Mobile App
+928,918,2026-06-26,Returned,Mobile App
+929,474,2025-07-16,Returned,Mobile App
+930,289,2025-12-05,Delivered,Marketplace
+931,803,2025-12-16,Delivered,Website
+932,621,2025-08-28,Delivered,Marketplace
+933,220,2025-11-05,Delivered,Mobile App
+934,653,2025-10-01,Delivered,Mobile App
+935,466,2025-11-11,Delivered,Mobile App
+936,744,2026-07-12,Processing,Social Commerce
+937,653,2026-01-17,Delivered,Website
+938,430,2026-03-04,Delivered,Mobile App
+939,358,2026-05-28,Returned,Marketplace
+940,154,2025-10-05,Delivered,Website
+941,666,2025-07-12,Shipped,Mobile App
+942,699,2025-10-06,Shipped,Website
+943,330,2025-12-10,Delivered,Mobile App
+944,696,2026-09-13,Delivered,Website
+945,324,2025-12-15,Processing,Mobile App
+946,34,2026-05-15,Delivered,Marketplace
+947,787,2026-04-05,Shipped,Social Commerce
+948,254,2026-06-03,Delivered,Mobile App
+949,983,2026-01-11,Delivered,Website
+950,299,2025-03-25,Delivered,Mobile App
+951,973,2025-01-28,Processing,Social Commerce
+952,569,2025-02-25,Returned,Social Commerce
+953,427,2026-06-03,Delivered,Mobile App
+954,888,2025-12-28,Processing,Marketplace
+955,612,2026-01-08,Returned,Social Commerce
+956,153,2025-04-20,Shipped,Website
+957,422,2025-06-18,Delivered,Website
+958,35,2025-02-04,Delivered,Website
+959,49,2025-11-23,Delivered,Social Commerce
+960,311,2026-06-13,Delivered,Mobile App
+961,634,2025-12-27,Delivered,Mobile App
+962,374,2026-03-07,Cancelled,Marketplace
+963,329,2026-09-07,Delivered,Mobile App
+964,10,2025-11-02,Processing,Social Commerce
+965,88,2026-07-24,Delivered,Social Commerce
+966,682,2025-11-17,Delivered,Mobile App
+967,470,2026-02-20,Processing,Social Commerce
+968,212,2025-10-19,Delivered,Social Commerce
+969,56,2026-06-29,Delivered,Website
+970,509,2026-07-20,Delivered,Social Commerce
+971,401,2026-03-11,Shipped,Social Commerce
+972,823,2025-06-06,Shipped,Marketplace
+973,255,2025-07-28,Delivered,Mobile App
+974,559,2026-08-29,Processing,Marketplace
+975,457,2026-07-13,Shipped,Marketplace
+976,1,2026-06-17,Processing,Social Commerce
+977,332,2025-04-17,Delivered,Marketplace
+978,244,2025-04-21,Delivered,Mobile App
+979,528,2025-07-20,Delivered,Website
+980,816,2025-05-24,Cancelled,Mobile App
+981,144,2025-08-04,Delivered,Social Commerce
+982,214,2025-12-05,Shipped,Mobile App
+983,64,2025-12-16,Delivered,Social Commerce
+984,39,2026-09-22,Delivered,Website
+985,872,2026-01-15,Cancelled,Mobile App
+986,296,2025-11-01,Delivered,Mobile App
+987,189,2026-04-12,Delivered,Website
+988,239,2025-11-23,Delivered,Mobile App
+989,290,2026-07-25,Delivered,Website
+990,183,2025-07-01,Delivered,Website
+991,827,2026-02-18,Delivered,Mobile App
+992,969,2025-08-10,Delivered,Mobile App
+993,366,2025-08-24,Shipped,Mobile App
+994,598,2025-04-24,Cancelled,Website
+995,815,2026-04-15,Returned,Website
+996,625,2026-09-18,Cancelled,Marketplace
+997,891,2025-07-19,Processing,Website
+998,333,2026-09-05,Delivered,Mobile App
+999,425,2026-02-28,Delivered,Marketplace
+1000,21,2026-09-30,Delivered,Social Commerce
+1001,503,2025-02-19,Returned,Social Commerce
+1002,734,2026-02-22,Returned,Website
+1003,575,2025-09-12,Delivered,Marketplace
+1004,854,2025-11-06,Processing,Mobile App
+1005,798,2025-07-04,Delivered,Mobile App
+1006,867,2025-07-22,Delivered,Marketplace
+1007,913,2026-03-22,Delivered,Website
+1008,244,2025-07-04,Delivered,Mobile App
+1009,174,2025-05-20,Returned,Marketplace
+1010,219,2026-06-12,Delivered,Website
+1011,353,2026-06-05,Delivered,Website
+1012,506,2025-01-13,Delivered,Marketplace
+1013,197,2025-06-09,Delivered,Social Commerce
+1014,293,2025-06-11,Delivered,Social Commerce
+1015,282,2025-01-24,Delivered,Social Commerce
+1016,392,2025-10-29,Delivered,Marketplace
+1017,356,2026-08-23,Shipped,Website
+1018,356,2025-07-14,Delivered,Social Commerce
+1019,29,2025-04-17,Delivered,Website
+1020,109,2025-08-19,Delivered,Website
+1021,140,2026-05-17,Delivered,Website
+1022,746,2025-05-14,Returned,Mobile App
+1023,561,2025-10-09,Delivered,Mobile App
+1024,418,2025-09-05,Delivered,Website
+1025,135,2025-02-10,Cancelled,Social Commerce
+1026,220,2026-02-03,Delivered,Marketplace
+1027,784,2026-02-13,Delivered,Marketplace
+1028,304,2025-10-04,Delivered,Website
+1029,749,2025-04-08,Delivered,Website
+1030,749,2026-03-01,Delivered,Website
+1031,572,2025-12-31,Delivered,Website
+1032,8,2025-10-14,Delivered,Social Commerce
+1033,246,2026-02-18,Delivered,Mobile App
+1034,905,2025-08-25,Delivered,Mobile App
+1035,952,2026-08-15,Delivered,Mobile App
+1036,30,2025-10-29,Delivered,Social Commerce
+1037,483,2025-05-10,Processing,Social Commerce
+1038,455,2026-08-06,Processing,Social Commerce
+1039,409,2026-08-08,Returned,Social Commerce
+1040,599,2026-06-10,Processing,Mobile App
+1041,909,2025-02-27,Delivered,Social Commerce
+1042,518,2025-07-05,Delivered,Marketplace
+1043,344,2025-10-01,Processing,Marketplace
+1044,80,2026-05-20,Delivered,Website
+1045,264,2026-09-28,Delivered,Mobile App
+1046,161,2025-02-25,Delivered,Social Commerce
+1047,715,2026-02-15,Delivered,Social Commerce
+1048,561,2025-04-28,Shipped,Mobile App
+1049,436,2026-06-16,Delivered,Website
+1050,174,2026-08-13,Returned,Social Commerce
+1051,927,2025-08-31,Processing,Marketplace
+1052,493,2025-08-17,Delivered,Social Commerce
+1053,393,2025-09-29,Delivered,Mobile App
+1054,392,2025-06-06,Returned,Mobile App
+1055,365,2026-05-27,Processing,Marketplace
+1056,682,2025-11-05,Shipped,Website
+1057,830,2026-05-27,Delivered,Website
+1058,444,2025-07-10,Delivered,Website
+1059,870,2025-09-29,Cancelled,Social Commerce
+1060,862,2026-05-30,Processing,Mobile App
+1061,333,2025-12-17,Processing,Mobile App
+1062,727,2026-05-19,Returned,Website
+1063,893,2026-05-29,Delivered,Marketplace
+1064,511,2025-11-30,Delivered,Social Commerce
+1065,390,2025-02-22,Delivered,Website
+1066,932,2025-11-23,Delivered,Social Commerce
+1067,274,2026-04-16,Shipped,Marketplace
+1068,485,2026-05-05,Processing,Social Commerce
+1069,356,2025-04-29,Delivered,Mobile App
+1070,911,2026-04-09,Delivered,Marketplace
+1071,774,2025-07-04,Cancelled,Social Commerce
+1072,821,2026-03-08,Shipped,Social Commerce
+1073,55,2026-06-05,Processing,Mobile App
+1074,74,2026-09-18,Delivered,Marketplace
+1075,820,2026-03-26,Processing,Website
+1076,579,2026-05-15,Shipped,Marketplace
+1077,422,2026-05-07,Returned,Social Commerce
+1078,559,2025-09-05,Delivered,Marketplace
+1079,331,2025-04-03,Returned,Marketplace
+1080,350,2025-03-20,Cancelled,Website
+1081,512,2025-06-04,Delivered,Website
+1082,177,2026-02-06,Delivered,Social Commerce
+1083,351,2025-03-08,Processing,Social Commerce
+1084,128,2025-05-23,Cancelled,Marketplace
+1085,768,2026-06-15,Delivered,Marketplace
+1086,434,2025-11-25,Delivered,Mobile App
+1087,662,2026-06-02,Delivered,Website
+1088,834,2025-11-26,Delivered,Social Commerce
+1089,582,2026-04-27,Shipped,Marketplace
+1090,762,2026-09-20,Cancelled,Mobile App
+1091,453,2026-01-06,Delivered,Website
+1092,825,2026-05-30,Delivered,Marketplace
+1093,870,2025-11-09,Delivered,Marketplace
+1094,548,2025-10-31,Cancelled,Social Commerce
+1095,145,2026-05-22,Returned,Marketplace
+1096,469,2026-01-27,Delivered,Website
+1097,529,2025-01-02,Delivered,Mobile App
+1098,572,2026-09-07,Delivered,Mobile App
+1099,957,2025-06-06,Delivered,Mobile App
+1100,264,2026-06-12,Delivered,Website
+1101,260,2026-04-06,Delivered,Mobile App
+1102,899,2025-02-13,Processing,Website
+1103,416,2026-06-01,Delivered,Website
+1104,318,2026-06-11,Delivered,Social Commerce
+1105,811,2026-03-09,Shipped,Mobile App
+1106,675,2026-06-28,Returned,Website
+1107,72,2025-02-20,Shipped,Marketplace
+1108,260,2026-02-09,Returned,Marketplace
+1109,442,2026-07-27,Processing,Social Commerce
+1110,435,2025-12-07,Shipped,Marketplace
+1111,500,2026-01-20,Delivered,Social Commerce
+1112,923,2025-04-23,Delivered,Website
+1113,169,2026-07-09,Returned,Social Commerce
+1114,95,2026-03-01,Shipped,Marketplace
+1115,190,2025-08-21,Delivered,Social Commerce
+1116,150,2026-09-20,Delivered,Website
+1117,890,2025-02-15,Delivered,Marketplace
+1118,887,2025-04-25,Processing,Website
+1119,17,2026-05-22,Delivered,Social Commerce
+1120,805,2026-06-26,Returned,Social Commerce
+1121,256,2025-06-26,Delivered,Mobile App
+1122,660,2025-10-03,Delivered,Marketplace
+1123,641,2025-06-03,Processing,Social Commerce
+1124,310,2026-08-29,Shipped,Social Commerce
+1125,731,2026-02-20,Delivered,Marketplace
+1126,283,2025-09-26,Delivered,Mobile App
+1127,435,2025-10-23,Processing,Social Commerce
+1128,817,2026-01-06,Cancelled,Mobile App
+1129,349,2026-03-24,Delivered,Marketplace
+1130,854,2025-11-24,Returned,Social Commerce
+1131,282,2026-07-29,Delivered,Mobile App
+1132,94,2026-07-14,Delivered,Social Commerce
+1133,645,2026-02-09,Delivered,Website
+1134,281,2025-04-02,Shipped,Social Commerce
+1135,834,2026-03-15,Delivered,Marketplace
+1136,493,2025-10-14,Processing,Social Commerce
+1137,582,2026-08-12,Delivered,Social Commerce
+1138,896,2026-09-13,Shipped,Marketplace
+1139,769,2025-05-08,Delivered,Social Commerce
+1140,621,2026-03-05,Delivered,Social Commerce
+1141,111,2025-06-22,Shipped,Marketplace
+1142,900,2026-02-24,Delivered,Mobile App
+1143,15,2025-12-22,Shipped,Mobile App
+1144,131,2026-04-18,Delivered,Social Commerce
+1145,47,2025-07-21,Delivered,Social Commerce
+1146,143,2025-02-13,Delivered,Marketplace
+1147,37,2026-02-10,Delivered,Social Commerce
+1148,635,2026-07-13,Shipped,Website
+1149,542,2025-08-08,Returned,Website
+1150,873,2025-05-04,Delivered,Social Commerce
+1151,203,2026-06-09,Delivered,Website
+1152,436,2026-09-21,Returned,Website
+1153,982,2025-11-18,Delivered,Mobile App
+1154,480,2026-08-18,Delivered,Social Commerce
+1155,764,2025-12-28,Returned,Social Commerce
+1156,735,2025-04-19,Cancelled,Marketplace
+1157,287,2025-06-15,Delivered,Website
+1158,535,2026-07-25,Shipped,Website
+1159,270,2025-09-11,Delivered,Mobile App
+1160,315,2025-06-30,Shipped,Website
+1161,383,2026-07-27,Delivered,Mobile App
+1162,866,2025-09-17,Shipped,Website
+1163,383,2026-09-24,Cancelled,Marketplace
+1164,119,2026-05-24,Delivered,Website
+1165,620,2025-10-08,Delivered,Social Commerce
+1166,756,2025-12-08,Cancelled,Marketplace
+1167,603,2026-08-20,Delivered,Mobile App
+1168,234,2025-11-08,Delivered,Mobile App
+1169,503,2026-08-19,Delivered,Marketplace
+1170,162,2025-03-16,Returned,Marketplace
+1171,238,2025-05-26,Returned,Social Commerce
+1172,695,2026-05-18,Delivered,Mobile App
+1173,531,2025-05-27,Delivered,Social Commerce
+1174,682,2025-05-10,Delivered,Website
+1175,709,2025-05-15,Delivered,Social Commerce
+1176,896,2026-08-04,Processing,Mobile App
+1177,408,2026-05-04,Delivered,Website
+1178,608,2025-04-10,Shipped,Mobile App
+1179,273,2026-05-16,Shipped,Marketplace
+1180,347,2026-01-23,Delivered,Website
+1181,542,2026-09-18,Delivered,Mobile App
+1182,894,2026-05-19,Returned,Social Commerce
+1183,344,2025-04-24,Delivered,Social Commerce
+1184,37,2026-03-01,Delivered,Mobile App
+1185,445,2025-09-28,Delivered,Social Commerce
+1186,221,2026-08-25,Delivered,Mobile App
+1187,920,2025-08-21,Delivered,Marketplace
+1188,972,2025-08-17,Delivered,Marketplace
+1189,162,2025-07-15,Delivered,Website
+1190,421,2025-07-31,Delivered,Mobile App
+1191,962,2025-01-31,Delivered,Website
+1192,344,2026-07-03,Delivered,Social Commerce
+1193,890,2026-04-03,Returned,Marketplace
+1194,870,2025-12-21,Processing,Social Commerce
+1195,146,2026-03-12,Shipped,Social Commerce
+1196,741,2026-06-06,Delivered,Website
+1197,100,2026-04-09,Processing,Website
+1198,493,2025-12-02,Delivered,Website
+1199,964,2025-05-29,Delivered,Social Commerce
+1200,984,2025-01-11,Processing,Marketplace
+1201,638,2026-04-29,Delivered,Mobile App
+1202,529,2025-02-03,Returned,Social Commerce
+1203,363,2025-11-21,Delivered,Marketplace
+1204,388,2025-08-05,Processing,Mobile App
+1205,793,2026-09-10,Delivered,Social Commerce
+1206,275,2025-04-12,Returned,Social Commerce
+1207,317,2026-03-23,Delivered,Website
+1208,379,2025-12-17,Delivered,Social Commerce
+1209,560,2026-07-16,Delivered,Marketplace
+1210,197,2025-02-11,Delivered,Marketplace
+1211,341,2025-12-07,Shipped,Website
+1212,142,2026-02-27,Delivered,Social Commerce
+1213,256,2026-01-17,Delivered,Social Commerce
+1214,213,2026-04-30,Delivered,Social Commerce
+1215,703,2025-05-25,Delivered,Website
+1216,469,2026-01-03,Processing,Website
+1217,807,2025-10-11,Delivered,Marketplace
+1218,251,2025-03-29,Delivered,Website
+1219,235,2025-11-14,Delivered,Website
+1220,230,2025-10-31,Returned,Mobile App
+1221,640,2025-04-27,Delivered,Website
+1222,319,2025-08-05,Delivered,Social Commerce
+1223,21,2025-05-22,Delivered,Social Commerce
+1224,461,2025-06-17,Delivered,Social Commerce
+1225,821,2025-10-31,Delivered,Website
+1226,129,2025-06-03,Delivered,Mobile App
+1227,424,2025-06-22,Delivered,Website
+1228,662,2026-04-04,Cancelled,Marketplace
+1229,747,2025-08-05,Delivered,Website
+1230,519,2025-09-08,Delivered,Marketplace
+1231,620,2025-04-28,Delivered,Social Commerce
+1232,174,2026-04-25,Returned,Mobile App
+1233,899,2026-08-04,Delivered,Mobile App
+1234,306,2025-03-08,Delivered,Social Commerce
+1235,403,2026-08-19,Returned,Mobile App
+1236,830,2025-12-31,Delivered,Social Commerce
+1237,886,2025-01-07,Cancelled,Mobile App
+1238,608,2025-08-11,Delivered,Social Commerce
+1239,783,2025-04-14,Shipped,Marketplace
+1240,252,2026-02-05,Processing,Marketplace
+1241,457,2025-06-04,Processing,Marketplace
+1242,53,2025-10-10,Shipped,Marketplace
+1243,555,2025-01-26,Shipped,Mobile App
+1244,373,2025-02-11,Delivered,Marketplace
+1245,358,2026-01-16,Delivered,Social Commerce
+1246,281,2025-11-27,Returned,Social Commerce
+1247,175,2026-08-29,Delivered,Social Commerce
+1248,693,2026-06-09,Processing,Marketplace
+1249,528,2026-07-17,Delivered,Social Commerce
+1250,65,2025-09-05,Delivered,Marketplace
+1251,901,2026-07-26,Delivered,Social Commerce
+1252,560,2025-06-17,Delivered,Website
+1253,28,2025-08-13,Delivered,Mobile App
+1254,82,2025-12-07,Shipped,Mobile App
+1255,392,2026-03-08,Delivered,Mobile App
+1256,103,2025-03-20,Processing,Social Commerce
+1257,690,2025-12-07,Delivered,Marketplace
+1258,375,2025-08-03,Delivered,Social Commerce
+1259,664,2025-03-15,Cancelled,Marketplace
+1260,815,2025-03-17,Delivered,Social Commerce
+1261,777,2026-03-28,Processing,Marketplace
+1262,597,2026-09-23,Delivered,Marketplace
+1263,910,2026-08-28,Delivered,Social Commerce
+1264,873,2026-01-01,Delivered,Social Commerce
+1265,478,2025-02-15,Delivered,Marketplace
+1266,370,2025-10-22,Delivered,Website
+1267,726,2026-01-17,Shipped,Marketplace
+1268,169,2025-11-02,Delivered,Mobile App
+1269,891,2026-02-23,Delivered,Mobile App
+1270,965,2026-07-31,Delivered,Website
+1271,872,2025-06-11,Cancelled,Mobile App
+1272,791,2025-09-11,Processing,Mobile App
+1273,322,2025-06-14,Delivered,Social Commerce
+1274,546,2026-04-19,Delivered,Website
+1275,679,2025-07-15,Returned,Website
+1276,92,2025-06-24,Delivered,Mobile App
+1277,295,2025-08-19,Delivered,Marketplace
+1278,448,2026-05-25,Delivered,Social Commerce
+1279,245,2026-07-22,Shipped,Website
+1280,26,2026-08-24,Shipped,Website
+1281,388,2025-10-21,Returned,Website
+1282,327,2025-04-15,Shipped,Website
+1283,146,2026-06-03,Delivered,Social Commerce
+1284,412,2025-01-14,Shipped,Social Commerce
+1285,113,2026-07-22,Delivered,Website
+1286,681,2025-04-19,Delivered,Marketplace
+1287,868,2025-10-27,Delivered,Social Commerce
+1288,412,2025-04-01,Shipped,Website
+1289,150,2026-09-22,Delivered,Website
+1290,340,2025-04-12,Returned,Mobile App
+1291,958,2026-06-23,Cancelled,Mobile App
+1292,502,2025-01-23,Delivered,Website
+1293,323,2026-05-07,Processing,Social Commerce
+1294,563,2025-11-06,Delivered,Social Commerce
+1295,40,2025-12-28,Cancelled,Website
+1296,329,2026-01-21,Delivered,Social Commerce
+1297,885,2025-01-07,Cancelled,Website
+1298,197,2026-04-14,Cancelled,Website
+1299,813,2026-06-29,Delivered,Website
+1300,729,2025-01-24,Delivered,Marketplace
+1301,262,2025-03-13,Processing,Marketplace
+1302,258,2025-11-02,Delivered,Marketplace
+1303,459,2025-11-30,Delivered,Marketplace
+1304,682,2025-09-18,Cancelled,Social Commerce
+1305,312,2026-05-09,Delivered,Social Commerce
+1306,401,2026-08-02,Shipped,Social Commerce
+1307,30,2026-03-09,Processing,Social Commerce
+1308,388,2025-05-23,Cancelled,Social Commerce
+1309,841,2025-06-15,Returned,Marketplace
+1310,768,2026-08-02,Returned,Marketplace
+1311,314,2025-10-03,Shipped,Mobile App
+1312,687,2026-02-16,Delivered,Mobile App
+1313,890,2026-07-08,Processing,Social Commerce
+1314,402,2026-04-22,Returned,Marketplace
+1315,459,2025-04-20,Delivered,Website
+1316,244,2026-07-10,Returned,Social Commerce
+1317,23,2026-03-27,Returned,Social Commerce
+1318,723,2025-08-13,Delivered,Website
+1319,907,2026-07-30,Delivered,Social Commerce
+1320,312,2025-01-03,Delivered,Mobile App
+1321,949,2025-09-14,Delivered,Website
+1322,829,2026-01-16,Delivered,Mobile App
+1323,737,2026-06-15,Delivered,Marketplace
+1324,37,2025-01-24,Processing,Social Commerce
+1325,606,2026-06-15,Shipped,Mobile App
+1326,792,2025-05-16,Delivered,Mobile App
+1327,124,2026-05-31,Shipped,Marketplace
+1328,828,2025-05-31,Delivered,Website
+1329,444,2025-07-03,Cancelled,Mobile App
+1330,848,2025-07-15,Delivered,Website
+1331,796,2026-07-15,Cancelled,Marketplace
+1332,371,2025-12-13,Cancelled,Mobile App
+1333,583,2026-01-13,Delivered,Social Commerce
+1334,38,2026-02-22,Delivered,Website
+1335,873,2026-05-04,Cancelled,Website
+1336,841,2026-08-15,Delivered,Social Commerce
+1337,494,2025-05-19,Processing,Website
+1338,228,2025-03-23,Delivered,Social Commerce
+1339,657,2025-06-12,Returned,Marketplace
+1340,988,2026-08-29,Shipped,Website
+1341,716,2025-01-23,Shipped,Marketplace
+1342,952,2025-01-11,Delivered,Social Commerce
+1343,90,2025-10-07,Delivered,Website
+1344,314,2025-08-30,Delivered,Mobile App
+1345,55,2026-06-22,Delivered,Mobile App
+1346,78,2025-07-05,Processing,Mobile App
+1347,865,2026-09-13,Delivered,Social Commerce
+1348,509,2026-06-18,Delivered,Social Commerce
+1349,344,2026-03-14,Delivered,Website
+1350,933,2025-11-18,Delivered,Social Commerce
+1351,647,2025-09-27,Delivered,Website
+1352,594,2026-08-19,Processing,Mobile App
+1353,212,2026-06-16,Delivered,Website
+1354,659,2025-05-06,Delivered,Social Commerce
+1355,809,2025-06-12,Shipped,Mobile App
+1356,331,2025-01-28,Returned,Marketplace
+1357,820,2025-03-24,Delivered,Marketplace
+1358,704,2025-06-14,Delivered,Marketplace
+1359,280,2025-03-06,Delivered,Mobile App
+1360,220,2025-05-09,Delivered,Website
+1361,256,2025-09-06,Returned,Social Commerce
+1362,574,2026-09-28,Processing,Marketplace
+1363,53,2026-01-01,Delivered,Social Commerce
+1364,1,2025-03-28,Delivered,Social Commerce
+1365,134,2026-04-16,Delivered,Social Commerce
+1366,556,2026-01-30,Delivered,Mobile App
+1367,115,2026-07-05,Returned,Social Commerce
+1368,563,2025-01-21,Cancelled,Mobile App
+1369,539,2025-06-01,Processing,Mobile App
+1370,108,2025-05-06,Shipped,Social Commerce
+1371,920,2025-11-27,Delivered,Mobile App
+1372,953,2026-01-01,Delivered,Mobile App
+1373,329,2025-05-13,Delivered,Mobile App
+1374,431,2026-08-02,Cancelled,Marketplace
+1375,70,2025-10-18,Delivered,Mobile App
+1376,282,2025-10-01,Shipped,Mobile App
+1377,896,2025-08-18,Delivered,Mobile App
+1378,65,2025-07-22,Delivered,Website
+1379,496,2025-11-29,Delivered,Social Commerce
+1380,711,2026-09-04,Delivered,Social Commerce
+1381,287,2026-01-22,Delivered,Mobile App
+1382,749,2025-03-14,Delivered,Marketplace
+1383,964,2025-09-17,Processing,Website
+1384,933,2025-01-25,Delivered,Website
+1385,965,2025-07-01,Delivered,Mobile App
+1386,513,2026-04-07,Cancelled,Social Commerce
+1387,503,2026-04-13,Cancelled,Social Commerce
+1388,674,2026-02-08,Delivered,Marketplace
+1389,531,2026-09-27,Delivered,Website
+1390,460,2025-12-03,Delivered,Marketplace
+1391,527,2026-02-22,Delivered,Social Commerce
+1392,325,2026-09-06,Delivered,Website
+1393,835,2026-01-06,Delivered,Mobile App
+1394,99,2025-09-27,Delivered,Marketplace
+1395,529,2025-04-24,Delivered,Mobile App
+1396,725,2026-04-10,Delivered,Social Commerce
+1397,122,2025-06-30,Returned,Mobile App
+1398,127,2026-04-18,Delivered,Mobile App
+1399,439,2026-01-14,Processing,Marketplace
+1400,613,2025-01-26,Delivered,Social Commerce
+1401,864,2026-04-27,Delivered,Mobile App
+1402,835,2025-04-14,Returned,Mobile App
+1403,38,2026-04-26,Shipped,Mobile App
+1404,203,2025-04-21,Shipped,Marketplace
+1405,18,2026-09-12,Processing,Website
+1406,973,2026-07-03,Delivered,Social Commerce
+1407,583,2025-12-11,Cancelled,Mobile App
+1408,610,2026-01-05,Delivered,Mobile App
+1409,244,2026-05-24,Delivered,Marketplace
+1410,188,2025-01-17,Delivered,Website
+1411,611,2025-01-07,Delivered,Social Commerce
+1412,571,2025-02-08,Processing,Website
+1413,312,2026-04-16,Cancelled,Website
+1414,473,2025-10-02,Delivered,Marketplace
+1415,209,2026-06-19,Processing,Website
+1416,832,2025-03-03,Cancelled,Mobile App
+1417,298,2026-03-22,Delivered,Social Commerce
+1418,731,2025-08-07,Delivered,Marketplace
+1419,243,2025-06-21,Delivered,Mobile App
+1420,872,2026-08-04,Processing,Mobile App
+1421,196,2025-07-05,Returned,Marketplace
+1422,952,2026-01-15,Returned,Social Commerce
+1423,681,2025-01-03,Delivered,Website
+1424,58,2025-07-18,Cancelled,Social Commerce
+1425,308,2026-05-06,Cancelled,Social Commerce
+1426,596,2025-05-10,Shipped,Social Commerce
+1427,716,2026-09-27,Delivered,Social Commerce
+1428,334,2025-09-27,Delivered,Marketplace
+1429,534,2026-02-25,Delivered,Website
+1430,373,2026-05-23,Shipped,Website
+1431,195,2026-07-15,Delivered,Social Commerce
+1432,862,2025-12-28,Delivered,Marketplace
+1433,935,2025-11-15,Delivered,Social Commerce
+1434,782,2025-12-14,Shipped,Social Commerce
+1435,693,2026-06-26,Shipped,Mobile App
+1436,844,2025-09-30,Delivered,Marketplace
+1437,46,2026-01-25,Delivered,Website
+1438,540,2025-11-20,Processing,Website
+1439,43,2025-06-12,Cancelled,Social Commerce
+1440,902,2025-12-17,Shipped,Social Commerce
+1441,668,2026-04-25,Delivered,Website
+1442,35,2025-12-12,Delivered,Website
+1443,262,2025-07-20,Delivered,Social Commerce
+1444,902,2026-01-12,Delivered,Social Commerce
+1445,208,2025-01-08,Delivered,Social Commerce
+1446,844,2026-01-02,Delivered,Marketplace
+1447,749,2025-06-26,Delivered,Website
+1448,607,2025-01-28,Delivered,Website
+1449,187,2025-02-14,Delivered,Mobile App
+1450,334,2026-06-03,Cancelled,Website
+1451,482,2025-06-15,Shipped,Social Commerce
+1452,189,2026-03-05,Processing,Marketplace
+1453,718,2026-01-11,Delivered,Social Commerce
+1454,469,2026-05-01,Delivered,Marketplace
+1455,392,2025-01-25,Delivered,Marketplace
+1456,107,2026-08-26,Delivered,Social Commerce
+1457,385,2025-10-04,Delivered,Marketplace
+1458,953,2026-04-18,Delivered,Website
+1459,749,2025-04-21,Cancelled,Marketplace
+1460,184,2025-07-02,Delivered,Website
+1461,881,2025-05-05,Delivered,Marketplace
+1462,652,2025-03-23,Delivered,Website
+1463,513,2026-02-09,Cancelled,Mobile App
+1464,518,2026-09-21,Delivered,Mobile App
+1465,352,2026-02-10,Delivered,Mobile App
+1466,656,2026-06-15,Delivered,Social Commerce
+1467,478,2025-04-16,Delivered,Mobile App
+1468,523,2026-05-02,Delivered,Website
+1469,721,2025-06-08,Returned,Social Commerce
+1470,283,2026-07-10,Delivered,Website
+1471,709,2025-09-20,Delivered,Marketplace
+1472,394,2026-05-08,Returned,Website
+1473,821,2025-06-19,Delivered,Social Commerce
+1474,313,2026-05-24,Returned,Marketplace
+1475,878,2025-01-29,Returned,Social Commerce
+1476,712,2026-07-05,Processing,Mobile App
+1477,22,2025-04-17,Cancelled,Website
+1478,798,2025-07-17,Cancelled,Marketplace
+1479,94,2026-03-18,Delivered,Mobile App
+1480,77,2026-05-25,Delivered,Website
+1481,404,2026-04-19,Returned,Marketplace
+1482,506,2025-05-31,Returned,Mobile App
+1483,564,2026-09-02,Delivered,Social Commerce
+1484,179,2026-08-05,Delivered,Marketplace
+1485,346,2025-12-08,Processing,Mobile App
+1486,767,2026-05-04,Shipped,Marketplace
+1487,947,2025-10-29,Delivered,Marketplace
+1488,993,2026-03-24,Delivered,Website
+1489,216,2025-07-16,Delivered,Marketplace
+1490,251,2026-05-10,Cancelled,Website
+1491,181,2025-07-08,Delivered,Mobile App
+1492,973,2026-07-24,Delivered,Social Commerce
+1493,583,2026-01-24,Shipped,Mobile App
+1494,821,2026-03-06,Delivered,Website
+1495,714,2025-12-19,Delivered,Mobile App
+1496,100,2025-12-08,Delivered,Mobile App
+1497,298,2025-02-10,Delivered,Website
+1498,803,2025-01-28,Delivered,Marketplace
+1499,497,2025-04-26,Processing,Social Commerce
+1500,647,2026-07-10,Shipped,Website
+1501,685,2026-05-28,Delivered,Social Commerce
+1502,388,2025-06-29,Delivered,Mobile App
+1503,552,2025-02-02,Delivered,Website
+1504,278,2025-01-16,Delivered,Social Commerce
+1505,418,2025-04-03,Delivered,Website
+1506,478,2026-02-24,Delivered,Mobile App
+1507,155,2025-08-01,Shipped,Marketplace
+1508,809,2025-04-29,Delivered,Marketplace
+1509,438,2025-03-17,Delivered,Social Commerce
+1510,449,2025-05-25,Delivered,Website
+1511,869,2026-08-08,Delivered,Marketplace
+1512,889,2025-08-22,Processing,Social Commerce
+1513,574,2025-03-27,Delivered,Mobile App
+1514,759,2025-06-08,Returned,Marketplace
+1515,196,2025-05-05,Shipped,Marketplace
+1516,68,2026-03-30,Delivered,Website
+1517,403,2026-06-13,Delivered,Marketplace
+1518,171,2026-02-03,Delivered,Marketplace
+1519,108,2026-09-19,Delivered,Mobile App
+1520,53,2025-07-13,Delivered,Website
+1521,33,2026-06-20,Delivered,Mobile App
+1522,331,2025-01-07,Delivered,Website
+1523,24,2025-08-25,Delivered,Marketplace
+1524,175,2026-07-09,Delivered,Marketplace
+1525,981,2025-01-30,Shipped,Social Commerce
+1526,59,2026-05-15,Shipped,Website
+1527,164,2026-02-23,Delivered,Marketplace
+1528,255,2026-01-03,Shipped,Marketplace
+1529,762,2025-01-23,Delivered,Social Commerce
+1530,147,2025-09-25,Shipped,Mobile App
+1531,392,2026-06-26,Returned,Website
+1532,871,2025-07-17,Shipped,Mobile App
+1533,560,2026-08-03,Delivered,Marketplace
+1534,963,2026-09-01,Shipped,Mobile App
+1535,147,2025-08-06,Delivered,Social Commerce
+1536,161,2025-08-28,Delivered,Social Commerce
+1537,324,2025-08-17,Delivered,Mobile App
+1538,652,2025-10-18,Processing,Marketplace
+1539,774,2025-11-11,Delivered,Marketplace
+1540,418,2026-03-13,Processing,Mobile App
+1541,309,2026-08-16,Processing,Social Commerce
+1542,37,2026-05-06,Shipped,Mobile App
+1543,544,2026-08-16,Processing,Marketplace
+1544,340,2026-09-04,Shipped,Marketplace
+1545,276,2026-07-19,Cancelled,Mobile App
+1546,529,2026-05-28,Returned,Marketplace
+1547,163,2025-08-04,Shipped,Social Commerce
+1548,636,2025-06-24,Shipped,Mobile App
+1549,686,2025-05-28,Returned,Website
+1550,332,2025-12-09,Delivered,Social Commerce
+1551,773,2026-01-05,Delivered,Social Commerce
+1552,682,2025-04-14,Delivered,Social Commerce
+1553,519,2026-05-23,Delivered,Mobile App
+1554,146,2025-11-09,Cancelled,Marketplace
+1555,723,2026-05-23,Processing,Mobile App
+1556,989,2026-03-28,Delivered,Website
+1557,379,2025-05-11,Shipped,Marketplace
+1558,405,2026-04-05,Processing,Website
+1559,95,2026-01-06,Shipped,Mobile App
+1560,336,2025-04-28,Delivered,Marketplace
+1561,763,2025-07-26,Processing,Mobile App
+1562,868,2025-11-30,Cancelled,Marketplace
+1563,602,2025-08-14,Delivered,Marketplace
+1564,514,2025-04-26,Delivered,Mobile App
+1565,118,2025-09-01,Delivered,Marketplace
+1566,863,2025-10-31,Delivered,Website
+1567,629,2025-01-11,Delivered,Mobile App
+1568,645,2025-03-21,Shipped,Website
+1569,566,2025-06-28,Processing,Social Commerce
+1570,814,2025-06-05,Processing,Mobile App
+1571,831,2026-05-05,Processing,Mobile App
+1572,284,2025-09-30,Returned,Social Commerce
+1573,679,2025-01-20,Delivered,Website
+1574,213,2025-09-30,Delivered,Mobile App
+1575,980,2026-07-16,Delivered,Social Commerce
+1576,616,2026-08-02,Delivered,Social Commerce
+1577,422,2025-08-17,Processing,Website
+1578,714,2026-04-11,Delivered,Mobile App
+1579,521,2025-08-28,Delivered,Website
+1580,51,2025-01-13,Shipped,Website
+1581,456,2025-07-02,Shipped,Social Commerce
+1582,33,2025-04-16,Returned,Social Commerce
+1583,462,2025-10-18,Delivered,Website
+1584,795,2025-08-26,Delivered,Website
+1585,736,2026-03-12,Shipped,Marketplace
+1586,929,2026-01-24,Processing,Mobile App
+1587,373,2025-08-03,Cancelled,Website
+1588,393,2025-05-14,Shipped,Mobile App
+1589,7,2026-03-18,Cancelled,Website
+1590,231,2025-11-15,Shipped,Website
+1591,592,2025-10-04,Delivered,Social Commerce
+1592,316,2025-05-21,Delivered,Website
+1593,610,2026-09-13,Delivered,Mobile App
+1594,711,2026-01-07,Delivered,Website
+1595,240,2026-05-09,Shipped,Social Commerce
+1596,574,2025-04-26,Delivered,Marketplace
+1597,222,2025-03-06,Delivered,Marketplace
+1598,802,2026-04-19,Delivered,Website
+1599,466,2025-03-13,Delivered,Social Commerce
+1600,582,2026-09-29,Delivered,Website
+1601,697,2026-05-01,Processing,Marketplace
+1602,201,2025-11-08,Shipped,Marketplace
+1603,546,2025-01-26,Delivered,Mobile App
+1604,78,2026-04-01,Delivered,Social Commerce
+1605,904,2025-11-22,Delivered,Website
+1606,31,2025-11-07,Shipped,Website
+1607,864,2026-05-26,Delivered,Website
+1608,90,2025-12-05,Processing,Social Commerce
+1609,111,2025-10-11,Shipped,Website
+1610,165,2025-03-13,Shipped,Mobile App
+1611,357,2025-06-30,Delivered,Social Commerce
+1612,369,2025-10-20,Delivered,Social Commerce
+1613,879,2025-11-07,Delivered,Social Commerce
+1614,520,2025-01-30,Delivered,Marketplace
+1615,928,2025-12-10,Cancelled,Mobile App
+1616,484,2025-11-21,Shipped,Website
+1617,764,2026-09-14,Shipped,Mobile App
+1618,338,2025-01-20,Delivered,Mobile App
+1619,945,2025-01-22,Delivered,Website
+1620,444,2026-02-21,Delivered,Social Commerce
+1621,559,2025-10-21,Delivered,Mobile App
+1622,1000,2026-02-24,Delivered,Social Commerce
+1623,823,2026-06-22,Delivered,Marketplace
+1624,52,2026-08-23,Delivered,Mobile App
+1625,795,2025-11-22,Delivered,Mobile App
+1626,207,2025-08-13,Delivered,Mobile App
+1627,923,2025-02-09,Delivered,Website
+1628,282,2025-07-10,Delivered,Mobile App
+1629,696,2025-07-05,Delivered,Website
+1630,571,2025-10-15,Shipped,Mobile App
+1631,763,2026-08-27,Delivered,Mobile App
+1632,252,2025-09-01,Delivered,Marketplace
+1633,435,2026-07-06,Shipped,Website
+1634,743,2025-11-04,Returned,Mobile App
+1635,525,2025-08-02,Delivered,Marketplace
+1636,822,2026-03-07,Delivered,Social Commerce
+1637,703,2025-03-10,Delivered,Mobile App
+1638,608,2025-10-31,Delivered,Marketplace
+1639,226,2025-03-20,Delivered,Marketplace
+1640,814,2026-06-08,Shipped,Marketplace
+1641,642,2026-04-27,Returned,Social Commerce
+1642,319,2026-04-24,Delivered,Social Commerce
+1643,864,2025-08-13,Delivered,Marketplace
+1644,86,2025-07-22,Delivered,Mobile App
+1645,266,2025-08-03,Delivered,Website
+1646,763,2025-11-01,Delivered,Mobile App
+1647,941,2025-05-04,Delivered,Marketplace
+1648,251,2025-10-18,Processing,Mobile App
+1649,260,2025-09-30,Delivered,Mobile App
+1650,450,2025-03-03,Delivered,Social Commerce
+1651,441,2025-01-16,Cancelled,Social Commerce
+1652,701,2025-07-19,Cancelled,Website
+1653,702,2025-09-12,Processing,Mobile App
+1654,753,2026-05-28,Shipped,Social Commerce
+1655,536,2025-09-03,Delivered,Social Commerce
+1656,453,2025-08-30,Delivered,Marketplace
+1657,806,2025-02-22,Delivered,Mobile App
+1658,117,2025-08-19,Shipped,Mobile App
+1659,560,2025-11-01,Delivered,Website
+1660,599,2025-11-10,Delivered,Marketplace
+1661,11,2025-06-13,Shipped,Website
+1662,420,2026-04-29,Cancelled,Website
+1663,16,2026-08-23,Shipped,Website
+1664,715,2025-10-25,Delivered,Social Commerce
+1665,684,2025-12-04,Processing,Mobile App
+1666,969,2026-06-29,Shipped,Marketplace
+1667,606,2026-05-30,Delivered,Mobile App
+1668,650,2026-09-10,Delivered,Mobile App
+1669,819,2025-09-28,Delivered,Mobile App
+1670,851,2026-08-15,Shipped,Website
+1671,685,2026-02-16,Delivered,Mobile App
+1672,68,2026-07-28,Delivered,Mobile App
+1673,113,2025-05-17,Delivered,Mobile App
+1674,319,2025-09-08,Delivered,Marketplace
+1675,12,2026-03-14,Delivered,Marketplace
+1676,106,2026-09-06,Delivered,Website
+1677,660,2025-11-19,Processing,Website
+1678,471,2026-07-08,Delivered,Marketplace
+1679,103,2026-08-20,Delivered,Website
+1680,689,2026-06-15,Processing,Marketplace
+1681,316,2026-02-18,Delivered,Social Commerce
+1682,388,2026-08-27,Delivered,Website
+1683,52,2025-03-29,Delivered,Website
+1684,279,2025-03-15,Delivered,Website
+1685,218,2026-02-18,Delivered,Website
+1686,679,2025-03-10,Delivered,Marketplace
+1687,215,2026-03-05,Delivered,Social Commerce
+1688,959,2025-10-12,Delivered,Website
+1689,392,2025-06-04,Delivered,Marketplace
+1690,957,2026-03-15,Delivered,Marketplace
+1691,801,2025-01-21,Shipped,Marketplace
+1692,748,2025-11-13,Delivered,Website
+1693,851,2026-08-19,Delivered,Website
+1694,214,2026-05-08,Delivered,Website
+1695,198,2025-12-01,Delivered,Marketplace
+1696,919,2025-07-10,Delivered,Social Commerce
+1697,291,2026-09-25,Delivered,Social Commerce
+1698,760,2025-01-06,Delivered,Website
+1699,167,2026-08-16,Delivered,Mobile App
+1700,922,2026-09-10,Returned,Marketplace
+1701,558,2025-02-26,Delivered,Marketplace
+1702,246,2026-08-27,Delivered,Social Commerce
+1703,104,2026-07-12,Delivered,Marketplace
+1704,802,2026-01-24,Delivered,Marketplace
+1705,525,2025-12-21,Shipped,Mobile App
+1706,715,2026-06-19,Delivered,Marketplace
+1707,350,2025-07-05,Shipped,Website
+1708,753,2025-10-07,Shipped,Website
+1709,83,2025-04-05,Delivered,Website
+1710,153,2025-12-12,Delivered,Social Commerce
+1711,694,2025-02-04,Delivered,Marketplace
+1712,51,2026-02-18,Cancelled,Mobile App
+1713,360,2026-02-19,Shipped,Social Commerce
+1714,361,2026-04-11,Delivered,Social Commerce
+1715,119,2025-09-24,Delivered,Mobile App
+1716,938,2025-03-22,Delivered,Website
+1717,232,2025-03-29,Cancelled,Mobile App
+1718,585,2025-12-09,Delivered,Mobile App
+1719,129,2026-09-20,Delivered,Marketplace
+1720,151,2025-10-28,Returned,Social Commerce
+1721,681,2025-12-02,Delivered,Website
+1722,527,2025-11-23,Returned,Social Commerce
+1723,323,2026-05-17,Shipped,Website
+1724,715,2026-08-18,Shipped,Mobile App
+1725,602,2025-11-18,Delivered,Website
+1726,523,2025-02-11,Returned,Social Commerce
+1727,893,2025-12-14,Shipped,Social Commerce
+1728,249,2025-02-04,Delivered,Mobile App
+1729,28,2025-03-03,Returned,Website
+1730,716,2026-01-11,Delivered,Social Commerce
+1731,662,2025-04-14,Processing,Mobile App
+1732,476,2025-01-29,Delivered,Website
+1733,17,2025-01-21,Returned,Marketplace
+1734,434,2025-05-29,Delivered,Website
+1735,105,2026-08-21,Delivered,Mobile App
+1736,173,2025-04-29,Delivered,Social Commerce
+1737,179,2026-03-25,Delivered,Mobile App
+1738,677,2026-07-03,Returned,Website
+1739,207,2025-05-24,Delivered,Mobile App
+1740,567,2025-10-26,Delivered,Marketplace
+1741,761,2026-07-15,Delivered,Website
+1742,434,2026-02-21,Delivered,Social Commerce
+1743,323,2026-01-14,Cancelled,Marketplace
+1744,641,2025-08-23,Delivered,Mobile App
+1745,58,2026-01-22,Shipped,Website
+1746,443,2025-05-09,Returned,Website
+1747,417,2025-01-11,Shipped,Website
+1748,292,2025-07-16,Processing,Website
+1749,576,2026-02-28,Processing,Mobile App
+1750,695,2025-06-13,Delivered,Website
+1751,946,2025-02-03,Returned,Mobile App
+1752,907,2026-07-24,Delivered,Marketplace
+1753,690,2026-08-06,Shipped,Marketplace
+1754,676,2025-01-28,Delivered,Social Commerce
+1755,614,2025-06-25,Returned,Marketplace
+1756,884,2025-11-10,Delivered,Website
+1757,320,2025-01-24,Cancelled,Marketplace
+1758,259,2025-05-09,Shipped,Marketplace
+1759,73,2025-05-11,Delivered,Social Commerce
+1760,23,2026-05-15,Delivered,Website
+1761,114,2026-06-29,Delivered,Mobile App
+1762,709,2025-05-16,Delivered,Website
+1763,816,2026-01-24,Delivered,Website
+1764,509,2026-07-26,Delivered,Website
+1765,992,2025-10-20,Delivered,Marketplace
+1766,360,2025-03-04,Delivered,Website
+1767,925,2025-08-18,Processing,Website
+1768,426,2026-03-09,Delivered,Mobile App
+1769,729,2025-04-02,Delivered,Mobile App
+1770,28,2025-12-04,Delivered,Website
+1771,440,2025-12-19,Delivered,Marketplace
+1772,125,2026-01-21,Delivered,Social Commerce
+1773,68,2025-12-02,Processing,Social Commerce
+1774,216,2025-10-02,Delivered,Website
+1775,924,2025-12-30,Delivered,Website
+1776,956,2026-05-07,Returned,Marketplace
+1777,291,2026-09-06,Delivered,Marketplace
+1778,617,2026-06-02,Delivered,Mobile App
+1779,22,2026-08-04,Processing,Social Commerce
+1780,508,2026-07-12,Delivered,Website
+1781,180,2026-08-05,Returned,Website
+1782,663,2025-04-03,Delivered,Marketplace
+1783,430,2026-01-18,Shipped,Mobile App
+1784,404,2026-07-06,Shipped,Social Commerce
+1785,289,2025-10-22,Delivered,Mobile App
+1786,424,2025-04-23,Cancelled,Social Commerce
+1787,723,2025-09-18,Delivered,Mobile App
+1788,458,2026-01-02,Delivered,Marketplace
+1789,692,2026-01-29,Shipped,Website
+1790,293,2025-02-18,Returned,Social Commerce
+1791,490,2026-03-25,Shipped,Website
+1792,681,2025-01-05,Shipped,Mobile App
+1793,541,2025-04-10,Delivered,Marketplace
+1794,334,2025-05-20,Cancelled,Website
+1795,383,2025-02-14,Delivered,Website
+1796,432,2025-08-20,Returned,Social Commerce
+1797,26,2026-06-12,Delivered,Social Commerce
+1798,567,2026-03-10,Delivered,Website
+1799,218,2025-03-25,Processing,Marketplace
+1800,94,2025-05-23,Delivered,Social Commerce
+1801,194,2025-02-21,Shipped,Marketplace
+1802,963,2026-07-01,Delivered,Mobile App
+1803,660,2026-02-14,Delivered,Marketplace
+1804,758,2025-09-01,Delivered,Social Commerce
+1805,666,2026-03-22,Delivered,Website
+1806,985,2026-07-08,Returned,Website
+1807,564,2025-06-22,Shipped,Website
+1808,576,2026-05-08,Delivered,Marketplace
+1809,244,2026-05-26,Delivered,Social Commerce
+1810,702,2025-05-10,Cancelled,Website
+1811,436,2025-12-01,Delivered,Social Commerce
+1812,526,2026-01-03,Shipped,Mobile App
+1813,926,2025-11-23,Cancelled,Website
+1814,736,2026-06-06,Delivered,Marketplace
+1815,49,2025-08-30,Returned,Social Commerce
+1816,500,2026-08-31,Delivered,Mobile App
+1817,245,2026-09-29,Delivered,Website
+1818,323,2026-08-08,Delivered,Marketplace
+1819,555,2026-08-09,Shipped,Website
+1820,611,2025-03-27,Shipped,Marketplace
+1821,702,2025-01-12,Delivered,Social Commerce
+1822,733,2026-01-17,Delivered,Mobile App
+1823,1,2025-09-01,Shipped,Marketplace
+1824,868,2025-03-13,Cancelled,Marketplace
+1825,818,2025-04-12,Delivered,Mobile App
+1826,933,2025-11-01,Delivered,Marketplace
+1827,791,2025-12-24,Delivered,Marketplace
+1828,607,2025-01-08,Delivered,Marketplace
+1829,139,2025-01-06,Returned,Marketplace
+1830,942,2026-09-14,Cancelled,Mobile App
+1831,834,2025-10-17,Delivered,Website
+1832,956,2026-05-28,Delivered,Mobile App
+1833,896,2025-02-11,Returned,Marketplace
+1834,34,2025-07-14,Delivered,Website
+1835,209,2025-01-31,Delivered,Website
+1836,68,2025-04-23,Processing,Mobile App
+1837,964,2025-08-02,Delivered,Marketplace
+1838,107,2025-12-17,Shipped,Marketplace
+1839,903,2026-07-22,Delivered,Marketplace
+1840,371,2026-07-18,Delivered,Marketplace
+1841,458,2025-10-30,Delivered,Social Commerce
+1842,622,2025-04-18,Returned,Social Commerce
+1843,517,2026-03-14,Delivered,Website
+1844,304,2026-05-18,Delivered,Marketplace
+1845,784,2025-03-23,Cancelled,Mobile App
+1846,537,2026-09-13,Returned,Marketplace
+1847,736,2026-04-17,Delivered,Social Commerce
+1848,194,2026-04-12,Delivered,Website
+1849,41,2025-10-04,Delivered,Mobile App
+1850,17,2025-03-17,Shipped,Social Commerce
+1851,131,2026-05-24,Cancelled,Marketplace
+1852,24,2026-08-11,Processing,Website
+1853,769,2026-06-08,Delivered,Mobile App
+1854,254,2025-09-15,Delivered,Website
+1855,79,2025-08-27,Returned,Website
+1856,741,2025-04-18,Cancelled,Social Commerce
+1857,518,2026-03-07,Delivered,Marketplace
+1858,494,2026-03-14,Processing,Mobile App
+1859,507,2025-09-27,Shipped,Website
+1860,119,2026-08-18,Delivered,Social Commerce
+1861,825,2026-01-05,Returned,Social Commerce
+1862,899,2025-04-04,Returned,Mobile App
+1863,504,2025-05-26,Delivered,Social Commerce
+1864,121,2026-07-13,Processing,Marketplace
+1865,385,2025-01-06,Cancelled,Marketplace
+1866,250,2025-02-24,Delivered,Website
+1867,114,2026-08-30,Delivered,Social Commerce
+1868,298,2025-10-16,Returned,Website
+1869,777,2026-07-02,Delivered,Social Commerce
+1870,534,2025-08-13,Processing,Website
+1871,692,2025-10-20,Delivered,Mobile App
+1872,828,2026-09-04,Delivered,Marketplace
+1873,207,2025-12-07,Delivered,Mobile App
+1874,703,2026-06-08,Delivered,Website
+1875,909,2026-07-18,Delivered,Mobile App
+1876,930,2026-08-11,Shipped,Social Commerce
+1877,833,2025-04-19,Delivered,Website
+1878,145,2026-08-15,Delivered,Social Commerce
+1879,998,2025-01-04,Delivered,Mobile App
+1880,711,2026-09-10,Processing,Website
+1881,780,2025-08-21,Delivered,Mobile App
+1882,153,2026-07-20,Delivered,Social Commerce
+1883,74,2025-11-12,Returned,Marketplace
+1884,398,2025-01-10,Delivered,Website
+1885,688,2025-07-26,Returned,Mobile App
+1886,452,2026-08-12,Delivered,Social Commerce
+1887,457,2025-05-14,Delivered,Marketplace
+1888,16,2026-05-14,Cancelled,Website
+1889,764,2025-12-23,Shipped,Mobile App
+1890,74,2025-10-04,Delivered,Social Commerce
+1891,201,2025-08-20,Cancelled,Social Commerce
+1892,607,2025-11-16,Delivered,Social Commerce
+1893,71,2025-03-29,Delivered,Mobile App
+1894,630,2026-06-30,Delivered,Marketplace
+1895,153,2025-05-16,Processing,Website
+1896,240,2026-04-29,Shipped,Website
+1897,546,2025-07-01,Delivered,Marketplace
+1898,315,2025-05-28,Delivered,Mobile App
+1899,929,2025-08-11,Delivered,Social Commerce
+1900,266,2025-04-19,Shipped,Social Commerce
+1901,899,2025-01-02,Delivered,Website
+1902,162,2025-03-01,Delivered,Social Commerce
+1903,964,2026-08-31,Returned,Mobile App
+1904,180,2025-12-11,Processing,Mobile App
+1905,502,2025-07-13,Delivered,Marketplace
+1906,903,2026-08-11,Returned,Mobile App
+1907,398,2026-02-06,Delivered,Website
+1908,36,2025-03-05,Delivered,Mobile App
+1909,80,2026-02-03,Delivered,Social Commerce
+1910,229,2026-02-11,Delivered,Mobile App
+1911,50,2025-09-15,Delivered,Website
+1912,337,2025-05-08,Delivered,Mobile App
+1913,326,2025-12-29,Delivered,Mobile App
+1914,472,2025-06-13,Returned,Website
+1915,439,2025-09-27,Shipped,Social Commerce
+1916,739,2025-07-21,Delivered,Website
+1917,751,2026-07-09,Delivered,Marketplace
+1918,337,2025-06-10,Delivered,Social Commerce
+1919,363,2026-08-18,Delivered,Marketplace
+1920,915,2026-05-17,Cancelled,Social Commerce
+1921,936,2025-02-12,Processing,Marketplace
+1922,355,2026-01-13,Delivered,Mobile App
+1923,952,2025-10-19,Delivered,Social Commerce
+1924,411,2025-12-18,Returned,Social Commerce
+1925,695,2025-03-10,Delivered,Mobile App
+1926,981,2026-04-09,Delivered,Mobile App
+1927,375,2025-06-15,Delivered,Mobile App
+1928,242,2026-05-19,Processing,Website
+1929,367,2025-09-10,Delivered,Marketplace
+1930,21,2025-10-01,Delivered,Website
+1931,769,2025-12-29,Cancelled,Mobile App
+1932,468,2025-07-22,Delivered,Mobile App
+1933,643,2025-12-14,Processing,Marketplace
+1934,634,2026-08-27,Delivered,Website
+1935,528,2025-08-13,Delivered,Website
+1936,640,2025-10-30,Shipped,Website
+1937,65,2026-07-22,Delivered,Marketplace
+1938,533,2025-03-05,Delivered,Social Commerce
+1939,908,2025-09-13,Delivered,Website
+1940,298,2025-08-23,Delivered,Mobile App
+1941,865,2026-02-07,Cancelled,Website
+1942,151,2026-09-03,Processing,Mobile App
+1943,316,2026-04-01,Delivered,Social Commerce
+1944,384,2026-02-25,Returned,Marketplace
+1945,639,2025-08-21,Delivered,Marketplace
+1946,214,2026-02-03,Delivered,Social Commerce
+1947,910,2026-07-26,Delivered,Marketplace
+1948,300,2025-07-21,Delivered,Website
+1949,697,2026-01-11,Delivered,Social Commerce
+1950,663,2026-06-12,Delivered,Marketplace
+1951,208,2026-09-20,Delivered,Social Commerce
+1952,115,2025-09-10,Delivered,Website
+1953,274,2026-07-20,Processing,Marketplace
+1954,247,2025-09-08,Delivered,Marketplace
+1955,685,2025-02-28,Delivered,Website
+1956,327,2025-08-22,Cancelled,Marketplace
+1957,565,2025-04-15,Delivered,Mobile App
+1958,295,2026-05-18,Delivered,Marketplace
+1959,859,2025-05-05,Cancelled,Social Commerce
+1960,437,2025-10-11,Delivered,Website
+1961,704,2025-05-29,Processing,Mobile App
+1962,655,2026-09-24,Delivered,Social Commerce
+1963,195,2025-09-01,Delivered,Website
+1964,333,2026-07-20,Delivered,Mobile App
+1965,690,2026-04-29,Delivered,Website
+1966,14,2025-12-12,Returned,Website
+1967,681,2025-10-01,Delivered,Website
+1968,893,2026-04-03,Delivered,Marketplace
+1969,93,2025-03-14,Processing,Website
+1970,386,2026-07-20,Delivered,Social Commerce
+1971,715,2025-08-02,Shipped,Mobile App
+1972,996,2025-04-07,Shipped,Website
+1973,751,2026-01-07,Processing,Mobile App
+1974,253,2026-07-03,Delivered,Mobile App
+1975,995,2025-03-22,Delivered,Marketplace
+1976,502,2025-09-01,Delivered,Mobile App
+1977,413,2025-09-20,Returned,Marketplace
+1978,722,2025-08-02,Delivered,Website
+1979,906,2025-02-21,Delivered,Website
+1980,313,2025-11-03,Returned,Social Commerce
+1981,282,2026-07-26,Shipped,Mobile App
+1982,161,2025-01-11,Processing,Marketplace
+1983,434,2025-09-13,Shipped,Marketplace
+1984,960,2026-01-20,Delivered,Social Commerce
+1985,366,2026-03-04,Delivered,Marketplace
+1986,862,2025-11-30,Delivered,Social Commerce
+1987,566,2025-01-08,Delivered,Social Commerce
+1988,263,2026-09-26,Cancelled,Mobile App
+1989,87,2025-04-11,Returned,Social Commerce
+1990,736,2025-01-11,Delivered,Social Commerce
+1991,735,2025-11-10,Delivered,Marketplace
+1992,49,2026-07-30,Processing,Social Commerce
+1993,986,2026-02-12,Delivered,Website
+1994,669,2026-04-19,Delivered,Social Commerce
+1995,673,2026-04-01,Shipped,Social Commerce
+1996,776,2026-05-14,Delivered,Mobile App
+1997,157,2026-07-12,Delivered,Mobile App
+1998,972,2025-11-07,Shipped,Website
+1999,143,2025-09-20,Shipped,Mobile App
+2000,340,2026-07-15,Delivered,Social Commerce
+2001,575,2025-03-02,Delivered,Mobile App
+2002,852,2026-07-09,Delivered,Website
+2003,591,2025-11-04,Shipped,Marketplace
+2004,781,2025-08-16,Shipped,Marketplace
+2005,220,2026-08-18,Delivered,Mobile App
+2006,673,2025-09-19,Shipped,Marketplace
+2007,385,2026-02-20,Cancelled,Marketplace
+2008,194,2025-03-28,Delivered,Social Commerce
+2009,771,2025-09-07,Delivered,Marketplace
+2010,417,2026-08-09,Delivered,Website
+2011,138,2026-06-11,Delivered,Social Commerce
+2012,994,2026-03-06,Shipped,Social Commerce
+2013,104,2025-05-04,Delivered,Marketplace
+2014,12,2025-11-23,Delivered,Social Commerce
+2015,318,2026-07-07,Cancelled,Social Commerce
+2016,90,2026-08-10,Delivered,Mobile App
+2017,984,2026-01-08,Processing,Marketplace
+2018,203,2026-03-12,Delivered,Marketplace
+2019,962,2025-09-25,Delivered,Marketplace
+2020,835,2025-06-06,Delivered,Website
+2021,204,2026-01-10,Delivered,Mobile App
+2022,84,2026-02-03,Delivered,Social Commerce
+2023,33,2026-03-28,Delivered,Social Commerce
+2024,161,2025-11-08,Cancelled,Marketplace
+2025,234,2026-09-22,Processing,Website
+2026,349,2026-03-28,Delivered,Social Commerce
+2027,576,2026-03-20,Delivered,Mobile App
+2028,689,2025-07-11,Delivered,Website
+2029,141,2025-02-09,Delivered,Website
+2030,94,2025-04-29,Delivered,Marketplace
+2031,347,2026-06-29,Shipped,Website
+2032,16,2025-09-11,Delivered,Mobile App
+2033,584,2026-03-10,Cancelled,Marketplace
+2034,805,2026-04-02,Delivered,Website
+2035,312,2026-08-07,Shipped,Website
+2036,798,2025-02-04,Delivered,Social Commerce
+2037,172,2025-10-17,Delivered,Mobile App
+2038,227,2025-07-17,Delivered,Social Commerce
+2039,148,2025-04-03,Delivered,Social Commerce
+2040,768,2025-01-11,Delivered,Social Commerce
+2041,94,2025-06-21,Shipped,Mobile App
+2042,797,2025-05-22,Cancelled,Website
+2043,801,2025-08-08,Delivered,Mobile App
+2044,873,2026-04-04,Delivered,Website
+2045,715,2025-09-30,Delivered,Website
+2046,169,2025-12-24,Delivered,Mobile App
+2047,726,2026-06-23,Delivered,Website
+2048,530,2025-10-30,Delivered,Marketplace
+2049,931,2025-12-06,Delivered,Mobile App
+2050,52,2025-03-08,Cancelled,Marketplace
+2051,516,2025-03-26,Cancelled,Website
+2052,742,2026-05-12,Delivered,Marketplace
+2053,390,2026-01-08,Processing,Mobile App
+2054,881,2026-02-28,Delivered,Marketplace
+2055,713,2025-03-10,Returned,Marketplace
+2056,171,2026-08-26,Shipped,Marketplace
+2057,459,2025-05-10,Delivered,Marketplace
+2058,667,2025-02-19,Delivered,Social Commerce
+2059,730,2025-09-03,Delivered,Marketplace
+2060,466,2026-02-06,Delivered,Marketplace
+2061,346,2025-02-07,Delivered,Social Commerce
+2062,759,2026-06-28,Delivered,Website
+2063,138,2025-02-09,Processing,Website
+2064,47,2026-03-04,Delivered,Website
+2065,383,2025-07-27,Delivered,Social Commerce
+2066,463,2026-05-15,Delivered,Social Commerce
+2067,343,2026-05-27,Delivered,Marketplace
+2068,717,2025-01-14,Delivered,Social Commerce
+2069,206,2025-09-17,Processing,Social Commerce
+2070,23,2025-07-09,Cancelled,Website
+2071,929,2026-09-24,Delivered,Mobile App
+2072,946,2026-07-24,Cancelled,Mobile App
+2073,820,2025-08-30,Delivered,Mobile App
+2074,689,2026-05-15,Shipped,Marketplace
+2075,930,2025-03-14,Cancelled,Website
+2076,958,2026-03-08,Returned,Marketplace
+2077,663,2026-02-15,Delivered,Website
+2078,103,2025-09-29,Delivered,Mobile App
+2079,342,2025-03-05,Returned,Social Commerce
+2080,389,2026-06-28,Delivered,Marketplace
+2081,451,2026-06-04,Cancelled,Social Commerce
+2082,110,2026-01-21,Delivered,Website
+2083,771,2026-08-11,Delivered,Mobile App
+2084,358,2026-08-06,Delivered,Social Commerce
+2085,458,2025-10-05,Shipped,Website
+2086,988,2025-10-26,Delivered,Website
+2087,700,2026-07-06,Delivered,Social Commerce
+2088,853,2026-07-15,Cancelled,Social Commerce
+2089,195,2025-02-16,Delivered,Marketplace
+2090,25,2025-09-20,Returned,Social Commerce
+2091,765,2025-12-24,Delivered,Mobile App
+2092,714,2026-05-30,Shipped,Marketplace
+2093,1000,2026-02-04,Cancelled,Website
+2094,696,2025-09-26,Delivered,Mobile App
+2095,777,2026-03-18,Delivered,Marketplace
+2096,626,2026-02-13,Delivered,Website
+2097,243,2026-08-03,Processing,Website
+2098,395,2025-06-21,Delivered,Website
+2099,200,2025-03-11,Delivered,Mobile App
+2100,988,2026-08-21,Delivered,Mobile App
+2101,204,2026-07-08,Delivered,Website
+2102,568,2026-09-04,Returned,Mobile App
+2103,439,2025-09-09,Processing,Mobile App
+2104,55,2026-01-21,Delivered,Website
+2105,999,2026-09-15,Shipped,Mobile App
+2106,14,2025-01-14,Delivered,Website
+2107,730,2025-06-03,Delivered,Mobile App
+2108,614,2025-10-06,Cancelled,Social Commerce
+2109,385,2025-05-28,Delivered,Mobile App
+2110,312,2026-04-27,Delivered,Social Commerce
+2111,499,2026-07-24,Cancelled,Website
+2112,434,2026-03-13,Cancelled,Mobile App
+2113,377,2025-01-10,Cancelled,Social Commerce
+2114,794,2026-04-11,Delivered,Mobile App
+2115,231,2026-02-07,Returned,Marketplace
+2116,674,2025-04-06,Delivered,Website
+2117,231,2026-09-22,Shipped,Website
+2118,59,2025-07-23,Shipped,Mobile App
+2119,565,2026-09-12,Cancelled,Website
+2120,768,2026-03-14,Returned,Mobile App
+2121,419,2025-08-13,Delivered,Mobile App
+2122,875,2025-03-16,Cancelled,Marketplace
+2123,857,2026-09-14,Shipped,Social Commerce
+2124,430,2026-07-15,Returned,Mobile App
+2125,834,2025-10-23,Returned,Marketplace
+2126,123,2026-08-02,Cancelled,Marketplace
+2127,170,2025-07-06,Cancelled,Mobile App
+2128,952,2025-08-26,Delivered,Website
+2129,570,2026-09-22,Delivered,Website
+2130,78,2025-06-02,Delivered,Social Commerce
+2131,80,2026-01-30,Processing,Marketplace
+2132,218,2026-01-23,Processing,Marketplace
+2133,215,2026-08-02,Delivered,Marketplace
+2134,432,2026-07-24,Returned,Social Commerce
+2135,85,2025-08-10,Cancelled,Website
+2136,998,2025-08-23,Delivered,Social Commerce
+2137,11,2026-09-14,Processing,Website
+2138,187,2026-09-14,Delivered,Website
+2139,170,2026-03-22,Processing,Mobile App
+2140,638,2026-05-15,Delivered,Marketplace
+2141,456,2026-05-28,Delivered,Marketplace
+2142,681,2026-08-07,Delivered,Marketplace
+2143,436,2025-10-30,Cancelled,Mobile App
+2144,286,2026-08-13,Delivered,Mobile App
+2145,572,2026-01-29,Delivered,Social Commerce
+2146,629,2025-11-19,Returned,Mobile App
+2147,451,2025-02-08,Delivered,Mobile App
+2148,172,2026-02-06,Processing,Mobile App
+2149,700,2026-07-04,Delivered,Website
+2150,653,2025-02-12,Delivered,Marketplace
+2151,760,2025-05-05,Shipped,Social Commerce
+2152,942,2025-01-01,Shipped,Marketplace
+2153,313,2026-02-02,Processing,Marketplace
+2154,344,2025-06-15,Delivered,Website
+2155,45,2026-02-19,Processing,Mobile App
+2156,801,2026-09-08,Shipped,Marketplace
+2157,991,2025-03-23,Shipped,Mobile App
+2158,126,2025-12-13,Processing,Marketplace
+2159,906,2025-11-12,Delivered,Marketplace
+2160,509,2026-05-16,Processing,Website
+2161,934,2025-02-23,Delivered,Social Commerce
+2162,821,2026-04-03,Delivered,Mobile App
+2163,41,2026-06-21,Processing,Marketplace
+2164,154,2025-02-09,Delivered,Mobile App
+2165,569,2025-04-18,Returned,Social Commerce
+2166,430,2025-03-29,Delivered,Social Commerce
+2167,208,2025-10-13,Cancelled,Social Commerce
+2168,919,2025-01-17,Delivered,Social Commerce
+2169,526,2025-05-06,Delivered,Social Commerce
+2170,813,2025-12-26,Delivered,Website
+2171,280,2025-05-30,Cancelled,Website
+2172,208,2025-12-09,Delivered,Mobile App
+2173,575,2025-11-22,Shipped,Marketplace
+2174,483,2026-01-14,Shipped,Marketplace
+2175,980,2026-02-06,Shipped,Mobile App
+2176,149,2026-05-09,Processing,Website
+2177,920,2025-04-04,Processing,Marketplace
+2178,742,2025-02-24,Delivered,Social Commerce
+2179,876,2025-11-09,Delivered,Website
+2180,49,2025-02-06,Delivered,Website
+2181,277,2025-10-25,Delivered,Social Commerce
+2182,660,2025-07-06,Cancelled,Mobile App
+2183,724,2025-04-04,Delivered,Website
+2184,473,2025-04-20,Delivered,Website
+2185,970,2025-01-13,Delivered,Website
+2186,904,2025-09-03,Delivered,Website
+2187,494,2026-09-18,Delivered,Mobile App
+2188,961,2026-04-05,Delivered,Social Commerce
+2189,125,2025-10-26,Shipped,Social Commerce
+2190,223,2026-03-03,Delivered,Social Commerce
+2191,529,2025-12-04,Delivered,Mobile App
+2192,560,2025-09-25,Delivered,Social Commerce
+2193,155,2026-09-16,Delivered,Mobile App
+2194,344,2025-09-10,Shipped,Mobile App
+2195,211,2026-05-05,Delivered,Mobile App
+2196,780,2026-07-08,Shipped,Mobile App
+2197,323,2025-10-04,Delivered,Mobile App
+2198,949,2025-10-13,Delivered,Mobile App
+2199,198,2025-03-13,Delivered,Marketplace
+2200,811,2025-12-20,Delivered,Marketplace
+2201,767,2025-04-02,Delivered,Social Commerce
+2202,520,2025-01-11,Delivered,Marketplace
+2203,933,2025-09-26,Delivered,Website
+2204,677,2025-05-30,Delivered,Mobile App
+2205,292,2025-06-30,Shipped,Website
+2206,995,2025-06-27,Processing,Social Commerce
+2207,397,2026-02-21,Delivered,Website
+2208,846,2025-02-07,Delivered,Marketplace
+2209,34,2026-03-13,Delivered,Social Commerce
+2210,137,2025-11-23,Processing,Website
+2211,434,2025-11-15,Delivered,Mobile App
+2212,366,2026-08-27,Delivered,Mobile App
+2213,100,2025-08-17,Processing,Marketplace
+2214,760,2025-06-16,Delivered,Marketplace
+2215,795,2026-08-09,Returned,Marketplace
+2216,295,2026-07-16,Delivered,Mobile App
+2217,729,2025-05-09,Delivered,Social Commerce
+2218,631,2026-09-06,Delivered,Mobile App
+2219,446,2025-03-04,Delivered,Mobile App
+2220,856,2025-10-07,Shipped,Mobile App
+2221,421,2025-03-02,Delivered,Website
+2222,392,2026-07-07,Shipped,Social Commerce
+2223,701,2026-07-25,Shipped,Website
+2224,180,2026-07-18,Delivered,Marketplace
+2225,702,2026-08-12,Delivered,Mobile App
+2226,401,2025-09-16,Returned,Website
+2227,171,2026-03-26,Delivered,Mobile App
+2228,969,2026-08-10,Delivered,Marketplace
+2229,106,2025-03-15,Delivered,Social Commerce
+2230,336,2025-02-22,Delivered,Social Commerce
+2231,640,2025-07-15,Delivered,Website
+2232,944,2026-04-14,Delivered,Marketplace
+2233,173,2026-01-15,Delivered,Marketplace
+2234,144,2025-09-18,Delivered,Website
+2235,145,2026-01-16,Delivered,Social Commerce
+2236,542,2026-07-26,Cancelled,Social Commerce
+2237,1000,2025-04-09,Delivered,Marketplace
+2238,895,2025-03-17,Delivered,Website
+2239,957,2025-03-18,Processing,Mobile App
+2240,243,2026-03-20,Shipped,Mobile App
+2241,515,2025-01-18,Shipped,Mobile App
+2242,467,2025-05-17,Delivered,Mobile App
+2243,945,2026-04-05,Returned,Social Commerce
+2244,899,2026-02-20,Delivered,Website
+2245,976,2026-09-24,Processing,Mobile App
+2246,206,2025-05-13,Delivered,Website
+2247,579,2025-09-16,Shipped,Marketplace
+2248,888,2026-09-09,Delivered,Marketplace
+2249,852,2025-05-26,Delivered,Mobile App
+2250,431,2026-07-15,Processing,Website
+2251,764,2026-04-06,Delivered,Mobile App
+2252,38,2025-08-28,Delivered,Website
+2253,481,2025-08-26,Shipped,Website
+2254,434,2025-03-01,Delivered,Mobile App
+2255,931,2025-12-22,Processing,Mobile App
+2256,77,2026-01-24,Delivered,Marketplace
+2257,273,2025-06-18,Returned,Website
+2258,558,2026-06-08,Delivered,Website
+2259,303,2025-01-29,Returned,Mobile App
+2260,261,2025-01-17,Delivered,Social Commerce
+2261,865,2025-01-05,Cancelled,Mobile App
+2262,665,2026-05-25,Processing,Mobile App
+2263,425,2026-01-30,Delivered,Marketplace
+2264,476,2026-04-22,Delivered,Mobile App
+2265,464,2026-08-26,Delivered,Social Commerce
+2266,131,2026-05-08,Delivered,Marketplace
+2267,999,2025-04-09,Delivered,Marketplace
+2268,490,2026-06-22,Returned,Social Commerce
+2269,581,2026-06-23,Delivered,Marketplace
+2270,335,2026-01-01,Delivered,Marketplace
+2271,352,2025-01-11,Processing,Marketplace
+2272,70,2026-08-02,Delivered,Social Commerce
+2273,671,2025-12-14,Delivered,Marketplace
+2274,98,2026-06-14,Returned,Social Commerce
+2275,972,2026-05-29,Shipped,Marketplace
+2276,567,2026-06-01,Processing,Website
+2277,664,2026-01-08,Delivered,Website
+2278,133,2026-02-25,Shipped,Mobile App
+2279,589,2026-03-03,Delivered,Marketplace
+2280,727,2025-04-06,Shipped,Marketplace
+2281,207,2026-08-06,Shipped,Mobile App
+2282,371,2025-05-06,Delivered,Marketplace
+2283,584,2025-02-12,Delivered,Marketplace
+2284,52,2025-06-18,Processing,Marketplace
+2285,656,2025-06-18,Delivered,Social Commerce
+2286,444,2025-08-06,Delivered,Website
+2287,732,2026-05-01,Delivered,Social Commerce
+2288,151,2026-07-22,Delivered,Social Commerce
+2289,183,2025-01-21,Delivered,Marketplace
+2290,15,2025-10-14,Processing,Website
+2291,373,2026-03-23,Delivered,Mobile App
+2292,112,2025-09-25,Returned,Social Commerce
+2293,744,2025-01-21,Shipped,Social Commerce
+2294,906,2025-01-02,Delivered,Social Commerce
+2295,183,2026-06-01,Delivered,Marketplace
+2296,897,2025-01-04,Returned,Social Commerce
+2297,851,2025-10-12,Delivered,Marketplace
+2298,343,2025-05-05,Processing,Social Commerce
+2299,892,2026-09-22,Delivered,Website
+2300,622,2026-05-10,Shipped,Social Commerce
+2301,672,2025-03-02,Cancelled,Website
+2302,413,2025-03-10,Delivered,Mobile App
+2303,931,2026-08-10,Delivered,Marketplace
+2304,670,2025-07-20,Shipped,Marketplace
+2305,252,2026-08-07,Delivered,Mobile App
+2306,75,2025-09-28,Cancelled,Marketplace
+2307,839,2025-05-18,Processing,Social Commerce
+2308,754,2025-12-26,Delivered,Marketplace
+2309,700,2025-08-18,Delivered,Website
+2310,793,2026-09-03,Processing,Marketplace
+2311,649,2025-10-12,Delivered,Social Commerce
+2312,372,2025-09-19,Delivered,Mobile App
+2313,340,2025-10-25,Delivered,Website
+2314,760,2025-02-13,Delivered,Social Commerce
+2315,136,2025-12-19,Delivered,Website
+2316,705,2026-09-23,Delivered,Social Commerce
+2317,773,2025-07-17,Delivered,Website
+2318,517,2025-10-03,Delivered,Social Commerce
+2319,210,2026-06-08,Delivered,Mobile App
+2320,957,2026-01-15,Returned,Marketplace
+2321,959,2025-06-14,Delivered,Marketplace
+2322,854,2026-09-26,Delivered,Marketplace
+2323,816,2026-06-11,Cancelled,Social Commerce
+2324,14,2025-04-20,Cancelled,Mobile App
+2325,217,2025-06-21,Delivered,Marketplace
+2326,90,2026-09-29,Returned,Marketplace
+2327,475,2025-06-01,Shipped,Social Commerce
+2328,174,2026-02-03,Delivered,Social Commerce
+2329,823,2025-11-18,Delivered,Social Commerce
+2330,360,2026-04-15,Delivered,Marketplace
+2331,743,2026-07-30,Delivered,Website
+2332,470,2025-01-12,Cancelled,Mobile App
+2333,738,2026-07-09,Cancelled,Mobile App
+2334,489,2025-05-23,Delivered,Mobile App
+2335,739,2026-07-30,Cancelled,Social Commerce
+2336,284,2026-03-27,Processing,Mobile App
+2337,503,2025-09-02,Delivered,Marketplace
+2338,378,2025-08-25,Processing,Marketplace
+2339,111,2025-06-28,Shipped,Website
+2340,140,2025-09-21,Delivered,Website
+2341,222,2026-05-02,Delivered,Marketplace
+2342,740,2025-07-19,Delivered,Social Commerce
+2343,58,2025-02-18,Delivered,Website
+2344,926,2026-01-04,Processing,Social Commerce
+2345,741,2025-12-25,Delivered,Website
+2346,997,2025-11-02,Delivered,Social Commerce
+2347,217,2025-03-25,Returned,Marketplace
+2348,293,2025-10-29,Shipped,Marketplace
+2349,1000,2025-08-29,Delivered,Mobile App
+2350,591,2025-12-29,Processing,Marketplace
+2351,391,2025-11-17,Delivered,Website
+2352,557,2025-01-21,Delivered,Marketplace
+2353,878,2026-04-25,Delivered,Mobile App
+2354,198,2025-06-05,Delivered,Marketplace
+2355,359,2025-03-17,Delivered,Website
+2356,798,2025-11-10,Delivered,Marketplace
+2357,698,2025-03-03,Shipped,Mobile App
+2358,899,2025-10-02,Delivered,Social Commerce
+2359,411,2025-03-11,Delivered,Social Commerce
+2360,15,2026-07-15,Delivered,Marketplace
+2361,73,2026-04-21,Delivered,Website
+2362,521,2026-09-29,Processing,Website
+2363,944,2026-09-08,Delivered,Marketplace
+2364,414,2025-12-22,Delivered,Website
+2365,114,2026-09-26,Delivered,Social Commerce
+2366,421,2025-11-14,Delivered,Website
+2367,889,2026-02-09,Delivered,Website
+2368,548,2025-03-11,Returned,Marketplace
+2369,551,2026-02-25,Delivered,Marketplace
+2370,834,2025-05-30,Shipped,Social Commerce
+2371,683,2026-05-28,Delivered,Marketplace
+2372,176,2025-12-21,Delivered,Social Commerce
+2373,55,2026-04-09,Processing,Social Commerce
+2374,352,2026-01-13,Delivered,Social Commerce
+2375,834,2025-02-10,Delivered,Website
+2376,895,2026-01-19,Processing,Website
+2377,7,2025-07-26,Delivered,Marketplace
+2378,202,2026-04-11,Shipped,Website
+2379,827,2026-03-13,Delivered,Social Commerce
+2380,167,2025-07-06,Delivered,Social Commerce
+2381,321,2026-04-24,Delivered,Social Commerce
+2382,575,2026-05-28,Delivered,Website
+2383,102,2026-07-03,Delivered,Website
+2384,839,2026-08-01,Delivered,Marketplace
+2385,146,2026-03-05,Delivered,Marketplace
+2386,726,2025-07-23,Delivered,Website
+2387,1000,2026-09-13,Delivered,Marketplace
+2388,284,2025-01-16,Shipped,Mobile App
+2389,213,2025-09-04,Returned,Marketplace
+2390,852,2025-07-05,Delivered,Social Commerce
+2391,583,2025-09-24,Delivered,Website
+2392,36,2025-07-30,Delivered,Website
+2393,646,2025-01-12,Shipped,Marketplace
+2394,975,2025-10-09,Delivered,Social Commerce
+2395,854,2025-05-31,Delivered,Social Commerce
+2396,436,2025-12-04,Delivered,Website
+2397,645,2025-08-15,Delivered,Mobile App
+2398,806,2026-05-12,Delivered,Social Commerce
+2399,995,2026-07-01,Returned,Marketplace
+2400,971,2025-06-23,Delivered,Marketplace
+2401,307,2026-01-27,Delivered,Website
+2402,989,2026-09-18,Delivered,Website
+2403,909,2025-02-04,Delivered,Mobile App
+2404,591,2026-02-28,Delivered,Social Commerce
+2405,591,2026-04-09,Returned,Mobile App
+2406,35,2026-08-07,Delivered,Mobile App
+2407,991,2026-09-19,Delivered,Website
+2408,230,2026-01-06,Delivered,Mobile App
+2409,269,2026-08-21,Delivered,Mobile App
+2410,983,2025-05-31,Delivered,Marketplace
+2411,629,2026-01-02,Processing,Mobile App
+2412,521,2025-07-02,Shipped,Social Commerce
+2413,854,2025-07-17,Processing,Website
+2414,247,2026-07-19,Shipped,Marketplace
+2415,561,2025-01-17,Delivered,Marketplace
+2416,934,2025-05-18,Processing,Mobile App
+2417,564,2026-05-31,Delivered,Mobile App
+2418,574,2026-06-17,Delivered,Marketplace
+2419,671,2025-09-20,Cancelled,Mobile App
+2420,13,2025-12-18,Processing,Marketplace
+2421,444,2025-11-26,Returned,Website
+2422,783,2025-04-06,Delivered,Website
+2423,278,2025-06-24,Cancelled,Marketplace
+2424,399,2025-01-08,Returned,Mobile App
+2425,762,2025-01-21,Delivered,Mobile App
+2426,594,2025-11-27,Delivered,Social Commerce
+2427,446,2025-12-06,Returned,Mobile App
+2428,298,2026-01-04,Shipped,Marketplace
+2429,908,2026-07-20,Processing,Social Commerce
+2430,432,2026-09-12,Delivered,Marketplace
+2431,24,2026-03-16,Processing,Website
+2432,438,2026-07-14,Delivered,Mobile App
+2433,610,2025-05-23,Delivered,Mobile App
+2434,484,2026-08-01,Returned,Social Commerce
+2435,231,2025-12-02,Delivered,Website
+2436,429,2025-09-06,Delivered,Social Commerce
+2437,549,2025-12-16,Delivered,Website
+2438,986,2026-03-29,Shipped,Mobile App
+2439,702,2025-04-17,Returned,Marketplace
+2440,937,2026-04-10,Shipped,Website
+2441,446,2026-03-07,Delivered,Marketplace
+2442,764,2026-02-21,Delivered,Mobile App
+2443,701,2025-07-01,Delivered,Marketplace
+2444,556,2026-08-18,Delivered,Mobile App
+2445,404,2025-08-31,Processing,Website
+2446,864,2025-07-19,Returned,Website
+2447,576,2026-03-05,Delivered,Social Commerce
+2448,457,2025-04-04,Delivered,Mobile App
+2449,262,2025-05-29,Delivered,Mobile App
+2450,552,2026-06-19,Delivered,Mobile App
+2451,738,2025-02-08,Delivered,Social Commerce
+2452,699,2025-08-22,Delivered,Mobile App
+2453,134,2025-06-14,Delivered,Website
+2454,390,2025-10-08,Processing,Website
+2455,77,2026-03-01,Delivered,Marketplace
+2456,624,2025-04-15,Delivered,Social Commerce
+2457,74,2026-04-08,Delivered,Marketplace
+2458,663,2026-04-12,Delivered,Social Commerce
+2459,191,2025-05-11,Shipped,Marketplace
+2460,396,2026-06-17,Delivered,Marketplace
+2461,651,2025-11-24,Delivered,Social Commerce
+2462,738,2026-05-06,Processing,Mobile App
+2463,492,2025-06-15,Shipped,Social Commerce
+2464,937,2025-05-19,Delivered,Website
+2465,509,2025-10-20,Delivered,Marketplace
+2466,546,2025-04-09,Delivered,Mobile App
+2467,250,2025-04-05,Delivered,Marketplace
+2468,711,2025-09-16,Delivered,Mobile App
+2469,246,2026-08-16,Processing,Mobile App
+2470,437,2025-07-10,Delivered,Website
+2471,114,2025-05-12,Delivered,Mobile App
+2472,952,2026-03-12,Delivered,Social Commerce
+2473,298,2025-03-03,Delivered,Marketplace
+2474,11,2026-03-12,Delivered,Social Commerce
+2475,229,2025-04-10,Delivered,Website
+2476,620,2025-06-05,Shipped,Social Commerce
+2477,43,2026-01-09,Delivered,Social Commerce
+2478,847,2025-06-01,Delivered,Social Commerce
+2479,553,2026-06-08,Delivered,Website
+2480,44,2026-08-01,Delivered,Marketplace
+2481,936,2026-07-28,Delivered,Marketplace
+2482,541,2025-12-03,Shipped,Website
+2483,309,2025-08-01,Delivered,Mobile App
+2484,67,2025-07-14,Processing,Social Commerce
+2485,506,2025-10-11,Delivered,Marketplace
+2486,498,2026-09-11,Shipped,Marketplace
+2487,702,2025-04-13,Delivered,Marketplace
+2488,509,2025-10-14,Delivered,Marketplace
+2489,72,2026-03-05,Processing,Mobile App
+2490,672,2026-07-17,Processing,Mobile App
+2491,347,2025-07-05,Processing,Mobile App
+2492,657,2025-06-19,Returned,Marketplace
+2493,213,2026-04-09,Cancelled,Website
+2494,426,2026-06-27,Shipped,Mobile App
+2495,189,2025-10-28,Cancelled,Social Commerce
+2496,230,2026-04-06,Delivered,Website
+2497,642,2025-06-11,Delivered,Marketplace
+2498,145,2025-01-06,Delivered,Marketplace
+2499,289,2026-07-16,Delivered,Social Commerce
+2500,526,2026-05-22,Delivered,Mobile App
+2501,575,2025-11-27,Delivered,Mobile App
+2502,537,2026-04-04,Delivered,Mobile App
+2503,237,2026-04-25,Delivered,Marketplace
+2504,213,2026-06-22,Shipped,Mobile App
+2505,244,2025-04-17,Cancelled,Mobile App
+2506,879,2026-02-20,Returned,Website
+2507,503,2026-08-03,Processing,Marketplace
+2508,490,2026-06-24,Delivered,Marketplace
+2509,510,2025-12-14,Delivered,Mobile App
+2510,408,2026-01-02,Delivered,Website
+2511,87,2025-04-22,Delivered,Website
+2512,505,2025-01-14,Delivered,Marketplace
+2513,828,2025-12-14,Cancelled,Website
+2514,720,2025-03-15,Cancelled,Mobile App
+2515,410,2026-09-08,Returned,Mobile App
+2516,990,2026-09-09,Delivered,Marketplace
+2517,666,2026-07-09,Delivered,Mobile App
+2518,583,2025-07-07,Cancelled,Mobile App
+2519,195,2026-09-24,Delivered,Marketplace
+2520,942,2025-02-23,Cancelled,Mobile App
+2521,805,2025-08-29,Shipped,Social Commerce
+2522,580,2026-02-02,Delivered,Marketplace
+2523,169,2025-03-09,Delivered,Marketplace
+2524,359,2026-05-14,Delivered,Marketplace
+2525,818,2026-01-01,Processing,Mobile App
+2526,958,2025-12-10,Returned,Social Commerce
+2527,968,2025-01-07,Delivered,Mobile App
+2528,806,2026-05-27,Delivered,Mobile App
+2529,532,2026-07-01,Cancelled,Marketplace
+2530,203,2025-09-24,Cancelled,Social Commerce
+2531,373,2026-06-15,Delivered,Marketplace
+2532,318,2026-02-26,Delivered,Marketplace
+2533,565,2025-12-08,Processing,Website
+2534,579,2025-09-23,Returned,Social Commerce
+2535,734,2026-07-22,Processing,Marketplace
+2536,494,2026-08-20,Delivered,Mobile App
+2537,506,2026-09-01,Shipped,Mobile App
+2538,242,2025-10-29,Delivered,Website
+2539,150,2026-09-09,Processing,Website
+2540,747,2025-12-16,Delivered,Marketplace
+2541,589,2025-02-09,Processing,Website
+2542,816,2026-03-18,Delivered,Mobile App
+2543,505,2025-06-03,Processing,Marketplace
+2544,477,2025-12-13,Processing,Marketplace
+2545,924,2026-06-13,Delivered,Social Commerce
+2546,923,2025-09-12,Shipped,Mobile App
+2547,564,2026-07-20,Delivered,Social Commerce
+2548,880,2025-01-03,Returned,Mobile App
+2549,969,2026-03-25,Delivered,Mobile App
+2550,175,2026-09-03,Delivered,Mobile App
+2551,517,2025-12-01,Delivered,Website
+2552,106,2025-01-26,Shipped,Social Commerce
+2553,677,2026-03-19,Delivered,Mobile App
+2554,444,2026-06-13,Delivered,Website
+2555,751,2026-03-01,Delivered,Website
+2556,907,2025-02-21,Processing,Website
+2557,977,2025-07-25,Delivered,Marketplace
+2558,252,2026-01-15,Shipped,Mobile App
+2559,9,2025-05-05,Delivered,Mobile App
+2560,563,2026-01-18,Processing,Mobile App
+2561,685,2025-05-30,Delivered,Mobile App
+2562,222,2026-07-25,Delivered,Mobile App
+2563,14,2026-06-20,Delivered,Mobile App
+2564,744,2026-04-08,Delivered,Website
+2565,226,2026-04-14,Shipped,Social Commerce
+2566,305,2026-05-10,Delivered,Website
+2567,366,2025-01-07,Delivered,Website
+2568,450,2025-10-31,Returned,Mobile App
+2569,42,2026-04-03,Returned,Social Commerce
+2570,308,2026-02-03,Processing,Marketplace
+2571,999,2025-07-01,Processing,Social Commerce
+2572,440,2025-08-10,Delivered,Marketplace
+2573,806,2025-08-28,Shipped,Social Commerce
+2574,207,2026-06-21,Delivered,Marketplace
+2575,239,2025-09-19,Delivered,Website
+2576,447,2025-09-29,Processing,Mobile App
+2577,670,2026-04-24,Delivered,Mobile App
+2578,917,2026-07-11,Cancelled,Social Commerce
+2579,185,2025-09-03,Delivered,Social Commerce
+2580,704,2026-01-15,Returned,Mobile App
+2581,455,2026-06-04,Delivered,Marketplace
+2582,725,2026-06-20,Delivered,Social Commerce
+2583,140,2026-01-22,Delivered,Social Commerce
+2584,908,2025-09-19,Returned,Marketplace
+2585,89,2026-08-22,Delivered,Marketplace
+2586,734,2025-06-23,Processing,Social Commerce
+2587,389,2026-04-15,Processing,Social Commerce
+2588,652,2025-04-07,Delivered,Mobile App
+2589,69,2025-01-25,Shipped,Marketplace
+2590,547,2026-01-20,Delivered,Mobile App
+2591,605,2025-06-03,Shipped,Website
+2592,489,2026-08-02,Returned,Social Commerce
+2593,405,2025-05-29,Delivered,Social Commerce
+2594,803,2026-06-20,Delivered,Mobile App
+2595,958,2025-03-06,Delivered,Marketplace
+2596,781,2025-03-01,Processing,Social Commerce
+2597,251,2025-06-17,Delivered,Mobile App
+2598,736,2025-01-01,Delivered,Social Commerce
+2599,865,2025-06-23,Shipped,Social Commerce
+2600,419,2025-06-28,Delivered,Social Commerce
+2601,929,2026-03-25,Delivered,Social Commerce
+2602,286,2026-09-18,Delivered,Marketplace
+2603,567,2026-09-13,Delivered,Social Commerce
+2604,700,2026-08-22,Delivered,Website
+2605,113,2025-04-02,Processing,Mobile App
+2606,477,2026-01-19,Delivered,Mobile App
+2607,51,2025-03-04,Delivered,Marketplace
+2608,20,2026-06-15,Delivered,Mobile App
+2609,200,2025-03-09,Cancelled,Social Commerce
+2610,62,2025-12-27,Processing,Website
+2611,608,2025-09-25,Delivered,Social Commerce
+2612,221,2025-07-14,Delivered,Marketplace
+2613,864,2025-03-09,Delivered,Social Commerce
+2614,652,2026-01-21,Delivered,Marketplace
+2615,582,2026-06-02,Delivered,Social Commerce
+2616,365,2025-02-23,Delivered,Website
+2617,717,2025-07-28,Processing,Marketplace
+2618,809,2025-09-01,Shipped,Marketplace
+2619,451,2025-05-12,Shipped,Marketplace
+2620,168,2025-11-04,Shipped,Website
+2621,892,2025-08-29,Cancelled,Mobile App
+2622,753,2025-03-27,Processing,Social Commerce
+2623,449,2026-09-05,Shipped,Marketplace
+2624,634,2025-02-17,Delivered,Website
+2625,728,2025-04-28,Delivered,Social Commerce
+2626,642,2025-08-31,Delivered,Mobile App
+2627,742,2026-07-30,Shipped,Website
+2628,43,2025-09-25,Delivered,Marketplace
+2629,421,2025-01-07,Delivered,Social Commerce
+2630,252,2025-06-17,Delivered,Marketplace
+2631,762,2026-08-19,Delivered,Website
+2632,56,2025-09-23,Delivered,Website
+2633,539,2025-08-05,Delivered,Mobile App
+2634,518,2025-06-02,Returned,Mobile App
+2635,757,2026-02-05,Delivered,Website
+2636,325,2026-04-28,Returned,Marketplace
+2637,535,2026-09-26,Delivered,Mobile App
+2638,1,2025-03-19,Returned,Social Commerce
+2639,412,2025-07-31,Delivered,Mobile App
+2640,202,2026-05-07,Delivered,Website
+2641,898,2025-04-05,Delivered,Social Commerce
+2642,961,2026-07-20,Delivered,Marketplace
+2643,332,2025-02-19,Delivered,Social Commerce
+2644,189,2026-03-07,Returned,Mobile App
+2645,477,2026-07-24,Returned,Website
+2646,881,2025-08-07,Delivered,Mobile App
+2647,38,2026-08-02,Cancelled,Marketplace
+2648,772,2026-08-02,Delivered,Social Commerce
+2649,202,2026-06-05,Delivered,Website
+2650,927,2025-04-12,Cancelled,Website
+2651,138,2026-03-29,Returned,Website
+2652,764,2025-02-23,Delivered,Marketplace
+2653,922,2025-10-01,Processing,Social Commerce
+2654,924,2025-04-24,Delivered,Website
+2655,84,2025-04-25,Shipped,Social Commerce
+2656,295,2025-11-18,Delivered,Website
+2657,420,2025-05-03,Delivered,Mobile App
+2658,36,2026-04-09,Delivered,Mobile App
+2659,977,2026-09-05,Processing,Marketplace
+2660,800,2026-05-17,Delivered,Website
+2661,178,2025-10-13,Delivered,Mobile App
+2662,885,2025-07-27,Delivered,Social Commerce
+2663,228,2026-02-25,Delivered,Social Commerce
+2664,162,2026-04-18,Cancelled,Social Commerce
+2665,270,2026-04-15,Delivered,Marketplace
+2666,27,2025-01-28,Delivered,Website
+2667,249,2025-07-05,Delivered,Marketplace
+2668,373,2025-09-01,Cancelled,Social Commerce
+2669,796,2025-01-21,Delivered,Marketplace
+2670,434,2026-07-28,Returned,Social Commerce
+2671,541,2025-09-30,Delivered,Website
+2672,730,2026-06-10,Delivered,Marketplace
+2673,445,2025-08-30,Delivered,Social Commerce
+2674,148,2025-03-09,Delivered,Website
+2675,538,2026-07-27,Returned,Website
+2676,348,2025-03-04,Delivered,Website
+2677,846,2026-06-20,Delivered,Mobile App
+2678,415,2025-07-22,Processing,Mobile App
+2679,586,2026-01-25,Shipped,Mobile App
+2680,544,2025-03-13,Shipped,Website
+2681,677,2025-09-26,Delivered,Website
+2682,151,2026-06-20,Delivered,Website
+2683,754,2025-09-07,Returned,Social Commerce
+2684,896,2026-05-25,Delivered,Social Commerce
+2685,184,2026-02-10,Shipped,Social Commerce
+2686,106,2025-04-06,Delivered,Social Commerce
+2687,867,2026-07-20,Delivered,Marketplace
+2688,199,2026-08-15,Delivered,Website
+2689,977,2025-12-21,Shipped,Website
+2690,981,2026-09-21,Processing,Mobile App
+2691,926,2025-12-06,Shipped,Social Commerce
+2692,485,2026-05-20,Cancelled,Website
+2693,258,2025-08-10,Delivered,Social Commerce
+2694,593,2025-04-23,Processing,Mobile App
+2695,213,2026-05-27,Cancelled,Mobile App
+2696,191,2026-04-16,Delivered,Marketplace
+2697,73,2026-09-25,Delivered,Website
+2698,384,2025-01-17,Delivered,Marketplace
+2699,272,2026-02-19,Cancelled,Social Commerce
+2700,759,2026-09-20,Shipped,Social Commerce
+2701,339,2026-04-21,Returned,Mobile App
+2702,720,2025-06-29,Delivered,Social Commerce
+2703,716,2025-02-10,Shipped,Marketplace
+2704,110,2025-08-17,Delivered,Website
+2705,98,2026-08-30,Delivered,Mobile App
+2706,28,2026-04-28,Delivered,Mobile App
+2707,717,2025-05-25,Returned,Mobile App
+2708,268,2025-10-11,Returned,Social Commerce
+2709,960,2025-09-22,Delivered,Social Commerce
+2710,86,2025-09-26,Delivered,Social Commerce
+2711,662,2025-01-25,Returned,Social Commerce
+2712,954,2025-02-19,Delivered,Mobile App
+2713,145,2026-07-31,Delivered,Social Commerce
+2714,774,2025-12-11,Processing,Social Commerce
+2715,449,2026-03-19,Returned,Marketplace
+2716,268,2025-11-09,Processing,Mobile App
+2717,540,2026-04-18,Delivered,Marketplace
+2718,172,2026-04-01,Returned,Mobile App
+2719,989,2025-08-14,Delivered,Mobile App
+2720,566,2026-08-19,Delivered,Website
+2721,811,2025-09-09,Cancelled,Mobile App
+2722,182,2025-11-23,Delivered,Marketplace
+2723,71,2026-08-01,Delivered,Website
+2724,971,2025-01-30,Delivered,Social Commerce
+2725,601,2026-04-16,Shipped,Mobile App
+2726,507,2025-01-25,Returned,Marketplace
+2727,707,2025-06-19,Delivered,Social Commerce
+2728,758,2026-01-24,Delivered,Website
+2729,86,2025-06-12,Shipped,Social Commerce
+2730,942,2026-02-05,Delivered,Social Commerce
+2731,451,2026-03-23,Delivered,Mobile App
+2732,188,2026-02-04,Delivered,Marketplace
+2733,300,2025-10-07,Processing,Website
+2734,306,2026-05-04,Delivered,Website
+2735,826,2026-06-28,Shipped,Social Commerce
+2736,887,2026-09-27,Shipped,Website
+2737,517,2025-09-29,Shipped,Mobile App
+2738,172,2026-09-25,Returned,Website
+2739,232,2026-07-20,Delivered,Mobile App
+2740,783,2025-07-07,Delivered,Website
+2741,412,2025-01-05,Delivered,Social Commerce
+2742,583,2025-06-13,Processing,Mobile App
+2743,67,2025-08-22,Processing,Marketplace
+2744,616,2026-03-19,Delivered,Website
+2745,610,2026-08-10,Delivered,Mobile App
+2746,469,2025-12-12,Processing,Social Commerce
+2747,389,2025-08-20,Processing,Mobile App
+2748,623,2026-08-21,Delivered,Website
+2749,416,2025-08-31,Returned,Mobile App
+2750,607,2026-09-01,Cancelled,Website
+2751,81,2026-05-14,Shipped,Marketplace
+2752,611,2025-04-15,Delivered,Website
+2753,729,2025-05-01,Delivered,Website
+2754,2,2025-11-22,Delivered,Social Commerce
+2755,466,2025-04-23,Shipped,Marketplace
+2756,333,2025-09-21,Delivered,Marketplace
+2757,836,2026-09-05,Processing,Website
+2758,45,2025-11-02,Processing,Marketplace
+2759,177,2026-09-17,Processing,Marketplace
+2760,760,2026-08-05,Delivered,Website
+2761,245,2026-05-28,Shipped,Social Commerce
+2762,627,2025-11-14,Delivered,Website
+2763,138,2025-10-16,Delivered,Website
+2764,145,2025-10-20,Shipped,Marketplace
+2765,194,2026-06-25,Cancelled,Website
+2766,535,2025-06-14,Delivered,Social Commerce
+2767,999,2025-07-16,Processing,Social Commerce
+2768,992,2025-10-29,Returned,Website
+2769,416,2026-05-22,Delivered,Website
+2770,752,2025-10-14,Delivered,Social Commerce
+2771,228,2026-09-17,Shipped,Website
+2772,431,2026-02-19,Delivered,Social Commerce
+2773,761,2025-01-18,Cancelled,Mobile App
+2774,213,2026-05-10,Delivered,Social Commerce
+2775,345,2025-03-25,Delivered,Mobile App
+2776,207,2025-07-07,Cancelled,Website
+2777,182,2025-06-27,Returned,Website
+2778,798,2025-02-16,Delivered,Website
+2779,115,2026-01-26,Returned,Social Commerce
+2780,397,2025-04-05,Delivered,Marketplace
+2781,699,2025-11-05,Cancelled,Social Commerce
+2782,159,2025-01-21,Shipped,Social Commerce
+2783,372,2025-01-06,Processing,Marketplace
+2784,657,2026-02-05,Delivered,Website
+2785,805,2025-03-01,Shipped,Mobile App
+2786,528,2026-03-10,Delivered,Marketplace
+2787,996,2026-08-16,Delivered,Website
+2788,625,2025-04-01,Delivered,Social Commerce
+2789,377,2026-08-07,Delivered,Marketplace
+2790,997,2026-09-11,Returned,Mobile App
+2791,428,2025-12-03,Returned,Social Commerce
+2792,884,2025-04-09,Delivered,Website
+2793,71,2025-04-18,Shipped,Marketplace
+2794,486,2025-06-07,Delivered,Social Commerce
+2795,960,2025-02-07,Processing,Website
+2796,581,2025-02-07,Cancelled,Marketplace
+2797,938,2026-07-28,Delivered,Mobile App
+2798,609,2026-03-31,Returned,Social Commerce
+2799,255,2025-01-18,Delivered,Marketplace
+2800,991,2025-10-15,Delivered,Marketplace
+2801,231,2026-09-20,Shipped,Marketplace
+2802,219,2026-09-19,Delivered,Website
+2803,636,2025-03-05,Shipped,Website
+2804,1,2026-07-17,Returned,Mobile App
+2805,694,2025-01-27,Delivered,Website
+2806,340,2025-01-20,Returned,Website
+2807,860,2025-06-03,Delivered,Marketplace
+2808,798,2025-01-11,Cancelled,Mobile App
+2809,977,2025-10-08,Delivered,Mobile App
+2810,78,2026-08-31,Delivered,Marketplace
+2811,870,2026-08-25,Delivered,Marketplace
+2812,488,2025-06-08,Shipped,Mobile App
+2813,681,2025-04-09,Delivered,Marketplace
+2814,118,2025-09-02,Delivered,Social Commerce
+2815,824,2025-06-16,Delivered,Website
+2816,223,2026-02-17,Delivered,Marketplace
+2817,186,2026-04-03,Delivered,Marketplace
+2818,300,2025-10-12,Cancelled,Marketplace
+2819,903,2025-12-15,Delivered,Mobile App
+2820,632,2025-05-18,Returned,Website
+2821,839,2026-04-01,Delivered,Social Commerce
+2822,453,2026-09-21,Delivered,Social Commerce
+2823,445,2025-08-30,Delivered,Website
+2824,237,2025-04-11,Shipped,Social Commerce
+2825,190,2026-05-25,Shipped,Marketplace
+2826,606,2025-08-01,Shipped,Marketplace
+2827,325,2025-07-08,Cancelled,Marketplace
+2828,371,2026-01-27,Delivered,Marketplace
+2829,786,2025-08-27,Delivered,Marketplace
+2830,627,2025-10-10,Delivered,Website
+2831,443,2026-09-04,Delivered,Mobile App
+2832,841,2026-05-29,Shipped,Mobile App
+2833,699,2026-03-27,Delivered,Mobile App
+2834,822,2026-08-09,Delivered,Social Commerce
+2835,508,2025-12-24,Cancelled,Social Commerce
+2836,997,2026-02-19,Delivered,Social Commerce
+2837,836,2025-05-14,Delivered,Marketplace
+2838,7,2025-05-31,Delivered,Marketplace
+2839,913,2025-03-15,Delivered,Website
+2840,45,2025-03-28,Processing,Mobile App
+2841,244,2025-04-17,Delivered,Marketplace
+2842,756,2026-08-28,Delivered,Marketplace
+2843,966,2025-05-17,Returned,Mobile App
+2844,622,2025-06-07,Delivered,Website
+2845,642,2026-06-15,Delivered,Website
+2846,43,2026-03-10,Delivered,Mobile App
+2847,11,2025-10-05,Delivered,Website
+2848,882,2025-08-01,Delivered,Mobile App
+2849,274,2025-03-05,Cancelled,Mobile App
+2850,310,2026-02-14,Cancelled,Social Commerce
+2851,157,2025-02-28,Delivered,Social Commerce
+2852,220,2025-10-18,Delivered,Social Commerce
+2853,593,2026-03-23,Cancelled,Mobile App
+2854,649,2026-06-18,Cancelled,Social Commerce
+2855,423,2025-06-05,Delivered,Marketplace
+2856,780,2025-08-04,Returned,Marketplace
+2857,12,2026-01-01,Delivered,Mobile App
+2858,528,2025-04-29,Delivered,Mobile App
+2859,980,2025-04-05,Delivered,Mobile App
+2860,910,2025-07-21,Shipped,Social Commerce
+2861,883,2026-07-17,Delivered,Marketplace
+2862,879,2025-10-17,Returned,Mobile App
+2863,300,2026-03-13,Cancelled,Website
+2864,823,2025-05-18,Cancelled,Social Commerce
+2865,708,2026-06-08,Delivered,Mobile App
+2866,334,2026-02-10,Delivered,Social Commerce
+2867,317,2025-01-19,Delivered,Marketplace
+2868,306,2025-02-27,Cancelled,Marketplace
+2869,59,2025-02-01,Shipped,Mobile App
+2870,687,2025-11-20,Shipped,Marketplace
+2871,508,2026-02-18,Delivered,Social Commerce
+2872,433,2026-03-31,Delivered,Marketplace
+2873,619,2026-08-23,Delivered,Mobile App
+2874,820,2025-08-10,Delivered,Website
+2875,365,2025-01-12,Shipped,Social Commerce
+2876,566,2025-02-01,Shipped,Marketplace
+2877,526,2026-04-20,Delivered,Marketplace
+2878,514,2026-05-31,Cancelled,Website
+2879,22,2026-03-18,Delivered,Social Commerce
+2880,832,2025-02-08,Delivered,Marketplace
+2881,940,2025-05-31,Delivered,Mobile App
+2882,613,2025-05-20,Shipped,Website
+2883,872,2026-08-26,Delivered,Social Commerce
+2884,960,2025-11-20,Delivered,Social Commerce
+2885,633,2026-02-09,Delivered,Social Commerce
+2886,606,2026-04-03,Delivered,Website
+2887,96,2025-10-28,Delivered,Marketplace
+2888,851,2026-09-11,Delivered,Marketplace
+2889,433,2025-07-24,Delivered,Website
+2890,474,2025-03-23,Delivered,Marketplace
+2891,505,2026-04-05,Cancelled,Website
+2892,159,2026-06-02,Delivered,Mobile App
+2893,973,2026-01-23,Processing,Website
+2894,581,2026-06-19,Delivered,Mobile App
+2895,681,2025-06-18,Delivered,Mobile App
+2896,960,2025-10-13,Shipped,Marketplace
+2897,408,2025-05-05,Delivered,Social Commerce
+2898,901,2026-07-06,Cancelled,Mobile App
+2899,255,2026-07-27,Delivered,Marketplace
+2900,551,2025-06-23,Processing,Mobile App
+2901,382,2026-08-21,Shipped,Social Commerce
+2902,169,2025-05-27,Delivered,Mobile App
+2903,43,2026-08-29,Processing,Social Commerce
+2904,780,2026-02-07,Delivered,Website
+2905,138,2025-01-27,Delivered,Social Commerce
+2906,497,2025-07-10,Delivered,Social Commerce
+2907,432,2025-02-04,Processing,Mobile App
+2908,615,2025-12-06,Delivered,Social Commerce
+2909,144,2026-06-16,Delivered,Website
+2910,896,2025-01-15,Cancelled,Website
+2911,1000,2025-03-24,Processing,Social Commerce
+2912,114,2026-06-01,Processing,Website
+2913,559,2025-11-26,Delivered,Website
+2914,821,2025-11-02,Delivered,Website
+2915,99,2026-02-03,Delivered,Mobile App
+2916,805,2025-07-05,Processing,Social Commerce
+2917,384,2025-07-27,Shipped,Mobile App
+2918,344,2026-06-10,Shipped,Website
+2919,378,2026-03-06,Delivered,Marketplace
+2920,305,2026-09-29,Delivered,Marketplace
+2921,525,2025-08-22,Delivered,Mobile App
+2922,868,2025-01-03,Delivered,Social Commerce
+2923,942,2026-03-27,Delivered,Marketplace
+2924,979,2026-01-11,Delivered,Marketplace
+2925,759,2026-01-09,Delivered,Marketplace
+2926,65,2025-02-06,Delivered,Website
+2927,532,2026-06-20,Delivered,Mobile App
+2928,579,2025-07-16,Shipped,Mobile App
+2929,443,2025-12-26,Delivered,Marketplace
+2930,374,2026-02-18,Processing,Marketplace
+2931,722,2026-03-23,Shipped,Website
+2932,87,2026-07-11,Delivered,Website
+2933,887,2025-08-03,Delivered,Social Commerce
+2934,560,2025-05-24,Cancelled,Mobile App
+2935,330,2026-05-22,Delivered,Mobile App
+2936,126,2026-06-01,Delivered,Mobile App
+2937,306,2025-06-13,Returned,Marketplace
+2938,404,2025-03-31,Delivered,Marketplace
+2939,833,2026-02-16,Shipped,Marketplace
+2940,102,2026-07-23,Delivered,Social Commerce
+2941,925,2025-12-29,Delivered,Social Commerce
+2942,207,2025-08-13,Delivered,Social Commerce
+2943,279,2026-01-11,Delivered,Website
+2944,348,2026-02-21,Cancelled,Mobile App
+2945,201,2025-07-02,Processing,Website
+2946,744,2025-11-15,Delivered,Website
+2947,270,2025-04-15,Delivered,Website
+2948,829,2025-07-06,Delivered,Marketplace
+2949,503,2025-09-28,Delivered,Mobile App
+2950,697,2025-08-30,Cancelled,Social Commerce
+2951,995,2025-01-02,Delivered,Website
+2952,495,2026-06-03,Processing,Mobile App
+2953,909,2026-02-16,Shipped,Social Commerce
+2954,23,2026-02-21,Cancelled,Marketplace
+2955,225,2026-03-10,Shipped,Marketplace
+2956,171,2025-10-22,Processing,Social Commerce
+2957,31,2025-01-09,Shipped,Website
+2958,854,2025-03-03,Delivered,Marketplace
+2959,559,2025-10-05,Delivered,Marketplace
+2960,292,2025-11-19,Delivered,Website
+2961,834,2025-06-03,Delivered,Website
+2962,181,2025-01-02,Delivered,Social Commerce
+2963,156,2026-06-24,Delivered,Website
+2964,531,2026-08-19,Delivered,Social Commerce
+2965,804,2026-05-09,Processing,Social Commerce
+2966,769,2026-03-14,Shipped,Website
+2967,324,2025-11-06,Delivered,Social Commerce
+2968,346,2025-05-11,Delivered,Social Commerce
+2969,430,2026-02-24,Shipped,Social Commerce
+2970,746,2026-03-12,Returned,Social Commerce
+2971,138,2025-01-20,Returned,Marketplace
+2972,459,2026-09-30,Delivered,Website
+2973,465,2026-04-21,Delivered,Mobile App
+2974,756,2025-03-19,Processing,Social Commerce
+2975,503,2026-05-06,Returned,Marketplace
+2976,409,2025-07-28,Delivered,Social Commerce
+2977,795,2026-08-19,Delivered,Marketplace
+2978,427,2025-02-21,Delivered,Mobile App
+2979,437,2025-12-21,Delivered,Marketplace
+2980,646,2026-09-09,Processing,Mobile App
+2981,244,2026-04-09,Cancelled,Mobile App
+2982,17,2025-04-10,Delivered,Mobile App
+2983,403,2025-02-12,Returned,Marketplace
+2984,630,2026-04-21,Delivered,Mobile App
+2985,536,2026-02-16,Delivered,Social Commerce
+2986,419,2025-03-21,Delivered,Website
+2987,824,2025-01-19,Cancelled,Social Commerce
+2988,467,2025-09-14,Cancelled,Website
+2989,676,2025-06-08,Delivered,Mobile App
+2990,711,2026-05-11,Processing,Website
+2991,286,2026-06-13,Delivered,Social Commerce
+2992,192,2025-12-08,Delivered,Social Commerce
+2993,43,2026-09-22,Delivered,Marketplace
+2994,36,2025-10-10,Delivered,Mobile App
+2995,38,2026-02-09,Processing,Social Commerce
+2996,816,2025-05-04,Delivered,Marketplace
+2997,332,2026-02-18,Delivered,Mobile App
+2998,979,2026-05-20,Delivered,Website
+2999,916,2025-02-05,Processing,Mobile App
+3000,675,2025-09-19,Delivered,Marketplace

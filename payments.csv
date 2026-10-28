@@ -1,0 +1,3001 @@
+payment_id,order_id,payment_method,payment_status,amount
+1,1,Cash on Delivery,Paid,32853.1
+2,2,Wallet,Paid,32507.1
+3,3,UPI,Paid,20609.29
+4,4,Cash on Delivery,Paid,23295.86
+5,5,Net Banking,Paid,10703.68
+6,6,UPI,Paid,8156.36
+7,7,Net Banking,Paid,14103.19
+8,8,Wallet,Paid,29779.66
+9,9,Net Banking,Paid,13770.72
+10,10,Cash on Delivery,Paid,14360.32
+11,11,Net Banking,Paid,34826.36
+12,12,Net Banking,Refunded,12154.49
+13,13,UPI,Paid,34217.86
+14,14,Net Banking,Paid,31648.9
+15,15,Card,Paid,22651.2
+16,16,Card,Paid,25919.69
+17,17,UPI,Paid,16363.45
+18,18,Wallet,Paid,13124.66
+19,19,UPI,Refunded,20639.09
+20,20,Card,Refunded,30385.29
+21,21,Card,Refunded,20977.01
+22,22,UPI,Refunded,20211.12
+23,23,UPI,Paid,23563.49
+24,24,Wallet,Refunded,29806.58
+25,25,Net Banking,Paid,25076.21
+26,26,UPI,Paid,10055.42
+27,27,Wallet,Refunded,23988.48
+28,28,Card,Paid,26878.44
+29,29,UPI,Paid,22784.82
+30,30,UPI,Failed,22199.22
+31,31,Net Banking,Paid,26215.4
+32,32,Net Banking,Failed,40472.48
+33,33,Cash on Delivery,Paid,19388.6
+34,34,UPI,Paid,18402.15
+35,35,Net Banking,Paid,51071.44
+36,36,Wallet,Paid,15271.62
+37,37,Card,Paid,26023.11
+38,38,Card,Paid,3344.65
+39,39,UPI,Paid,9811.72
+40,40,Cash on Delivery,Refunded,7101.22
+41,41,UPI,Paid,24104.34
+42,42,Net Banking,Paid,9628.01
+43,43,Net Banking,Paid,22794.42
+44,44,Net Banking,Paid,18574.68
+45,45,Wallet,Paid,19309.16
+46,46,Net Banking,Paid,25581.83
+47,47,Net Banking,Paid,10352.66
+48,48,Card,Refunded,30257.4
+49,49,UPI,Paid,42678.52
+50,50,Wallet,Paid,21912.14
+51,51,Card,Paid,33651.22
+52,52,UPI,Paid,13984.62
+53,53,Net Banking,Paid,11926.24
+54,54,Card,Refunded,31339.58
+55,55,Net Banking,Paid,33198.88
+56,56,Wallet,Paid,21757.17
+57,57,UPI,Paid,17136.0
+58,58,Wallet,Paid,17606.17
+59,59,Card,Paid,24156.54
+60,60,Card,Paid,13874.96
+61,61,Net Banking,Paid,6689.87
+62,62,Wallet,Paid,20161.68
+63,63,Cash on Delivery,Paid,37718.04
+64,64,Card,Refunded,34773.04
+65,65,Net Banking,Paid,7499.37
+66,66,Wallet,Paid,4279.37
+67,67,Cash on Delivery,Paid,33248.24
+68,68,Wallet,Refunded,25403.34
+69,69,Cash on Delivery,Paid,23117.52
+70,70,Cash on Delivery,Paid,39559.96
+71,71,Wallet,Refunded,38003.42
+72,72,Net Banking,Paid,8065.9
+73,73,Cash on Delivery,Paid,14108.6
+74,74,Net Banking,Paid,15367.34
+75,75,Card,Paid,29043.79
+76,76,Net Banking,Paid,3860.44
+77,77,Card,Paid,6104.83
+78,78,Wallet,Paid,20554.4
+79,79,UPI,Refunded,26388.81
+80,80,Card,Paid,16468.61
+81,81,Cash on Delivery,Paid,15796.38
+82,82,Wallet,Failed,18925.22
+83,83,UPI,Paid,16757.2
+84,84,Cash on Delivery,Paid,18728.16
+85,85,Net Banking,Paid,11877.12
+86,86,UPI,Failed,32040.36
+87,87,Wallet,Paid,38079.92
+88,88,Net Banking,Paid,22268.48
+89,89,Wallet,Refunded,34721.92
+90,90,UPI,Paid,43421.08
+91,91,Wallet,Refunded,6980.38
+92,92,UPI,Paid,31426.96
+93,93,UPI,Paid,17903.88
+94,94,Net Banking,Paid,27039.12
+95,95,Net Banking,Paid,22885.77
+96,96,Net Banking,Paid,13687.42
+97,97,Wallet,Failed,1765.31
+98,98,Wallet,Paid,16885.55
+99,99,Cash on Delivery,Paid,15648.19
+100,100,Net Banking,Paid,4980.25
+101,101,Cash on Delivery,Paid,40138.52
+102,102,UPI,Paid,19760.45
+103,103,Net Banking,Refunded,20116.98
+104,104,UPI,Failed,20932.83
+105,105,Net Banking,Paid,16803.18
+106,106,Card,Paid,5210.53
+107,107,Net Banking,Paid,17723.88
+108,108,Cash on Delivery,Paid,42652.88
+109,109,UPI,Paid,33566.76
+110,110,UPI,Paid,9391.96
+111,111,Wallet,Failed,10555.92
+112,112,Wallet,Paid,23576.06
+113,113,Cash on Delivery,Failed,18416.16
+114,114,Card,Paid,9313.3
+115,115,UPI,Paid,2528.11
+116,116,Cash on Delivery,Paid,21237.73
+117,117,UPI,Paid,16833.76
+118,118,Cash on Delivery,Paid,20614.64
+119,119,Card,Paid,12963.18
+120,120,UPI,Paid,28718.01
+121,121,Card,Paid,19455.8
+122,122,Card,Paid,20923.68
+123,123,Net Banking,Paid,4958.92
+124,124,Card,Paid,36301.76
+125,125,Wallet,Paid,13806.03
+126,126,UPI,Paid,16645.76
+127,127,Card,Paid,43208.53
+128,128,Wallet,Paid,24123.21
+129,129,UPI,Paid,16442.4
+130,130,Net Banking,Paid,11480.52
+131,131,Wallet,Paid,6908.54
+132,132,UPI,Paid,38411.34
+133,133,Card,Paid,18962.05
+134,134,UPI,Paid,37252.18
+135,135,Cash on Delivery,Paid,9715.38
+136,136,Card,Refunded,42798.26
+137,137,Wallet,Paid,15609.15
+138,138,UPI,Paid,31183.31
+139,139,Wallet,Paid,23607.22
+140,140,Net Banking,Paid,21065.58
+141,141,Card,Paid,29548.77
+142,142,Card,Paid,25793.78
+143,143,Cash on Delivery,Paid,19591.42
+144,144,Card,Paid,19646.76
+145,145,Card,Paid,15801.27
+146,146,Net Banking,Paid,4436.62
+147,147,Cash on Delivery,Paid,9746.73
+148,148,Net Banking,Paid,22846.16
+149,149,UPI,Paid,5539.2
+150,150,Cash on Delivery,Paid,5434.33
+151,151,Net Banking,Paid,4396.89
+152,152,Cash on Delivery,Paid,30435.9
+153,153,Card,Failed,52038.66
+154,154,Cash on Delivery,Paid,8297.0
+155,155,Net Banking,Refunded,11550.79
+156,156,UPI,Paid,37530.36
+157,157,Wallet,Paid,16658.04
+158,158,UPI,Failed,21274.93
+159,159,Card,Paid,29005.96
+160,160,Cash on Delivery,Paid,26382.64
+161,161,Net Banking,Paid,19065.9
+162,162,Cash on Delivery,Paid,3694.43
+163,163,UPI,Paid,25880.45
+164,164,UPI,Paid,29773.42
+165,165,Net Banking,Paid,20771.22
+166,166,UPI,Paid,4859.22
+167,167,Wallet,Paid,34947.9
+168,168,Cash on Delivery,Paid,13275.3
+169,169,Card,Paid,34925.6
+170,170,Net Banking,Paid,9777.46
+171,171,Cash on Delivery,Paid,14572.76
+172,172,Wallet,Paid,7929.7
+173,173,Cash on Delivery,Paid,7942.91
+174,174,Cash on Delivery,Refunded,12656.48
+175,175,Card,Paid,13504.43
+176,176,UPI,Paid,20061.0
+177,177,UPI,Paid,16757.56
+178,178,Net Banking,Paid,23876.81
+179,179,Net Banking,Paid,2224.12
+180,180,Cash on Delivery,Paid,27037.59
+181,181,Card,Paid,21587.36
+182,182,UPI,Paid,25477.8
+183,183,Card,Refunded,2967.76
+184,184,Card,Paid,37525.46
+185,185,UPI,Failed,39462.42
+186,186,UPI,Paid,8384.91
+187,187,Card,Paid,33650.4
+188,188,Wallet,Paid,18775.2
+189,189,Net Banking,Paid,21254.34
+190,190,Wallet,Paid,15782.88
+191,191,UPI,Paid,21325.19
+192,192,UPI,Paid,24680.32
+193,193,Wallet,Failed,13775.68
+194,194,Cash on Delivery,Paid,37789.04
+195,195,UPI,Paid,12503.06
+196,196,Wallet,Refunded,14437.48
+197,197,Card,Paid,22227.27
+198,198,Cash on Delivery,Paid,35407.37
+199,199,Wallet,Paid,7973.64
+200,200,Wallet,Paid,14559.85
+201,201,Net Banking,Refunded,28411.0
+202,202,Net Banking,Paid,7007.85
+203,203,Net Banking,Paid,15810.66
+204,204,Net Banking,Paid,7733.59
+205,205,Wallet,Paid,35652.63
+206,206,Net Banking,Paid,9579.31
+207,207,Card,Paid,16293.44
+208,208,Net Banking,Paid,30084.62
+209,209,Net Banking,Paid,32660.66
+210,210,Card,Paid,10158.6
+211,211,Card,Paid,20909.63
+212,212,UPI,Paid,21079.72
+213,213,UPI,Paid,10138.52
+214,214,Card,Paid,26928.26
+215,215,Wallet,Paid,51748.75
+216,216,Net Banking,Failed,7189.74
+217,217,Cash on Delivery,Paid,30021.71
+218,218,Net Banking,Paid,34514.25
+219,219,UPI,Failed,30799.3
+220,220,Card,Paid,26241.83
+221,221,Wallet,Paid,23160.6
+222,222,Card,Paid,18254.8
+223,223,Net Banking,Paid,13972.7
+224,224,Wallet,Paid,7586.43
+225,225,Card,Paid,17621.74
+226,226,Net Banking,Paid,32303.67
+227,227,Card,Paid,10133.37
+228,228,Cash on Delivery,Paid,15796.05
+229,229,Card,Paid,19061.34
+230,230,Cash on Delivery,Paid,36363.06
+231,231,Card,Paid,6662.46
+232,232,Cash on Delivery,Paid,12209.66
+233,233,Net Banking,Paid,33030.3
+234,234,Net Banking,Paid,29209.98
+235,235,Cash on Delivery,Paid,27436.77
+236,236,Card,Refunded,48184.72
+237,237,Net Banking,Paid,50845.23
+238,238,Cash on Delivery,Paid,21102.85
+239,239,Card,Paid,23936.65
+240,240,Cash on Delivery,Paid,36368.11
+241,241,UPI,Paid,36219.26
+242,242,Wallet,Paid,19994.87
+243,243,Card,Paid,8976.14
+244,244,Net Banking,Paid,4632.42
+245,245,Net Banking,Failed,36293.94
+246,246,Card,Paid,18343.62
+247,247,Wallet,Paid,22413.99
+248,248,Net Banking,Paid,17246.0
+249,249,Net Banking,Paid,24353.94
+250,250,UPI,Paid,15648.73
+251,251,Card,Paid,9253.57
+252,252,Cash on Delivery,Paid,24872.13
+253,253,Wallet,Paid,31035.76
+254,254,Wallet,Paid,20657.68
+255,255,UPI,Paid,32780.14
+256,256,Card,Paid,9094.71
+257,257,Wallet,Paid,6693.88
+258,258,Wallet,Failed,27622.09
+259,259,Cash on Delivery,Paid,10117.39
+260,260,UPI,Paid,12917.52
+261,261,Cash on Delivery,Paid,20363.46
+262,262,Wallet,Paid,9577.79
+263,263,Wallet,Paid,21085.54
+264,264,Cash on Delivery,Paid,12994.44
+265,265,UPI,Paid,8805.4
+266,266,Wallet,Paid,19520.48
+267,267,Cash on Delivery,Paid,27256.62
+268,268,Wallet,Paid,14295.63
+269,269,Card,Refunded,17953.02
+270,270,UPI,Paid,20808.99
+271,271,Net Banking,Paid,43598.78
+272,272,Cash on Delivery,Paid,18185.72
+273,273,Net Banking,Paid,22599.81
+274,274,Card,Paid,16552.16
+275,275,Cash on Delivery,Paid,13854.98
+276,276,UPI,Paid,9348.56
+277,277,Net Banking,Failed,19550.17
+278,278,Net Banking,Failed,9628.4
+279,279,Card,Paid,21657.39
+280,280,Wallet,Paid,40297.9
+281,281,Wallet,Paid,15216.9
+282,282,UPI,Paid,20205.47
+283,283,Cash on Delivery,Refunded,23763.24
+284,284,Card,Paid,31021.42
+285,285,Wallet,Paid,20242.46
+286,286,Card,Paid,10541.42
+287,287,Cash on Delivery,Paid,28833.21
+288,288,Card,Paid,19928.96
+289,289,Card,Failed,21178.75
+290,290,Wallet,Paid,7947.1
+291,291,Cash on Delivery,Paid,11758.22
+292,292,Cash on Delivery,Failed,22206.24
+293,293,Wallet,Refunded,6162.71
+294,294,Net Banking,Paid,27353.72
+295,295,Net Banking,Paid,9846.35
+296,296,UPI,Paid,29163.88
+297,297,Net Banking,Refunded,15491.56
+298,298,Card,Paid,29020.77
+299,299,UPI,Paid,26804.15
+300,300,Card,Paid,39392.12
+301,301,Cash on Delivery,Paid,18301.41
+302,302,Net Banking,Paid,48931.02
+303,303,Cash on Delivery,Paid,53685.38
+304,304,Card,Paid,4155.44
+305,305,Wallet,Paid,33930.38
+306,306,Cash on Delivery,Paid,9566.34
+307,307,Net Banking,Failed,7900.41
+308,308,Net Banking,Refunded,8561.74
+309,309,UPI,Paid,22652.18
+310,310,UPI,Refunded,7019.7
+311,311,Net Banking,Paid,41390.76
+312,312,UPI,Paid,15905.12
+313,313,Net Banking,Paid,33266.44
+314,314,UPI,Paid,19356.12
+315,315,Card,Paid,10031.77
+316,316,Wallet,Failed,9875.81
+317,317,Net Banking,Paid,32158.3
+318,318,Card,Paid,22983.46
+319,319,Net Banking,Paid,24554.44
+320,320,Card,Paid,29917.54
+321,321,Wallet,Paid,11270.43
+322,322,Net Banking,Paid,12195.79
+323,323,Wallet,Paid,37701.36
+324,324,Cash on Delivery,Paid,48930.76
+325,325,Wallet,Paid,14599.03
+326,326,UPI,Paid,26832.16
+327,327,Net Banking,Paid,24999.44
+328,328,Card,Paid,48815.14
+329,329,Cash on Delivery,Paid,7905.71
+330,330,Card,Paid,21868.62
+331,331,Cash on Delivery,Paid,22680.62
+332,332,Wallet,Paid,16713.92
+333,333,Card,Refunded,14265.83
+334,334,Cash on Delivery,Refunded,13409.6
+335,335,Cash on Delivery,Failed,25101.67
+336,336,Net Banking,Paid,21059.24
+337,337,Wallet,Paid,33808.38
+338,338,Card,Paid,7566.42
+339,339,Cash on Delivery,Failed,32165.56
+340,340,Wallet,Paid,34379.72
+341,341,Cash on Delivery,Paid,25972.38
+342,342,Card,Failed,30147.64
+343,343,Wallet,Paid,10586.88
+344,344,UPI,Paid,14916.92
+345,345,Card,Paid,3717.54
+346,346,UPI,Paid,4472.76
+347,347,UPI,Paid,13390.85
+348,348,Net Banking,Paid,12605.6
+349,349,Wallet,Paid,11761.61
+350,350,Cash on Delivery,Paid,42842.09
+351,351,Wallet,Paid,30192.45
+352,352,Cash on Delivery,Paid,25458.34
+353,353,Net Banking,Paid,38173.9
+354,354,Card,Refunded,27612.06
+355,355,UPI,Failed,30710.24
+356,356,Cash on Delivery,Paid,21706.49
+357,357,UPI,Paid,7147.07
+358,358,Cash on Delivery,Paid,8542.45
+359,359,Cash on Delivery,Paid,5377.11
+360,360,Net Banking,Paid,36716.88
+361,361,Card,Paid,14290.16
+362,362,Net Banking,Failed,32993.88
+363,363,UPI,Paid,21528.62
+364,364,Cash on Delivery,Paid,32780.14
+365,365,UPI,Paid,21521.96
+366,366,Wallet,Refunded,29299.72
+367,367,Card,Paid,23094.76
+368,368,Wallet,Failed,22741.32
+369,369,Cash on Delivery,Paid,17044.04
+370,370,Card,Paid,17369.67
+371,371,Wallet,Paid,4303.41
+372,372,Wallet,Paid,9082.9
+373,373,UPI,Paid,18589.71
+374,374,Cash on Delivery,Paid,29056.84
+375,375,Net Banking,Paid,9690.57
+376,376,Card,Paid,35798.32
+377,377,UPI,Refunded,7151.15
+378,378,Card,Paid,26644.79
+379,379,Cash on Delivery,Paid,15714.15
+380,380,Cash on Delivery,Paid,28088.84
+381,381,Card,Paid,32983.29
+382,382,Card,Paid,19423.37
+383,383,Net Banking,Paid,12134.36
+384,384,Cash on Delivery,Paid,18085.33
+385,385,Cash on Delivery,Paid,13014.1
+386,386,Net Banking,Paid,18159.78
+387,387,Cash on Delivery,Paid,13726.76
+388,388,UPI,Paid,13232.9
+389,389,Wallet,Paid,5641.21
+390,390,Wallet,Paid,21503.88
+391,391,Wallet,Paid,18119.82
+392,392,Net Banking,Paid,33261.2
+393,393,Wallet,Paid,44208.71
+394,394,Wallet,Paid,33489.69
+395,395,UPI,Paid,8057.53
+396,396,Card,Paid,8141.95
+397,397,UPI,Paid,9729.1
+398,398,Card,Paid,36199.96
+399,399,Cash on Delivery,Paid,23277.48
+400,400,Cash on Delivery,Failed,10529.17
+401,401,Net Banking,Paid,26697.66
+402,402,UPI,Paid,27759.64
+403,403,UPI,Paid,8873.06
+404,404,Cash on Delivery,Paid,16415.37
+405,405,Card,Paid,3378.08
+406,406,Card,Paid,26904.02
+407,407,Net Banking,Refunded,18237.72
+408,408,Net Banking,Paid,26588.74
+409,409,Wallet,Paid,13292.63
+410,410,Cash on Delivery,Paid,19248.86
+411,411,Cash on Delivery,Paid,19550.17
+412,412,UPI,Paid,26279.04
+413,413,Wallet,Failed,19381.27
+414,414,Wallet,Refunded,15212.92
+415,415,Wallet,Paid,19069.0
+416,416,Net Banking,Paid,5380.67
+417,417,UPI,Paid,22911.3
+418,418,Cash on Delivery,Failed,15795.2
+419,419,Net Banking,Paid,30369.12
+420,420,Cash on Delivery,Failed,33973.19
+421,421,Wallet,Paid,19445.34
+422,422,Wallet,Paid,20996.13
+423,423,Wallet,Failed,21760.62
+424,424,Wallet,Failed,27371.03
+425,425,Card,Paid,31743.74
+426,426,Card,Paid,15637.28
+427,427,Cash on Delivery,Paid,18930.65
+428,428,Cash on Delivery,Paid,14923.51
+429,429,Cash on Delivery,Paid,16351.7
+430,430,Net Banking,Paid,37980.23
+431,431,UPI,Paid,6857.07
+432,432,Wallet,Paid,34070.13
+433,433,Net Banking,Paid,4846.96
+434,434,Card,Paid,24363.31
+435,435,Wallet,Paid,8829.99
+436,436,UPI,Paid,28277.78
+437,437,Wallet,Paid,42217.53
+438,438,UPI,Paid,35074.6
+439,439,Cash on Delivery,Paid,4001.94
+440,440,Wallet,Paid,11347.65
+441,441,Net Banking,Paid,18685.78
+442,442,Card,Paid,23572.09
+443,443,Cash on Delivery,Paid,13355.99
+444,444,Wallet,Paid,9694.2
+445,445,Wallet,Paid,27295.46
+446,446,Wallet,Paid,38946.74
+447,447,Card,Paid,19599.83
+448,448,Wallet,Paid,33289.64
+449,449,Wallet,Failed,9815.98
+450,450,UPI,Failed,15646.1
+451,451,Net Banking,Paid,17804.04
+452,452,Wallet,Paid,42102.32
+453,453,Wallet,Paid,7117.06
+454,454,Cash on Delivery,Paid,30062.22
+455,455,Card,Paid,7590.06
+456,456,Cash on Delivery,Paid,10627.17
+457,457,Card,Paid,15462.51
+458,458,Wallet,Paid,7911.39
+459,459,Wallet,Paid,49344.29
+460,460,UPI,Failed,17622.72
+461,461,UPI,Paid,14419.42
+462,462,Wallet,Refunded,22503.09
+463,463,UPI,Paid,16270.36
+464,464,Wallet,Paid,7132.01
+465,465,Card,Paid,16924.77
+466,466,Cash on Delivery,Failed,2150.88
+467,467,Wallet,Refunded,10647.88
+468,468,Cash on Delivery,Paid,2983.79
+469,469,Cash on Delivery,Paid,6670.23
+470,470,Net Banking,Paid,23666.31
+471,471,Card,Paid,25434.02
+472,472,Net Banking,Paid,20769.35
+473,473,Card,Failed,8666.72
+474,474,UPI,Paid,26682.46
+475,475,Wallet,Paid,42607.69
+476,476,Wallet,Paid,11703.54
+477,477,Net Banking,Refunded,14422.67
+478,478,Card,Paid,16928.31
+479,479,Card,Paid,9465.71
+480,480,Wallet,Refunded,16330.45
+481,481,UPI,Paid,20686.88
+482,482,Wallet,Paid,22163.51
+483,483,Net Banking,Paid,19922.76
+484,484,Card,Paid,25133.92
+485,485,Cash on Delivery,Paid,24386.41
+486,486,Cash on Delivery,Refunded,7032.96
+487,487,Wallet,Failed,31540.38
+488,488,Net Banking,Refunded,11060.56
+489,489,Net Banking,Paid,14599.92
+490,490,Wallet,Paid,17786.16
+491,491,UPI,Paid,3451.96
+492,492,Cash on Delivery,Paid,1341.66
+493,493,Net Banking,Paid,27695.64
+494,494,Cash on Delivery,Paid,14638.68
+495,495,Net Banking,Paid,14676.67
+496,496,Card,Paid,17466.13
+497,497,Card,Failed,27771.93
+498,498,UPI,Refunded,31853.16
+499,499,Wallet,Paid,25364.58
+500,500,Cash on Delivery,Paid,30207.08
+501,501,Wallet,Refunded,37461.48
+502,502,Net Banking,Paid,16883.07
+503,503,Cash on Delivery,Paid,25471.7
+504,504,Card,Paid,19061.62
+505,505,UPI,Paid,30658.38
+506,506,Wallet,Paid,27681.51
+507,507,Wallet,Paid,41318.0
+508,508,UPI,Paid,11320.17
+509,509,Net Banking,Paid,13999.75
+510,510,Cash on Delivery,Paid,22548.49
+511,511,Card,Paid,8615.92
+512,512,Wallet,Paid,20656.08
+513,513,Wallet,Paid,3165.04
+514,514,Net Banking,Paid,13152.48
+515,515,Net Banking,Refunded,32943.3
+516,516,Card,Paid,31404.67
+517,517,Net Banking,Paid,16647.6
+518,518,UPI,Paid,11495.18
+519,519,Cash on Delivery,Paid,37724.13
+520,520,UPI,Paid,15821.27
+521,521,Card,Paid,34186.2
+522,522,UPI,Refunded,7777.6
+523,523,Cash on Delivery,Failed,16498.96
+524,524,UPI,Paid,23204.62
+525,525,Cash on Delivery,Paid,26303.52
+526,526,UPI,Refunded,18253.52
+527,527,Net Banking,Paid,6384.87
+528,528,Wallet,Paid,37609.14
+529,529,UPI,Paid,8769.93
+530,530,UPI,Paid,35017.76
+531,531,Card,Paid,13000.68
+532,532,Net Banking,Paid,26022.42
+533,533,Card,Paid,6013.72
+534,534,Wallet,Paid,11978.65
+535,535,Cash on Delivery,Paid,2649.21
+536,536,UPI,Paid,8767.8
+537,537,UPI,Paid,20344.22
+538,538,Cash on Delivery,Paid,39136.64
+539,539,Net Banking,Failed,22442.13
+540,540,UPI,Paid,10708.39
+541,541,Card,Paid,5310.68
+542,542,UPI,Paid,10296.13
+543,543,Cash on Delivery,Paid,13118.86
+544,544,Card,Paid,27284.12
+545,545,Card,Paid,19435.49
+546,546,Card,Paid,1508.97
+547,547,Wallet,Refunded,8041.17
+548,548,Cash on Delivery,Paid,24011.82
+549,549,UPI,Paid,37555.77
+550,550,Net Banking,Paid,23751.52
+551,551,Wallet,Failed,25849.56
+552,552,Cash on Delivery,Refunded,14708.86
+553,553,Card,Refunded,8229.92
+554,554,UPI,Paid,33814.96
+555,555,Cash on Delivery,Paid,11089.53
+556,556,Wallet,Paid,12245.17
+557,557,Cash on Delivery,Paid,13182.36
+558,558,UPI,Paid,49178.8
+559,559,Cash on Delivery,Paid,33924.08
+560,560,UPI,Paid,23659.65
+561,561,Wallet,Paid,6702.0
+562,562,Net Banking,Refunded,9130.12
+563,563,Wallet,Paid,3468.15
+564,564,Wallet,Paid,23719.09
+565,565,Cash on Delivery,Paid,23535.05
+566,566,UPI,Paid,35971.47
+567,567,Cash on Delivery,Paid,39037.12
+568,568,Card,Failed,20522.26
+569,569,Net Banking,Paid,32365.64
+570,570,UPI,Paid,5911.36
+571,571,Wallet,Paid,7073.32
+572,572,Wallet,Failed,7738.79
+573,573,UPI,Failed,12476.01
+574,574,Wallet,Failed,15156.6
+575,575,UPI,Paid,16480.65
+576,576,Cash on Delivery,Paid,8286.9
+577,577,Wallet,Paid,36896.98
+578,578,Card,Paid,23377.78
+579,579,Card,Paid,15500.17
+580,580,UPI,Paid,5201.52
+581,581,Wallet,Paid,29971.3
+582,582,Wallet,Paid,26069.12
+583,583,Cash on Delivery,Paid,9292.47
+584,584,Net Banking,Refunded,23538.67
+585,585,Net Banking,Paid,42322.31
+586,586,Card,Paid,16001.95
+587,587,Wallet,Paid,12910.43
+588,588,Cash on Delivery,Paid,9763.17
+589,589,UPI,Paid,24048.1
+590,590,Wallet,Paid,46586.12
+591,591,Card,Paid,34014.22
+592,592,Wallet,Paid,27702.35
+593,593,Wallet,Failed,37399.05
+594,594,Cash on Delivery,Paid,8618.94
+595,595,Net Banking,Refunded,8542.45
+596,596,Cash on Delivery,Refunded,14132.26
+597,597,UPI,Paid,37229.2
+598,598,UPI,Paid,33157.2
+599,599,Wallet,Paid,2233.47
+600,600,Cash on Delivery,Paid,16710.3
+601,601,Wallet,Paid,2408.86
+602,602,UPI,Paid,10847.16
+603,603,Wallet,Paid,26972.85
+604,604,Net Banking,Paid,44671.78
+605,605,Cash on Delivery,Paid,28101.48
+606,606,Net Banking,Paid,16486.65
+607,607,Net Banking,Paid,24605.36
+608,608,UPI,Paid,9677.16
+609,609,Cash on Delivery,Paid,25758.45
+610,610,Net Banking,Paid,18176.6
+611,611,Cash on Delivery,Paid,11585.94
+612,612,UPI,Paid,13087.03
+613,613,Net Banking,Paid,11054.64
+614,614,Wallet,Paid,15049.83
+615,615,Wallet,Paid,20617.54
+616,616,Wallet,Paid,10998.56
+617,617,Cash on Delivery,Paid,17201.34
+618,618,Card,Paid,16014.48
+619,619,Wallet,Paid,21352.04
+620,620,UPI,Paid,20133.16
+621,621,Cash on Delivery,Paid,33033.42
+622,622,Cash on Delivery,Paid,21192.29
+623,623,Cash on Delivery,Paid,23792.95
+624,624,Card,Paid,7810.73
+625,625,Wallet,Failed,9535.54
+626,626,Wallet,Paid,13086.77
+627,627,UPI,Paid,12016.91
+628,628,Cash on Delivery,Paid,21277.98
+629,629,Cash on Delivery,Paid,8107.67
+630,630,Net Banking,Paid,31311.37
+631,631,Card,Paid,10195.04
+632,632,UPI,Refunded,15648.19
+633,633,Net Banking,Paid,8434.8
+634,634,Card,Paid,25556.22
+635,635,Wallet,Paid,8195.45
+636,636,UPI,Refunded,14699.5
+637,637,UPI,Paid,62489.96
+638,638,Wallet,Paid,12194.61
+639,639,Net Banking,Paid,24353.69
+640,640,UPI,Paid,33921.08
+641,641,Cash on Delivery,Paid,15970.46
+642,642,Card,Paid,15681.08
+643,643,Wallet,Paid,9550.07
+644,644,Card,Paid,30704.91
+645,645,Card,Paid,23159.52
+646,646,Card,Paid,5946.65
+647,647,Net Banking,Paid,24832.71
+648,648,UPI,Paid,15983.7
+649,649,Cash on Delivery,Failed,11619.04
+650,650,Net Banking,Paid,30351.92
+651,651,Wallet,Failed,30164.7
+652,652,Card,Paid,24318.39
+653,653,Wallet,Paid,28915.42
+654,654,Net Banking,Paid,11880.82
+655,655,Card,Paid,34687.9
+656,656,Cash on Delivery,Paid,9445.83
+657,657,Card,Paid,41136.72
+658,658,UPI,Paid,34377.83
+659,659,Cash on Delivery,Paid,15837.92
+660,660,Card,Paid,29978.72
+661,661,UPI,Paid,23157.54
+662,662,Cash on Delivery,Paid,21844.64
+663,663,Card,Paid,12182.04
+664,664,Cash on Delivery,Paid,7641.63
+665,665,Wallet,Refunded,37681.39
+666,666,Net Banking,Paid,12407.32
+667,667,UPI,Paid,13603.64
+668,668,Net Banking,Paid,10058.56
+669,669,Card,Paid,37334.46
+670,670,Wallet,Paid,32449.32
+671,671,Wallet,Paid,11671.79
+672,672,Card,Refunded,12337.46
+673,673,Card,Paid,22831.12
+674,674,Cash on Delivery,Paid,19360.46
+675,675,Cash on Delivery,Paid,6834.12
+676,676,Wallet,Paid,4637.76
+677,677,Cash on Delivery,Paid,10187.92
+678,678,UPI,Paid,37363.92
+679,679,Card,Failed,16423.75
+680,680,Net Banking,Paid,16761.36
+681,681,UPI,Paid,42780.92
+682,682,UPI,Paid,36155.2
+683,683,UPI,Paid,12115.46
+684,684,Wallet,Paid,7691.18
+685,685,UPI,Paid,11297.47
+686,686,Card,Paid,5381.15
+687,687,Wallet,Paid,19688.4
+688,688,Wallet,Paid,18438.11
+689,689,Net Banking,Paid,16679.36
+690,690,Card,Refunded,32542.98
+691,691,Card,Paid,17859.33
+692,692,Wallet,Paid,43046.22
+693,693,Card,Failed,11503.94
+694,694,Wallet,Paid,22171.58
+695,695,Card,Paid,30208.36
+696,696,UPI,Paid,13263.91
+697,697,UPI,Paid,29025.8
+698,698,Wallet,Paid,34834.8
+699,699,Cash on Delivery,Failed,22048.9
+700,700,Wallet,Paid,14743.28
+701,701,UPI,Failed,39043.82
+702,702,Wallet,Paid,9666.01
+703,703,Cash on Delivery,Paid,21260.16
+704,704,UPI,Paid,23274.72
+705,705,Net Banking,Paid,4960.61
+706,706,Cash on Delivery,Paid,31852.32
+707,707,UPI,Paid,12493.96
+708,708,Net Banking,Paid,19997.78
+709,709,Wallet,Paid,30815.7
+710,710,Net Banking,Paid,21279.34
+711,711,Cash on Delivery,Paid,19020.66
+712,712,Cash on Delivery,Refunded,17274.72
+713,713,Card,Paid,10656.92
+714,714,Card,Paid,30925.49
+715,715,Card,Paid,25964.24
+716,716,Net Banking,Paid,27297.52
+717,717,Net Banking,Failed,10657.95
+718,718,Net Banking,Paid,10179.44
+719,719,Wallet,Paid,15294.85
+720,720,Net Banking,Paid,23071.59
+721,721,UPI,Paid,14885.54
+722,722,UPI,Paid,13588.23
+723,723,Cash on Delivery,Paid,7154.95
+724,724,Net Banking,Paid,30608.1
+725,725,Wallet,Paid,5498.97
+726,726,Card,Paid,17093.98
+727,727,Cash on Delivery,Refunded,26892.58
+728,728,Net Banking,Paid,20304.1
+729,729,Cash on Delivery,Failed,11046.58
+730,730,Net Banking,Paid,19675.14
+731,731,Card,Paid,29434.78
+732,732,UPI,Failed,14969.52
+733,733,UPI,Paid,41268.84
+734,734,Net Banking,Paid,46206.9
+735,735,UPI,Refunded,44041.76
+736,736,UPI,Paid,3049.97
+737,737,Card,Paid,35380.16
+738,738,UPI,Failed,32007.29
+739,739,Card,Failed,3952.51
+740,740,Net Banking,Paid,24229.42
+741,741,Wallet,Paid,34061.11
+742,742,Wallet,Paid,27593.96
+743,743,UPI,Paid,24864.75
+744,744,Net Banking,Paid,9859.08
+745,745,Cash on Delivery,Failed,18033.52
+746,746,Cash on Delivery,Paid,9343.09
+747,747,Net Banking,Paid,5754.46
+748,748,Wallet,Paid,44621.65
+749,749,Cash on Delivery,Paid,16241.72
+750,750,Cash on Delivery,Paid,16338.3
+751,751,Net Banking,Paid,34489.14
+752,752,Card,Paid,11474.77
+753,753,Net Banking,Paid,26600.3
+754,754,Cash on Delivery,Paid,7534.21
+755,755,Net Banking,Paid,10508.99
+756,756,Cash on Delivery,Failed,28438.16
+757,757,Wallet,Paid,33758.72
+758,758,Wallet,Paid,6804.21
+759,759,UPI,Refunded,20236.24
+760,760,Net Banking,Paid,23563.49
+761,761,Card,Paid,21074.48
+762,762,Wallet,Paid,6569.42
+763,763,Net Banking,Paid,17095.63
+764,764,UPI,Paid,14711.88
+765,765,Wallet,Paid,21734.33
+766,766,Cash on Delivery,Paid,10036.27
+767,767,Cash on Delivery,Paid,16693.92
+768,768,Cash on Delivery,Paid,6381.16
+769,769,Wallet,Failed,14971.18
+770,770,UPI,Paid,12592.46
+771,771,Net Banking,Failed,10855.57
+772,772,Net Banking,Paid,14503.83
+773,773,Card,Paid,30208.63
+774,774,UPI,Paid,22052.01
+775,775,Card,Paid,25714.96
+776,776,Net Banking,Paid,14705.76
+777,777,Wallet,Paid,35893.08
+778,778,Wallet,Paid,28135.95
+779,779,Wallet,Paid,13808.26
+780,780,Card,Paid,13955.46
+781,781,Wallet,Paid,37105.65
+782,782,Net Banking,Paid,17603.56
+783,783,Cash on Delivery,Refunded,28280.59
+784,784,UPI,Paid,6430.82
+785,785,Cash on Delivery,Paid,12264.83
+786,786,Net Banking,Paid,9863.86
+787,787,Card,Paid,8687.73
+788,788,UPI,Paid,10545.0
+789,789,UPI,Paid,13289.05
+790,790,UPI,Paid,8730.15
+791,791,UPI,Paid,18125.64
+792,792,Net Banking,Paid,3444.29
+793,793,Net Banking,Paid,26503.96
+794,794,UPI,Refunded,37020.27
+795,795,Wallet,Paid,26860.22
+796,796,Net Banking,Paid,9347.97
+797,797,Cash on Delivery,Paid,9301.84
+798,798,UPI,Failed,26665.88
+799,799,Card,Paid,23183.97
+800,800,Wallet,Paid,22652.18
+801,801,UPI,Paid,54968.4
+802,802,Wallet,Paid,17718.35
+803,803,UPI,Paid,13175.09
+804,804,Net Banking,Paid,7736.4
+805,805,Net Banking,Paid,20249.6
+806,806,Net Banking,Paid,18947.6
+807,807,Cash on Delivery,Paid,28001.37
+808,808,Cash on Delivery,Failed,45041.14
+809,809,Wallet,Paid,19221.78
+810,810,Cash on Delivery,Paid,9257.35
+811,811,Card,Paid,15622.95
+812,812,Card,Paid,13724.31
+813,813,Cash on Delivery,Paid,10061.2
+814,814,Card,Paid,32035.43
+815,815,Net Banking,Paid,18927.11
+816,816,UPI,Paid,26439.69
+817,817,Card,Paid,24826.86
+818,818,Net Banking,Paid,6898.92
+819,819,UPI,Failed,20383.51
+820,820,UPI,Paid,23635.26
+821,821,Cash on Delivery,Paid,24288.48
+822,822,Wallet,Paid,27261.87
+823,823,UPI,Refunded,4099.36
+824,824,Cash on Delivery,Paid,21480.79
+825,825,UPI,Paid,42987.02
+826,826,Net Banking,Paid,22765.39
+827,827,Cash on Delivery,Paid,16609.24
+828,828,Cash on Delivery,Paid,13275.8
+829,829,Card,Paid,6932.61
+830,830,Card,Failed,9975.83
+831,831,Card,Paid,5164.18
+832,832,UPI,Refunded,29396.31
+833,833,Card,Paid,29901.57
+834,834,Net Banking,Paid,24465.37
+835,835,UPI,Paid,10857.0
+836,836,Net Banking,Paid,19105.05
+837,837,Card,Paid,34309.56
+838,838,Wallet,Paid,44782.26
+839,839,Wallet,Paid,17965.73
+840,840,Cash on Delivery,Paid,14663.02
+841,841,UPI,Paid,27866.52
+842,842,Card,Paid,26796.32
+843,843,Net Banking,Paid,14783.76
+844,844,UPI,Paid,19243.1
+845,845,Card,Paid,22479.74
+846,846,Wallet,Failed,8190.37
+847,847,Cash on Delivery,Paid,32010.42
+848,848,Wallet,Paid,48583.99
+849,849,Wallet,Paid,29730.87
+850,850,Cash on Delivery,Paid,5301.71
+851,851,Wallet,Paid,22644.28
+852,852,Card,Paid,36108.24
+853,853,Card,Paid,18022.06
+854,854,Card,Failed,15964.08
+855,855,Net Banking,Paid,16687.85
+856,856,Card,Failed,2622.99
+857,857,Net Banking,Paid,15994.78
+858,858,UPI,Paid,19471.47
+859,859,UPI,Paid,14216.12
+860,860,Card,Paid,20548.69
+861,861,Wallet,Paid,14489.94
+862,862,Cash on Delivery,Paid,30680.76
+863,863,Net Banking,Paid,20087.76
+864,864,Cash on Delivery,Paid,31001.64
+865,865,Cash on Delivery,Paid,14997.89
+866,866,Net Banking,Paid,27614.4
+867,867,UPI,Paid,17962.45
+868,868,Cash on Delivery,Paid,30630.71
+869,869,Wallet,Paid,16109.94
+870,870,Wallet,Failed,34495.94
+871,871,Wallet,Paid,11926.22
+872,872,Cash on Delivery,Paid,32498.65
+873,873,Wallet,Paid,18614.38
+874,874,Net Banking,Paid,9480.98
+875,875,Card,Paid,24625.03
+876,876,Wallet,Paid,18732.48
+877,877,Card,Paid,29990.6
+878,878,Cash on Delivery,Paid,20194.51
+879,879,Net Banking,Refunded,26348.3
+880,880,UPI,Paid,33156.41
+881,881,UPI,Paid,42580.54
+882,882,Cash on Delivery,Failed,16739.55
+883,883,Cash on Delivery,Paid,39420.56
+884,884,Card,Paid,4587.71
+885,885,Wallet,Paid,31278.92
+886,886,Cash on Delivery,Paid,26738.49
+887,887,Card,Paid,43071.8
+888,888,Wallet,Paid,16040.0
+889,889,Net Banking,Paid,4498.77
+890,890,Cash on Delivery,Paid,14042.57
+891,891,Net Banking,Paid,17901.57
+892,892,Cash on Delivery,Paid,12381.65
+893,893,UPI,Paid,28640.08
+894,894,Wallet,Paid,8958.47
+895,895,Wallet,Paid,5028.34
+896,896,Cash on Delivery,Failed,20260.02
+897,897,Cash on Delivery,Paid,21727.18
+898,898,Card,Paid,10800.08
+899,899,Net Banking,Paid,13272.31
+900,900,Net Banking,Paid,13790.6
+901,901,Card,Paid,20748.52
+902,902,Card,Refunded,14229.04
+903,903,UPI,Refunded,54895.96
+904,904,Net Banking,Refunded,8658.8
+905,905,Cash on Delivery,Paid,29388.94
+906,906,Cash on Delivery,Paid,7052.22
+907,907,UPI,Paid,14465.76
+908,908,Cash on Delivery,Paid,20080.68
+909,909,Cash on Delivery,Paid,16304.31
+910,910,Wallet,Paid,21709.28
+911,911,Wallet,Paid,25020.52
+912,912,Card,Paid,27225.07
+913,913,Card,Failed,18444.96
+914,914,Net Banking,Refunded,12089.14
+915,915,Wallet,Refunded,13782.62
+916,916,Cash on Delivery,Paid,34082.84
+917,917,Card,Paid,22857.86
+918,918,Wallet,Paid,26811.06
+919,919,Cash on Delivery,Paid,6056.96
+920,920,Wallet,Paid,11495.65
+921,921,Cash on Delivery,Paid,10988.74
+922,922,Wallet,Paid,2457.67
+923,923,UPI,Paid,13252.97
+924,924,Card,Paid,20052.65
+925,925,Cash on Delivery,Paid,51507.4
+926,926,Card,Paid,23358.8
+927,927,Card,Paid,37141.86
+928,928,Card,Paid,4336.36
+929,929,Cash on Delivery,Paid,4491.33
+930,930,Net Banking,Paid,7286.96
+931,931,Net Banking,Paid,13293.89
+932,932,Net Banking,Paid,23159.64
+933,933,Card,Paid,18679.82
+934,934,Card,Paid,12729.0
+935,935,Card,Paid,22326.44
+936,936,Cash on Delivery,Paid,30944.58
+937,937,Net Banking,Paid,4635.2
+938,938,UPI,Paid,23506.61
+939,939,Net Banking,Paid,22280.81
+940,940,Cash on Delivery,Paid,17885.28
+941,941,Net Banking,Paid,29934.86
+942,942,Net Banking,Paid,43898.96
+943,943,Card,Paid,37626.02
+944,944,Card,Paid,12443.32
+945,945,UPI,Failed,40445.92
+946,946,Wallet,Paid,18885.55
+947,947,UPI,Failed,11077.4
+948,948,Cash on Delivery,Paid,9229.68
+949,949,UPI,Failed,26485.87
+950,950,Wallet,Paid,35026.91
+951,951,UPI,Paid,20717.74
+952,952,Net Banking,Paid,15657.26
+953,953,Cash on Delivery,Failed,31540.81
+954,954,Wallet,Paid,5649.93
+955,955,Card,Failed,23458.38
+956,956,Card,Paid,43722.43
+957,957,Net Banking,Paid,28876.68
+958,958,Net Banking,Failed,28427.9
+959,959,Card,Paid,18489.52
+960,960,Card,Paid,5565.27
+961,961,Wallet,Paid,8241.63
+962,962,Card,Refunded,22617.01
+963,963,Cash on Delivery,Paid,25038.28
+964,964,UPI,Paid,12521.24
+965,965,Net Banking,Paid,10876.19
+966,966,Net Banking,Paid,6613.9
+967,967,Card,Paid,30171.86
+968,968,Card,Paid,14458.16
+969,969,UPI,Failed,32506.92
+970,970,Cash on Delivery,Paid,32091.55
+971,971,UPI,Failed,11324.19
+972,972,Card,Paid,39570.62
+973,973,Card,Paid,13875.39
+974,974,UPI,Paid,12025.8
+975,975,UPI,Paid,12234.18
+976,976,UPI,Paid,13518.03
+977,977,Cash on Delivery,Paid,11379.06
+978,978,Net Banking,Paid,17853.94
+979,979,Wallet,Paid,26317.42
+980,980,Card,Refunded,20146.58
+981,981,Card,Paid,32297.57
+982,982,UPI,Paid,15482.24
+983,983,Card,Paid,26222.52
+984,984,Wallet,Paid,13048.42
+985,985,Card,Refunded,20035.52
+986,986,Card,Paid,29910.57
+987,987,Net Banking,Paid,19387.66
+988,988,Wallet,Paid,21197.06
+989,989,Card,Paid,17957.9
+990,990,Wallet,Paid,20622.76
+991,991,UPI,Paid,14933.69
+992,992,UPI,Paid,15062.32
+993,993,Card,Paid,25758.45
+994,994,Wallet,Refunded,8001.09
+995,995,UPI,Paid,20397.35
+996,996,Card,Refunded,16520.44
+997,997,Card,Paid,12037.96
+998,998,Wallet,Paid,12122.68
+999,999,Card,Paid,19919.04
+1000,1000,Wallet,Paid,37759.12
+1001,1001,Card,Paid,43642.6
+1002,1002,Net Banking,Paid,8593.25
+1003,1003,UPI,Failed,18861.12
+1004,1004,Wallet,Paid,14044.28
+1005,1005,Card,Paid,4419.98
+1006,1006,Cash on Delivery,Paid,23624.12
+1007,1007,UPI,Paid,12792.74
+1008,1008,UPI,Paid,8537.83
+1009,1009,Card,Paid,16366.75
+1010,1010,Net Banking,Paid,15266.25
+1011,1011,UPI,Failed,7203.85
+1012,1012,Cash on Delivery,Paid,17776.77
+1013,1013,UPI,Paid,18355.09
+1014,1014,Wallet,Paid,29578.09
+1015,1015,Net Banking,Paid,14444.11
+1016,1016,UPI,Paid,25742.09
+1017,1017,UPI,Paid,4020.47
+1018,1018,Cash on Delivery,Failed,30165.94
+1019,1019,Net Banking,Paid,31831.38
+1020,1020,Card,Paid,25134.66
+1021,1021,Wallet,Failed,23909.82
+1022,1022,Net Banking,Failed,21799.56
+1023,1023,Net Banking,Paid,31100.97
+1024,1024,Net Banking,Paid,17338.72
+1025,1025,UPI,Refunded,17889.24
+1026,1026,Cash on Delivery,Paid,28277.68
+1027,1027,Wallet,Paid,20517.77
+1028,1028,UPI,Failed,32074.54
+1029,1029,Net Banking,Paid,19550.17
+1030,1030,Wallet,Paid,4309.88
+1031,1031,Net Banking,Paid,7614.96
+1032,1032,Wallet,Paid,10817.47
+1033,1033,Card,Paid,14740.47
+1034,1034,UPI,Paid,22688.21
+1035,1035,UPI,Paid,51534.6
+1036,1036,Cash on Delivery,Paid,8244.17
+1037,1037,Wallet,Paid,19356.12
+1038,1038,Net Banking,Paid,18811.96
+1039,1039,Card,Paid,21236.86
+1040,1040,Wallet,Paid,18079.96
+1041,1041,Net Banking,Failed,16337.38
+1042,1042,Wallet,Paid,38603.19
+1043,1043,UPI,Paid,6723.21
+1044,1044,Card,Paid,25802.14
+1045,1045,UPI,Paid,6083.89
+1046,1046,Cash on Delivery,Paid,34828.27
+1047,1047,UPI,Paid,25993.37
+1048,1048,Card,Paid,36389.9
+1049,1049,Wallet,Paid,35089.4
+1050,1050,Card,Paid,13199.32
+1051,1051,Net Banking,Paid,8517.77
+1052,1052,Card,Paid,13312.04
+1053,1053,Card,Paid,11393.31
+1054,1054,UPI,Paid,21693.8
+1055,1055,Wallet,Paid,11350.6
+1056,1056,Wallet,Paid,15751.02
+1057,1057,Net Banking,Paid,21876.12
+1058,1058,Cash on Delivery,Failed,12983.72
+1059,1059,Card,Refunded,13687.39
+1060,1060,Wallet,Paid,24726.26
+1061,1061,Wallet,Paid,29997.15
+1062,1062,UPI,Paid,33252.42
+1063,1063,Cash on Delivery,Paid,22966.9
+1064,1064,Card,Paid,24949.17
+1065,1065,Wallet,Paid,40550.32
+1066,1066,Card,Paid,26278.65
+1067,1067,Net Banking,Paid,26920.19
+1068,1068,UPI,Paid,35728.64
+1069,1069,Cash on Delivery,Paid,27751.36
+1070,1070,Wallet,Paid,18454.32
+1071,1071,Wallet,Refunded,10313.26
+1072,1072,Card,Paid,24168.84
+1073,1073,UPI,Paid,27143.86
+1074,1074,Wallet,Paid,33019.28
+1075,1075,Net Banking,Paid,6297.22
+1076,1076,Net Banking,Paid,31771.83
+1077,1077,Card,Paid,17742.41
+1078,1078,Net Banking,Paid,10338.72
+1079,1079,UPI,Paid,19515.29
+1080,1080,UPI,Refunded,26736.83
+1081,1081,Wallet,Failed,30242.34
+1082,1082,Net Banking,Paid,2451.78
+1083,1083,Wallet,Paid,11038.88
+1084,1084,Card,Refunded,34222.55
+1085,1085,Wallet,Paid,24767.91
+1086,1086,UPI,Paid,29951.9
+1087,1087,UPI,Paid,13435.31
+1088,1088,Cash on Delivery,Failed,30195.21
+1089,1089,Net Banking,Paid,8186.86
+1090,1090,Net Banking,Refunded,29938.04
+1091,1091,Wallet,Paid,6576.85
+1092,1092,Card,Paid,27918.86
+1093,1093,Cash on Delivery,Paid,53772.24
+1094,1094,Net Banking,Refunded,40876.58
+1095,1095,UPI,Paid,17448.72
+1096,1096,Net Banking,Failed,5627.88
+1097,1097,Cash on Delivery,Paid,47927.78
+1098,1098,Net Banking,Paid,8048.32
+1099,1099,UPI,Paid,24915.32
+1100,1100,Wallet,Paid,14103.34
+1101,1101,UPI,Paid,27494.21
+1102,1102,Cash on Delivery,Paid,6504.48
+1103,1103,UPI,Paid,43315.2
+1104,1104,Cash on Delivery,Paid,15917.69
+1105,1105,Cash on Delivery,Paid,30282.63
+1106,1106,Cash on Delivery,Paid,8344.52
+1107,1107,UPI,Paid,9218.92
+1108,1108,Cash on Delivery,Paid,11962.89
+1109,1109,Card,Paid,9807.23
+1110,1110,UPI,Failed,9413.5
+1111,1111,Net Banking,Paid,15765.68
+1112,1112,Net Banking,Paid,17429.84
+1113,1113,UPI,Paid,1734.45
+1114,1114,Cash on Delivery,Paid,10690.09
+1115,1115,UPI,Paid,13068.29
+1116,1116,Wallet,Paid,12614.21
+1117,1117,Wallet,Paid,21847.62
+1118,1118,Net Banking,Paid,27725.38
+1119,1119,Wallet,Paid,9952.88
+1120,1120,Cash on Delivery,Paid,37359.04
+1121,1121,Cash on Delivery,Paid,31232.12
+1122,1122,UPI,Paid,19884.32
+1123,1123,UPI,Paid,30364.31
+1124,1124,Wallet,Paid,39510.23
+1125,1125,Cash on Delivery,Paid,17656.72
+1126,1126,Card,Paid,14604.68
+1127,1127,UPI,Paid,11591.76
+1128,1128,Card,Refunded,17671.82
+1129,1129,UPI,Failed,13259.17
+1130,1130,UPI,Paid,26749.44
+1131,1131,Wallet,Paid,22908.0
+1132,1132,Card,Paid,3360.12
+1133,1133,Card,Paid,29510.74
+1134,1134,UPI,Paid,36080.9
+1135,1135,Net Banking,Paid,23195.52
+1136,1136,Wallet,Failed,27409.47
+1137,1137,Net Banking,Failed,10830.5
+1138,1138,Cash on Delivery,Paid,26319.42
+1139,1139,Cash on Delivery,Paid,33824.71
+1140,1140,Card,Paid,20828.48
+1141,1141,Cash on Delivery,Paid,22107.78
+1142,1142,Wallet,Paid,27364.1
+1143,1143,Cash on Delivery,Paid,20817.42
+1144,1144,Wallet,Paid,26672.16
+1145,1145,Cash on Delivery,Paid,14038.17
+1146,1146,Net Banking,Paid,14888.9
+1147,1147,UPI,Paid,22254.06
+1148,1148,Cash on Delivery,Paid,47607.44
+1149,1149,Cash on Delivery,Paid,3776.29
+1150,1150,Card,Paid,13100.98
+1151,1151,Wallet,Paid,9140.52
+1152,1152,Wallet,Paid,22023.04
+1153,1153,UPI,Failed,29312.26
+1154,1154,Net Banking,Paid,9069.64
+1155,1155,Wallet,Paid,8573.03
+1156,1156,Net Banking,Refunded,15265.6
+1157,1157,Cash on Delivery,Paid,17089.12
+1158,1158,Cash on Delivery,Paid,14001.98
+1159,1159,Cash on Delivery,Paid,19873.39
+1160,1160,Wallet,Paid,14242.4
+1161,1161,Cash on Delivery,Paid,22036.58
+1162,1162,Wallet,Paid,18610.53
+1163,1163,Net Banking,Refunded,40352.82
+1164,1164,Wallet,Paid,10309.0
+1165,1165,Wallet,Paid,25518.14
+1166,1166,Wallet,Refunded,18239.64
+1167,1167,Net Banking,Failed,5616.36
+1168,1168,Net Banking,Paid,12555.6
+1169,1169,Net Banking,Paid,16251.69
+1170,1170,Wallet,Failed,26154.96
+1171,1171,Net Banking,Paid,20446.86
+1172,1172,UPI,Paid,26003.81
+1173,1173,Cash on Delivery,Failed,11588.41
+1174,1174,Cash on Delivery,Paid,28562.98
+1175,1175,UPI,Paid,17014.72
+1176,1176,Cash on Delivery,Paid,13119.36
+1177,1177,UPI,Paid,32257.14
+1178,1178,UPI,Paid,20506.34
+1179,1179,Net Banking,Paid,23199.96
+1180,1180,Card,Paid,26953.64
+1181,1181,Net Banking,Paid,17597.52
+1182,1182,Net Banking,Paid,9296.59
+1183,1183,Cash on Delivery,Failed,25147.38
+1184,1184,Card,Paid,24429.68
+1185,1185,Wallet,Paid,14379.16
+1186,1186,Card,Paid,34495.48
+1187,1187,Wallet,Paid,20136.88
+1188,1188,Cash on Delivery,Paid,14333.48
+1189,1189,Cash on Delivery,Paid,49547.6
+1190,1190,Wallet,Paid,11430.57
+1191,1191,Cash on Delivery,Paid,30077.01
+1192,1192,Net Banking,Paid,16293.2
+1193,1193,Cash on Delivery,Paid,26607.49
+1194,1194,UPI,Paid,5570.74
+1195,1195,UPI,Paid,16491.5
+1196,1196,Card,Paid,14305.7
+1197,1197,Card,Paid,30418.01
+1198,1198,Wallet,Paid,36516.71
+1199,1199,UPI,Paid,36251.98
+1200,1200,Card,Paid,19908.0
+1201,1201,UPI,Paid,6809.63
+1202,1202,Card,Paid,33781.08
+1203,1203,Cash on Delivery,Paid,15841.64
+1204,1204,Cash on Delivery,Paid,14699.72
+1205,1205,Wallet,Paid,18424.12
+1206,1206,Net Banking,Paid,33612.96
+1207,1207,Net Banking,Paid,10816.5
+1208,1208,Wallet,Paid,22956.9
+1209,1209,Wallet,Paid,3906.92
+1210,1210,Cash on Delivery,Paid,7711.5
+1211,1211,Card,Paid,23386.46
+1212,1212,Cash on Delivery,Paid,41872.24
+1213,1213,Wallet,Paid,43050.71
+1214,1214,Card,Failed,23703.94
+1215,1215,UPI,Paid,15993.7
+1216,1216,Cash on Delivery,Paid,26248.4
+1217,1217,Card,Paid,25381.58
+1218,1218,UPI,Paid,8983.21
+1219,1219,UPI,Paid,32053.44
+1220,1220,Card,Paid,14831.46
+1221,1221,Cash on Delivery,Paid,40413.08
+1222,1222,Cash on Delivery,Paid,16356.28
+1223,1223,Wallet,Paid,19400.59
+1224,1224,Cash on Delivery,Paid,17937.64
+1225,1225,Wallet,Paid,24000.56
+1226,1226,Card,Failed,29731.37
+1227,1227,Net Banking,Paid,17478.92
+1228,1228,UPI,Refunded,4918.35
+1229,1229,Wallet,Paid,36150.97
+1230,1230,Wallet,Paid,45156.94
+1231,1231,UPI,Paid,18536.11
+1232,1232,Wallet,Paid,21424.73
+1233,1233,Wallet,Paid,32823.66
+1234,1234,Net Banking,Paid,26688.52
+1235,1235,Card,Paid,33920.68
+1236,1236,UPI,Paid,19221.15
+1237,1237,Wallet,Refunded,21883.44
+1238,1238,UPI,Paid,31890.43
+1239,1239,Wallet,Paid,32183.96
+1240,1240,Wallet,Paid,28012.89
+1241,1241,UPI,Paid,15111.25
+1242,1242,Wallet,Paid,29537.88
+1243,1243,Card,Paid,25525.8
+1244,1244,Card,Paid,21820.68
+1245,1245,UPI,Paid,18665.39
+1246,1246,UPI,Paid,27537.75
+1247,1247,UPI,Paid,18273.12
+1248,1248,UPI,Paid,33185.88
+1249,1249,Card,Paid,18071.48
+1250,1250,Wallet,Paid,25184.81
+1251,1251,Cash on Delivery,Paid,8060.44
+1252,1252,Card,Failed,40721.7
+1253,1253,Cash on Delivery,Paid,14637.83
+1254,1254,Net Banking,Paid,9926.32
+1255,1255,Cash on Delivery,Paid,41587.52
+1256,1256,Card,Paid,6052.2
+1257,1257,Wallet,Paid,9517.76
+1258,1258,UPI,Paid,21517.97
+1259,1259,UPI,Refunded,26920.68
+1260,1260,Card,Paid,8847.51
+1261,1261,UPI,Paid,33155.65
+1262,1262,Cash on Delivery,Paid,47563.92
+1263,1263,Card,Paid,11799.56
+1264,1264,Net Banking,Failed,4408.56
+1265,1265,Card,Paid,9170.43
+1266,1266,Cash on Delivery,Paid,44287.76
+1267,1267,Wallet,Paid,17213.88
+1268,1268,Cash on Delivery,Failed,19221.78
+1269,1269,UPI,Paid,14465.76
+1270,1270,Card,Paid,37027.22
+1271,1271,Net Banking,Refunded,27222.32
+1272,1272,Cash on Delivery,Paid,7083.33
+1273,1273,Cash on Delivery,Paid,10328.42
+1274,1274,Wallet,Paid,16982.79
+1275,1275,Cash on Delivery,Paid,28645.19
+1276,1276,Card,Paid,19610.48
+1277,1277,Cash on Delivery,Paid,25327.31
+1278,1278,Cash on Delivery,Paid,32860.71
+1279,1279,Cash on Delivery,Paid,5393.59
+1280,1280,UPI,Paid,34455.89
+1281,1281,Cash on Delivery,Paid,3014.07
+1282,1282,Cash on Delivery,Paid,4763.12
+1283,1283,Cash on Delivery,Paid,10430.52
+1284,1284,Net Banking,Paid,32896.47
+1285,1285,Net Banking,Paid,25699.4
+1286,1286,Cash on Delivery,Paid,17700.27
+1287,1287,Card,Paid,21815.85
+1288,1288,Net Banking,Paid,18255.75
+1289,1289,Card,Paid,12892.81
+1290,1290,Cash on Delivery,Paid,4851.57
+1291,1291,Cash on Delivery,Refunded,14709.57
+1292,1292,Card,Paid,22437.17
+1293,1293,Wallet,Paid,18963.53
+1294,1294,Net Banking,Paid,5178.72
+1295,1295,Wallet,Refunded,29652.16
+1296,1296,Card,Paid,18093.83
+1297,1297,UPI,Refunded,28956.92
+1298,1298,Cash on Delivery,Refunded,18630.65
+1299,1299,Net Banking,Paid,19777.24
+1300,1300,Net Banking,Paid,8763.36
+1301,1301,Wallet,Paid,6727.86
+1302,1302,UPI,Paid,17902.22
+1303,1303,Cash on Delivery,Paid,14630.2
+1304,1304,UPI,Refunded,25623.14
+1305,1305,Wallet,Paid,43545.48
+1306,1306,Cash on Delivery,Paid,46358.73
+1307,1307,Wallet,Paid,48831.16
+1308,1308,Cash on Delivery,Refunded,20492.27
+1309,1309,Card,Paid,15735.1
+1310,1310,UPI,Paid,15136.83
+1311,1311,Wallet,Paid,28040.41
+1312,1312,Net Banking,Paid,33578.16
+1313,1313,Net Banking,Paid,27269.64
+1314,1314,UPI,Failed,14231.8
+1315,1315,Cash on Delivery,Paid,23394.32
+1316,1316,UPI,Paid,9429.39
+1317,1317,Net Banking,Paid,31379.3
+1318,1318,Cash on Delivery,Paid,21390.37
+1319,1319,Card,Paid,36818.03
+1320,1320,UPI,Paid,12007.7
+1321,1321,Wallet,Paid,16141.03
+1322,1322,UPI,Paid,10206.77
+1323,1323,Card,Paid,31422.27
+1324,1324,Cash on Delivery,Paid,11882.18
+1325,1325,Wallet,Paid,5371.53
+1326,1326,Card,Paid,9908.63
+1327,1327,Net Banking,Paid,41333.52
+1328,1328,Cash on Delivery,Paid,12159.0
+1329,1329,Wallet,Refunded,31529.74
+1330,1330,Wallet,Paid,27508.65
+1331,1331,Net Banking,Refunded,11485.59
+1332,1332,Cash on Delivery,Refunded,10439.9
+1333,1333,Card,Paid,9676.79
+1334,1334,Card,Paid,21196.45
+1335,1335,Cash on Delivery,Refunded,19713.07
+1336,1336,Cash on Delivery,Paid,13139.52
+1337,1337,Card,Paid,40290.86
+1338,1338,Wallet,Paid,34505.04
+1339,1339,Net Banking,Paid,27683.11
+1340,1340,UPI,Paid,33297.36
+1341,1341,Card,Failed,42703.12
+1342,1342,Net Banking,Paid,6665.85
+1343,1343,UPI,Paid,19843.33
+1344,1344,Net Banking,Paid,39611.52
+1345,1345,Cash on Delivery,Paid,15559.48
+1346,1346,Cash on Delivery,Paid,13290.44
+1347,1347,Cash on Delivery,Paid,8080.19
+1348,1348,Net Banking,Paid,26290.78
+1349,1349,Net Banking,Paid,10965.88
+1350,1350,Card,Paid,35715.52
+1351,1351,Card,Paid,17438.08
+1352,1352,Cash on Delivery,Paid,9708.24
+1353,1353,Wallet,Paid,16532.11
+1354,1354,Cash on Delivery,Paid,26422.73
+1355,1355,Card,Paid,10523.85
+1356,1356,Net Banking,Paid,13224.09
+1357,1357,Wallet,Paid,4677.17
+1358,1358,UPI,Paid,10321.82
+1359,1359,Cash on Delivery,Paid,6605.16
+1360,1360,Cash on Delivery,Paid,30003.51
+1361,1361,Wallet,Paid,46729.84
+1362,1362,Net Banking,Paid,29842.08
+1363,1363,Net Banking,Paid,32993.12
+1364,1364,Cash on Delivery,Paid,27227.46
+1365,1365,Cash on Delivery,Paid,6446.18
+1366,1366,Card,Paid,18757.3
+1367,1367,Wallet,Paid,10189.42
+1368,1368,Wallet,Refunded,7609.72
+1369,1369,Net Banking,Paid,18808.68
+1370,1370,Net Banking,Paid,14324.58
+1371,1371,Net Banking,Paid,38562.32
+1372,1372,Wallet,Paid,19470.44
+1373,1373,Cash on Delivery,Paid,31588.99
+1374,1374,Net Banking,Refunded,7386.3
+1375,1375,Card,Paid,11911.28
+1376,1376,Card,Paid,15686.57
+1377,1377,Net Banking,Paid,10767.6
+1378,1378,Cash on Delivery,Paid,30799.4
+1379,1379,UPI,Paid,13691.54
+1380,1380,Cash on Delivery,Paid,40445.52
+1381,1381,UPI,Failed,39638.25
+1382,1382,Net Banking,Paid,32621.18
+1383,1383,UPI,Paid,21944.16
+1384,1384,Wallet,Paid,24640.89
+1385,1385,Net Banking,Paid,17374.42
+1386,1386,Cash on Delivery,Refunded,16556.46
+1387,1387,Card,Refunded,8590.7
+1388,1388,Net Banking,Paid,8032.43
+1389,1389,Cash on Delivery,Paid,7632.82
+1390,1390,Wallet,Paid,18822.56
+1391,1391,Net Banking,Paid,12038.27
+1392,1392,Card,Paid,10411.95
+1393,1393,Cash on Delivery,Paid,9235.52
+1394,1394,Card,Paid,5708.47
+1395,1395,Card,Paid,10483.72
+1396,1396,Wallet,Paid,13767.6
+1397,1397,Net Banking,Paid,8680.28
+1398,1398,Net Banking,Paid,29149.05
+1399,1399,Card,Paid,46729.84
+1400,1400,Cash on Delivery,Paid,24350.48
+1401,1401,Net Banking,Paid,11026.02
+1402,1402,Net Banking,Paid,17746.97
+1403,1403,Net Banking,Paid,15400.81
+1404,1404,Cash on Delivery,Paid,3900.85
+1405,1405,UPI,Paid,9208.99
+1406,1406,Cash on Delivery,Paid,26636.48
+1407,1407,UPI,Refunded,7039.2
+1408,1408,Wallet,Paid,40010.41
+1409,1409,UPI,Paid,12567.11
+1410,1410,Card,Paid,18831.54
+1411,1411,Wallet,Paid,27544.25
+1412,1412,UPI,Paid,17017.78
+1413,1413,Net Banking,Refunded,31059.9
+1414,1414,Card,Paid,18267.92
+1415,1415,UPI,Paid,52974.28
+1416,1416,UPI,Refunded,20014.26
+1417,1417,Wallet,Paid,37029.48
+1418,1418,Cash on Delivery,Failed,27875.05
+1419,1419,Card,Paid,15470.89
+1420,1420,UPI,Paid,28117.21
+1421,1421,Cash on Delivery,Paid,8805.43
+1422,1422,Card,Paid,14480.54
+1423,1423,Cash on Delivery,Paid,33667.64
+1424,1424,Net Banking,Refunded,20490.6
+1425,1425,UPI,Refunded,9740.07
+1426,1426,Net Banking,Paid,29295.82
+1427,1427,Net Banking,Paid,21937.44
+1428,1428,UPI,Paid,14699.5
+1429,1429,UPI,Paid,31765.6
+1430,1430,Card,Paid,30450.52
+1431,1431,Net Banking,Failed,17967.71
+1432,1432,Card,Paid,48861.27
+1433,1433,UPI,Paid,15156.02
+1434,1434,Cash on Delivery,Paid,14802.79
+1435,1435,Cash on Delivery,Paid,7889.29
+1436,1436,UPI,Paid,32773.13
+1437,1437,UPI,Paid,10193.71
+1438,1438,UPI,Paid,37882.28
+1439,1439,Cash on Delivery,Refunded,6445.36
+1440,1440,Wallet,Paid,41457.36
+1441,1441,UPI,Paid,19916.24
+1442,1442,Net Banking,Paid,7236.13
+1443,1443,Net Banking,Paid,42818.52
+1444,1444,Card,Paid,21285.6
+1445,1445,Card,Paid,25928.67
+1446,1446,UPI,Paid,21140.51
+1447,1447,Card,Paid,12257.51
+1448,1448,Card,Paid,19386.23
+1449,1449,Cash on Delivery,Paid,17031.48
+1450,1450,Cash on Delivery,Refunded,23432.8
+1451,1451,Card,Failed,26621.02
+1452,1452,Wallet,Paid,12043.48
+1453,1453,UPI,Paid,24221.29
+1454,1454,UPI,Paid,31599.63
+1455,1455,Cash on Delivery,Paid,43571.8
+1456,1456,Net Banking,Paid,36625.88
+1457,1457,Cash on Delivery,Paid,14016.41
+1458,1458,Cash on Delivery,Paid,13050.51
+1459,1459,Card,Refunded,26618.15
+1460,1460,Wallet,Paid,15802.01
+1461,1461,Net Banking,Paid,25585.48
+1462,1462,Cash on Delivery,Paid,26506.59
+1463,1463,Card,Refunded,37914.88
+1464,1464,Net Banking,Paid,28505.27
+1465,1465,Card,Paid,16089.19
+1466,1466,Net Banking,Paid,33418.6
+1467,1467,Cash on Delivery,Paid,10973.05
+1468,1468,Card,Paid,17454.83
+1469,1469,Card,Paid,20794.82
+1470,1470,Wallet,Paid,12124.33
+1471,1471,UPI,Paid,16472.26
+1472,1472,Net Banking,Paid,32038.8
+1473,1473,Net Banking,Paid,6998.6
+1474,1474,Wallet,Paid,17560.92
+1475,1475,Card,Paid,30989.27
+1476,1476,UPI,Paid,26677.5
+1477,1477,Net Banking,Refunded,24245.28
+1478,1478,Cash on Delivery,Refunded,24874.74
+1479,1479,Card,Paid,24600.22
+1480,1480,Wallet,Paid,11327.4
+1481,1481,Net Banking,Paid,29095.71
+1482,1482,Cash on Delivery,Paid,23193.5
+1483,1483,Net Banking,Paid,23857.88
+1484,1484,Cash on Delivery,Paid,31699.71
+1485,1485,UPI,Paid,29820.27
+1486,1486,Wallet,Paid,16415.59
+1487,1487,Cash on Delivery,Paid,5603.58
+1488,1488,Card,Paid,40479.63
+1489,1489,UPI,Paid,5110.59
+1490,1490,Wallet,Refunded,26856.16
+1491,1491,Wallet,Failed,18931.98
+1492,1492,UPI,Paid,30590.49
+1493,1493,UPI,Paid,36695.43
+1494,1494,Wallet,Paid,19972.54
+1495,1495,Cash on Delivery,Paid,35970.97
+1496,1496,Card,Paid,12409.07
+1497,1497,UPI,Paid,56825.24
+1498,1498,UPI,Paid,21478.1
+1499,1499,UPI,Paid,11372.63
+1500,1500,Net Banking,Paid,17722.17
+1501,1501,Net Banking,Paid,15282.28
+1502,1502,Card,Failed,41161.44
+1503,1503,Card,Paid,7661.56
+1504,1504,Net Banking,Paid,19532.07
+1505,1505,Wallet,Paid,41608.32
+1506,1506,UPI,Paid,27883.81
+1507,1507,Card,Paid,27015.16
+1508,1508,Wallet,Paid,4044.24
+1509,1509,Wallet,Paid,10815.16
+1510,1510,Card,Paid,45909.28
+1511,1511,Wallet,Paid,35027.34
+1512,1512,Card,Paid,21934.1
+1513,1513,Cash on Delivery,Paid,11013.34
+1514,1514,Card,Paid,5413.53
+1515,1515,Card,Paid,17728.72
+1516,1516,UPI,Paid,31308.4
+1517,1517,Card,Paid,11194.08
+1518,1518,Net Banking,Paid,26097.39
+1519,1519,Wallet,Paid,31978.44
+1520,1520,Cash on Delivery,Paid,16431.59
+1521,1521,Net Banking,Paid,25095.38
+1522,1522,Net Banking,Paid,13662.49
+1523,1523,Card,Paid,13170.81
+1524,1524,Wallet,Paid,2225.26
+1525,1525,Net Banking,Paid,18535.22
+1526,1526,Card,Paid,17578.26
+1527,1527,Cash on Delivery,Paid,23102.08
+1528,1528,Card,Paid,9427.84
+1529,1529,Wallet,Paid,39503.24
+1530,1530,UPI,Paid,12034.35
+1531,1531,Net Banking,Paid,9892.01
+1532,1532,Wallet,Paid,33079.79
+1533,1533,Card,Paid,10550.62
+1534,1534,Wallet,Paid,38101.89
+1535,1535,Wallet,Paid,24414.77
+1536,1536,Net Banking,Paid,16402.16
+1537,1537,Net Banking,Paid,29324.75
+1538,1538,Net Banking,Paid,7082.07
+1539,1539,Card,Paid,19142.8
+1540,1540,Net Banking,Paid,12800.93
+1541,1541,Cash on Delivery,Paid,14719.03
+1542,1542,Card,Paid,12451.38
+1543,1543,Cash on Delivery,Paid,50428.79
+1544,1544,Net Banking,Failed,28409.01
+1545,1545,UPI,Refunded,20617.54
+1546,1546,Wallet,Paid,12006.16
+1547,1547,Card,Paid,7660.79
+1548,1548,UPI,Paid,10539.04
+1549,1549,Card,Paid,13460.21
+1550,1550,Net Banking,Paid,23949.76
+1551,1551,UPI,Paid,33988.85
+1552,1552,UPI,Paid,32458.18
+1553,1553,Cash on Delivery,Paid,33710.89
+1554,1554,UPI,Refunded,30539.72
+1555,1555,UPI,Paid,23468.32
+1556,1556,Wallet,Paid,13609.12
+1557,1557,Card,Paid,27414.54
+1558,1558,Cash on Delivery,Paid,2954.89
+1559,1559,Cash on Delivery,Failed,13857.0
+1560,1560,Net Banking,Paid,7331.96
+1561,1561,UPI,Paid,42034.44
+1562,1562,Net Banking,Refunded,23263.22
+1563,1563,UPI,Paid,16292.13
+1564,1564,Cash on Delivery,Paid,9790.52
+1565,1565,Net Banking,Paid,35218.62
+1566,1566,Wallet,Paid,46135.62
+1567,1567,Cash on Delivery,Failed,40324.08
+1568,1568,Cash on Delivery,Paid,9062.18
+1569,1569,Net Banking,Paid,36725.85
+1570,1570,Card,Paid,26462.5
+1571,1571,Net Banking,Paid,11937.96
+1572,1572,Wallet,Paid,29322.3
+1573,1573,Cash on Delivery,Paid,31607.3
+1574,1574,UPI,Paid,31517.79
+1575,1575,Wallet,Paid,21952.44
+1576,1576,Wallet,Paid,7866.45
+1577,1577,Wallet,Paid,16971.94
+1578,1578,Cash on Delivery,Paid,22496.87
+1579,1579,Net Banking,Paid,33326.93
+1580,1580,UPI,Paid,17758.5
+1581,1581,Net Banking,Paid,6307.1
+1582,1582,Cash on Delivery,Paid,36581.88
+1583,1583,Cash on Delivery,Paid,16153.74
+1584,1584,Net Banking,Paid,36668.87
+1585,1585,UPI,Paid,27119.76
+1586,1586,Card,Paid,20826.12
+1587,1587,Net Banking,Refunded,29937.42
+1588,1588,Card,Paid,29003.77
+1589,1589,Cash on Delivery,Refunded,21306.49
+1590,1590,Net Banking,Paid,22076.98
+1591,1591,Net Banking,Paid,36061.16
+1592,1592,Wallet,Paid,34846.79
+1593,1593,UPI,Paid,13846.93
+1594,1594,Card,Paid,8115.75
+1595,1595,Wallet,Paid,29742.82
+1596,1596,Wallet,Paid,16217.62
+1597,1597,Card,Paid,10179.01
+1598,1598,Cash on Delivery,Paid,7903.54
+1599,1599,Cash on Delivery,Paid,26393.75
+1600,1600,Cash on Delivery,Paid,43592.73
+1601,1601,Wallet,Paid,21860.35
+1602,1602,Card,Paid,8836.96
+1603,1603,Card,Paid,13335.88
+1604,1604,UPI,Paid,33030.6
+1605,1605,UPI,Paid,16636.16
+1606,1606,Net Banking,Paid,35268.41
+1607,1607,Cash on Delivery,Paid,18294.83
+1608,1608,Cash on Delivery,Paid,16272.32
+1609,1609,Wallet,Paid,9782.48
+1610,1610,Net Banking,Failed,17581.67
+1611,1611,Wallet,Failed,22280.81
+1612,1612,Card,Paid,20695.09
+1613,1613,Cash on Delivery,Paid,43476.59
+1614,1614,Cash on Delivery,Paid,34266.53
+1615,1615,Cash on Delivery,Refunded,7060.92
+1616,1616,Net Banking,Paid,37881.44
+1617,1617,Wallet,Paid,13908.39
+1618,1618,Cash on Delivery,Paid,13906.52
+1619,1619,Wallet,Failed,29330.84
+1620,1620,Card,Paid,15614.86
+1621,1621,Card,Paid,21106.06
+1622,1622,Cash on Delivery,Paid,51925.4
+1623,1623,UPI,Paid,15307.3
+1624,1624,Card,Paid,12812.14
+1625,1625,Wallet,Paid,49387.72
+1626,1626,Card,Paid,9875.67
+1627,1627,Net Banking,Paid,9513.14
+1628,1628,Net Banking,Paid,4323.13
+1629,1629,Card,Paid,13631.94
+1630,1630,UPI,Paid,28778.35
+1631,1631,Net Banking,Paid,11766.57
+1632,1632,Net Banking,Paid,15852.07
+1633,1633,UPI,Paid,24531.77
+1634,1634,Cash on Delivery,Paid,9119.39
+1635,1635,UPI,Paid,23233.56
+1636,1636,UPI,Paid,40347.3
+1637,1637,Cash on Delivery,Paid,9831.98
+1638,1638,UPI,Paid,11656.84
+1639,1639,Wallet,Paid,15693.83
+1640,1640,Cash on Delivery,Paid,33211.11
+1641,1641,Card,Paid,9043.38
+1642,1642,UPI,Paid,13676.82
+1643,1643,UPI,Paid,10741.06
+1644,1644,Cash on Delivery,Paid,10865.06
+1645,1645,UPI,Paid,28420.37
+1646,1646,UPI,Paid,28527.39
+1647,1647,UPI,Paid,15631.15
+1648,1648,Wallet,Paid,21578.58
+1649,1649,Card,Paid,59201.36
+1650,1650,Card,Paid,15369.59
+1651,1651,Card,Refunded,5939.73
+1652,1652,Wallet,Refunded,14577.2
+1653,1653,Wallet,Paid,13927.57
+1654,1654,Net Banking,Paid,15378.2
+1655,1655,UPI,Paid,43559.94
+1656,1656,Net Banking,Paid,17995.52
+1657,1657,Net Banking,Paid,21550.72
+1658,1658,UPI,Failed,15594.9
+1659,1659,Card,Paid,23996.1
+1660,1660,Cash on Delivery,Paid,2408.46
+1661,1661,Cash on Delivery,Paid,38357.4
+1662,1662,Card,Refunded,3691.12
+1663,1663,UPI,Paid,15760.32
+1664,1664,Net Banking,Paid,19001.21
+1665,1665,Cash on Delivery,Paid,26668.6
+1666,1666,Cash on Delivery,Paid,19622.49
+1667,1667,Wallet,Paid,35221.38
+1668,1668,UPI,Paid,12122.96
+1669,1669,Net Banking,Paid,10327.85
+1670,1670,Cash on Delivery,Paid,39293.32
+1671,1671,Card,Paid,34706.7
+1672,1672,Cash on Delivery,Failed,15021.34
+1673,1673,UPI,Paid,30153.48
+1674,1674,Cash on Delivery,Paid,20022.58
+1675,1675,UPI,Paid,19554.76
+1676,1676,Net Banking,Paid,10188.37
+1677,1677,Cash on Delivery,Paid,23559.64
+1678,1678,Card,Paid,6404.28
+1679,1679,UPI,Failed,30353.4
+1680,1680,Wallet,Paid,21367.52
+1681,1681,Wallet,Paid,19264.3
+1682,1682,Card,Paid,21374.5
+1683,1683,UPI,Paid,5066.5
+1684,1684,Net Banking,Paid,5408.05
+1685,1685,Wallet,Paid,46104.62
+1686,1686,Wallet,Paid,20646.87
+1687,1687,Net Banking,Paid,9583.08
+1688,1688,Cash on Delivery,Paid,26452.7
+1689,1689,Wallet,Paid,4362.61
+1690,1690,Cash on Delivery,Paid,33192.58
+1691,1691,Card,Paid,21089.04
+1692,1692,Card,Paid,13272.24
+1693,1693,Cash on Delivery,Paid,8909.16
+1694,1694,Wallet,Paid,11695.77
+1695,1695,Wallet,Paid,17806.56
+1696,1696,Cash on Delivery,Paid,38053.71
+1697,1697,UPI,Paid,3015.04
+1698,1698,Card,Paid,26902.6
+1699,1699,Net Banking,Paid,17428.1
+1700,1700,UPI,Paid,16650.18
+1701,1701,Cash on Delivery,Paid,18730.62
+1702,1702,UPI,Paid,27651.04
+1703,1703,Net Banking,Paid,25816.52
+1704,1704,UPI,Paid,13193.08
+1705,1705,Wallet,Paid,15047.24
+1706,1706,Card,Paid,1904.14
+1707,1707,Wallet,Paid,18195.01
+1708,1708,Net Banking,Paid,16395.89
+1709,1709,Net Banking,Failed,19100.8
+1710,1710,Card,Paid,12656.42
+1711,1711,Cash on Delivery,Paid,31676.59
+1712,1712,Wallet,Refunded,31961.15
+1713,1713,Net Banking,Paid,12892.33
+1714,1714,Wallet,Paid,27725.38
+1715,1715,UPI,Paid,27936.61
+1716,1716,UPI,Paid,10476.87
+1717,1717,Card,Refunded,6933.46
+1718,1718,Cash on Delivery,Paid,26986.44
+1719,1719,Card,Paid,32997.16
+1720,1720,Wallet,Paid,20041.83
+1721,1721,Card,Paid,32077.92
+1722,1722,Wallet,Paid,9732.07
+1723,1723,UPI,Paid,11652.38
+1724,1724,Wallet,Failed,16591.22
+1725,1725,UPI,Paid,19458.07
+1726,1726,Wallet,Paid,10200.54
+1727,1727,Card,Paid,35662.23
+1728,1728,Net Banking,Paid,8199.68
+1729,1729,Card,Paid,18002.7
+1730,1730,Wallet,Paid,6642.23
+1731,1731,Card,Paid,15086.94
+1732,1732,UPI,Paid,10348.34
+1733,1733,Net Banking,Paid,30289.58
+1734,1734,Wallet,Paid,14193.52
+1735,1735,Card,Paid,30566.66
+1736,1736,Card,Failed,29806.58
+1737,1737,UPI,Paid,8192.94
+1738,1738,Card,Paid,17902.72
+1739,1739,Net Banking,Paid,30634.76
+1740,1740,Net Banking,Paid,36421.6
+1741,1741,Wallet,Failed,4498.77
+1742,1742,Net Banking,Paid,4812.93
+1743,1743,Cash on Delivery,Refunded,23794.86
+1744,1744,Wallet,Paid,18928.89
+1745,1745,UPI,Paid,19297.71
+1746,1746,Cash on Delivery,Paid,32339.42
+1747,1747,UPI,Paid,20254.03
+1748,1748,Cash on Delivery,Paid,40988.64
+1749,1749,UPI,Failed,18358.68
+1750,1750,Net Banking,Paid,26941.8
+1751,1751,Net Banking,Paid,6653.98
+1752,1752,Net Banking,Paid,26514.51
+1753,1753,Card,Paid,25805.17
+1754,1754,Card,Paid,36792.07
+1755,1755,Card,Paid,32289.38
+1756,1756,Cash on Delivery,Paid,21330.71
+1757,1757,Wallet,Refunded,24657.2
+1758,1758,Net Banking,Paid,22907.14
+1759,1759,Card,Paid,20112.84
+1760,1760,Net Banking,Paid,18876.67
+1761,1761,Card,Paid,20514.67
+1762,1762,Card,Failed,11731.55
+1763,1763,Net Banking,Paid,16996.27
+1764,1764,Card,Paid,25474.21
+1765,1765,Card,Failed,8766.99
+1766,1766,Wallet,Paid,17457.1
+1767,1767,Cash on Delivery,Paid,39656.56
+1768,1768,Net Banking,Paid,20463.8
+1769,1769,Wallet,Paid,18461.71
+1770,1770,Wallet,Paid,3158.38
+1771,1771,Cash on Delivery,Paid,19349.9
+1772,1772,Card,Failed,25967.16
+1773,1773,Net Banking,Paid,59828.72
+1774,1774,Cash on Delivery,Paid,9429.39
+1775,1775,UPI,Paid,18800.75
+1776,1776,UPI,Paid,30485.94
+1777,1777,UPI,Paid,15144.2
+1778,1778,Wallet,Paid,4458.61
+1779,1779,Wallet,Paid,22111.11
+1780,1780,Cash on Delivery,Paid,16571.32
+1781,1781,Card,Paid,12296.44
+1782,1782,Card,Paid,14710.28
+1783,1783,Card,Paid,20611.57
+1784,1784,Wallet,Paid,9069.69
+1785,1785,UPI,Paid,19299.6
+1786,1786,Wallet,Refunded,9181.52
+1787,1787,Cash on Delivery,Paid,30588.82
+1788,1788,UPI,Paid,3888.48
+1789,1789,Net Banking,Paid,16551.45
+1790,1790,Card,Paid,4687.46
+1791,1791,Net Banking,Paid,20636.72
+1792,1792,Card,Paid,17419.11
+1793,1793,Wallet,Paid,15872.66
+1794,1794,UPI,Refunded,30387.25
+1795,1795,UPI,Paid,43641.16
+1796,1796,Wallet,Paid,6357.97
+1797,1797,Cash on Delivery,Paid,22298.8
+1798,1798,Card,Paid,22957.98
+1799,1799,Wallet,Paid,21617.2
+1800,1800,Cash on Delivery,Paid,19876.6
+1801,1801,Cash on Delivery,Paid,17746.72
+1802,1802,Card,Paid,13349.16
+1803,1803,Card,Paid,16250.6
+1804,1804,Cash on Delivery,Paid,44094.56
+1805,1805,Net Banking,Failed,10415.63
+1806,1806,UPI,Paid,29486.64
+1807,1807,Wallet,Paid,28918.56
+1808,1808,Cash on Delivery,Paid,18872.96
+1809,1809,Cash on Delivery,Paid,10696.13
+1810,1810,Card,Refunded,48513.08
+1811,1811,UPI,Paid,9129.07
+1812,1812,Cash on Delivery,Paid,53592.64
+1813,1813,Cash on Delivery,Refunded,7413.81
+1814,1814,UPI,Paid,31964.15
+1815,1815,UPI,Paid,31994.68
+1816,1816,UPI,Paid,32151.2
+1817,1817,Cash on Delivery,Paid,21120.9
+1818,1818,UPI,Paid,21684.62
+1819,1819,Wallet,Paid,14033.47
+1820,1820,Card,Paid,28596.09
+1821,1821,Net Banking,Paid,47611.28
+1822,1822,Card,Paid,19766.82
+1823,1823,Wallet,Paid,5559.56
+1824,1824,Wallet,Refunded,23557.03
+1825,1825,UPI,Paid,29539.71
+1826,1826,Wallet,Paid,13918.79
+1827,1827,Wallet,Paid,17735.11
+1828,1828,UPI,Paid,19765.91
+1829,1829,Card,Paid,16936.67
+1830,1830,Net Banking,Refunded,39166.01
+1831,1831,Net Banking,Paid,7563.05
+1832,1832,Card,Paid,19283.28
+1833,1833,Net Banking,Paid,45087.64
+1834,1834,Net Banking,Paid,7274.84
+1835,1835,Cash on Delivery,Paid,21322.57
+1836,1836,Card,Paid,20291.63
+1837,1837,UPI,Paid,20529.33
+1838,1838,Net Banking,Paid,42132.11
+1839,1839,UPI,Paid,39104.31
+1840,1840,UPI,Paid,23041.32
+1841,1841,Cash on Delivery,Paid,2559.59
+1842,1842,Wallet,Paid,6608.96
+1843,1843,Card,Paid,25868.18
+1844,1844,Wallet,Paid,19907.6
+1845,1845,Card,Refunded,33604.52
+1846,1846,Cash on Delivery,Paid,37405.37
+1847,1847,Wallet,Failed,17766.5
+1848,1848,Cash on Delivery,Paid,4599.12
+1849,1849,Card,Paid,27081.91
+1850,1850,Cash on Delivery,Paid,8321.98
+1851,1851,UPI,Refunded,39236.73
+1852,1852,Net Banking,Paid,25669.16
+1853,1853,Wallet,Paid,28740.64
+1854,1854,Wallet,Failed,1416.05
+1855,1855,Card,Paid,32335.71
+1856,1856,Net Banking,Refunded,9730.43
+1857,1857,Card,Paid,9885.32
+1858,1858,Cash on Delivery,Paid,18457.5
+1859,1859,Card,Paid,22432.16
+1860,1860,Net Banking,Failed,35476.6
+1861,1861,Card,Paid,36448.13
+1862,1862,Wallet,Paid,25629.92
+1863,1863,Cash on Delivery,Paid,18392.84
+1864,1864,Wallet,Paid,1704.21
+1865,1865,UPI,Refunded,27583.04
+1866,1866,Net Banking,Paid,4001.94
+1867,1867,Card,Paid,22703.98
+1868,1868,Cash on Delivery,Paid,21360.42
+1869,1869,UPI,Paid,50116.96
+1870,1870,Cash on Delivery,Paid,13015.87
+1871,1871,Wallet,Paid,3580.55
+1872,1872,Card,Paid,18865.07
+1873,1873,Card,Paid,14069.8
+1874,1874,Card,Paid,32058.48
+1875,1875,Wallet,Paid,21365.36
+1876,1876,Net Banking,Paid,18589.71
+1877,1877,Wallet,Paid,6907.69
+1878,1878,Wallet,Paid,36865.47
+1879,1879,Wallet,Paid,30256.88
+1880,1880,Wallet,Paid,20597.28
+1881,1881,Card,Paid,12221.54
+1882,1882,Wallet,Paid,12944.28
+1883,1883,Card,Paid,12923.89
+1884,1884,UPI,Paid,15400.15
+1885,1885,Card,Paid,28243.34
+1886,1886,UPI,Paid,32208.4
+1887,1887,Wallet,Paid,15466.72
+1888,1888,UPI,Refunded,32933.64
+1889,1889,Cash on Delivery,Failed,12010.52
+1890,1890,Wallet,Paid,28063.32
+1891,1891,Net Banking,Refunded,29824.99
+1892,1892,UPI,Paid,37177.13
+1893,1893,Card,Paid,19645.89
+1894,1894,Wallet,Paid,11495.07
+1895,1895,Wallet,Paid,43495.25
+1896,1896,Net Banking,Paid,31171.24
+1897,1897,Card,Paid,15397.42
+1898,1898,Card,Paid,19934.2
+1899,1899,UPI,Paid,25755.61
+1900,1900,Net Banking,Failed,16392.56
+1901,1901,UPI,Paid,11423.88
+1902,1902,UPI,Paid,23417.19
+1903,1903,UPI,Paid,26931.48
+1904,1904,Card,Paid,23910.14
+1905,1905,Net Banking,Failed,21285.6
+1906,1906,Card,Paid,25948.97
+1907,1907,UPI,Paid,15496.25
+1908,1908,Cash on Delivery,Paid,17132.88
+1909,1909,Cash on Delivery,Paid,45623.68
+1910,1910,UPI,Paid,30130.75
+1911,1911,Wallet,Paid,31404.51
+1912,1912,Net Banking,Paid,9639.08
+1913,1913,Cash on Delivery,Paid,8714.21
+1914,1914,Net Banking,Paid,21413.31
+1915,1915,Wallet,Paid,17372.5
+1916,1916,Wallet,Paid,13243.61
+1917,1917,Cash on Delivery,Paid,20960.51
+1918,1918,Net Banking,Paid,22973.58
+1919,1919,UPI,Paid,34573.32
+1920,1920,UPI,Refunded,44837.26
+1921,1921,Wallet,Paid,19117.66
+1922,1922,Net Banking,Paid,30523.52
+1923,1923,Cash on Delivery,Paid,39689.88
+1924,1924,Wallet,Paid,15317.03
+1925,1925,Net Banking,Paid,16673.58
+1926,1926,Cash on Delivery,Paid,23416.32
+1927,1927,Wallet,Paid,36411.64
+1928,1928,Cash on Delivery,Paid,21511.65
+1929,1929,Net Banking,Paid,35283.69
+1930,1930,UPI,Paid,23547.32
+1931,1931,UPI,Refunded,12016.74
+1932,1932,Cash on Delivery,Paid,34141.34
+1933,1933,Wallet,Paid,15385.35
+1934,1934,UPI,Failed,13175.75
+1935,1935,UPI,Paid,12113.68
+1936,1936,Net Banking,Paid,23499.74
+1937,1937,UPI,Failed,31474.16
+1938,1938,Wallet,Failed,31947.36
+1939,1939,Card,Paid,28667.78
+1940,1940,Net Banking,Paid,26778.56
+1941,1941,Cash on Delivery,Refunded,40196.62
+1942,1942,Wallet,Paid,7311.18
+1943,1943,UPI,Paid,10588.22
+1944,1944,Cash on Delivery,Paid,35942.43
+1945,1945,Wallet,Paid,22643.6
+1946,1946,Card,Paid,17410.67
+1947,1947,Net Banking,Paid,16766.01
+1948,1948,Card,Failed,16582.68
+1949,1949,Net Banking,Paid,19758.63
+1950,1950,Cash on Delivery,Paid,10465.59
+1951,1951,Wallet,Paid,7903.0
+1952,1952,Cash on Delivery,Paid,10762.17
+1953,1953,Card,Paid,28025.54
+1954,1954,Cash on Delivery,Paid,20631.08
+1955,1955,Cash on Delivery,Paid,32019.32
+1956,1956,UPI,Refunded,16059.73
+1957,1957,Cash on Delivery,Paid,11139.8
+1958,1958,Card,Paid,34235.63
+1959,1959,Card,Refunded,27722.42
+1960,1960,Card,Paid,23602.74
+1961,1961,Cash on Delivery,Failed,13354.99
+1962,1962,UPI,Paid,36853.8
+1963,1963,UPI,Paid,17177.49
+1964,1964,Cash on Delivery,Paid,24883.83
+1965,1965,Cash on Delivery,Paid,8953.89
+1966,1966,Card,Paid,27282.34
+1967,1967,Card,Paid,24907.43
+1968,1968,Wallet,Paid,7053.04
+1969,1969,Wallet,Paid,10959.54
+1970,1970,Cash on Delivery,Failed,12612.0
+1971,1971,Cash on Delivery,Paid,43373.79
+1972,1972,Wallet,Paid,18686.18
+1973,1973,Cash on Delivery,Paid,8629.52
+1974,1974,UPI,Paid,9502.54
+1975,1975,Wallet,Paid,26636.7
+1976,1976,Net Banking,Paid,7066.13
+1977,1977,Card,Paid,15872.43
+1978,1978,Cash on Delivery,Paid,41335.39
+1979,1979,UPI,Paid,7220.71
+1980,1980,Net Banking,Paid,18315.08
+1981,1981,Net Banking,Paid,27992.47
+1982,1982,Wallet,Paid,19508.41
+1983,1983,Wallet,Paid,20465.25
+1984,1984,UPI,Paid,21217.13
+1985,1985,UPI,Paid,10825.47
+1986,1986,UPI,Failed,32346.76
+1987,1987,Cash on Delivery,Paid,21470.77
+1988,1988,Cash on Delivery,Refunded,23630.33
+1989,1989,Cash on Delivery,Paid,7172.35
+1990,1990,Net Banking,Paid,9697.07
+1991,1991,Wallet,Paid,19358.39
+1992,1992,Wallet,Paid,11909.97
+1993,1993,Cash on Delivery,Paid,22683.46
+1994,1994,UPI,Paid,19286.32
+1995,1995,Net Banking,Paid,15018.9
+1996,1996,Net Banking,Paid,29208.79
+1997,1997,UPI,Paid,24782.79
+1998,1998,UPI,Paid,11347.5
+1999,1999,Cash on Delivery,Paid,11939.57
+2000,2000,Net Banking,Paid,11235.5
+2001,2001,UPI,Paid,25848.6
+2002,2002,Cash on Delivery,Paid,18752.11
+2003,2003,Wallet,Paid,14698.04
+2004,2004,Cash on Delivery,Paid,21056.99
+2005,2005,Card,Paid,9153.19
+2006,2006,Net Banking,Paid,9148.29
+2007,2007,Card,Refunded,7948.03
+2008,2008,Net Banking,Paid,20896.75
+2009,2009,Cash on Delivery,Paid,30798.38
+2010,2010,Cash on Delivery,Paid,7244.09
+2011,2011,Cash on Delivery,Paid,25709.47
+2012,2012,Card,Paid,8608.75
+2013,2013,UPI,Failed,10231.36
+2014,2014,UPI,Paid,26311.98
+2015,2015,Cash on Delivery,Refunded,27783.66
+2016,2016,Card,Paid,22381.65
+2017,2017,Net Banking,Paid,19997.85
+2018,2018,UPI,Paid,12221.89
+2019,2019,Cash on Delivery,Paid,9099.0
+2020,2020,UPI,Paid,44045.44
+2021,2021,Net Banking,Paid,24242.33
+2022,2022,UPI,Paid,23947.48
+2023,2023,Wallet,Paid,11775.86
+2024,2024,Card,Refunded,32049.9
+2025,2025,Card,Paid,5093.06
+2026,2026,Card,Paid,32305.34
+2027,2027,Cash on Delivery,Paid,25856.84
+2028,2028,Net Banking,Paid,41476.59
+2029,2029,Card,Paid,24394.72
+2030,2030,Card,Paid,3828.53
+2031,2031,Wallet,Paid,13388.03
+2032,2032,Net Banking,Failed,13851.31
+2033,2033,Cash on Delivery,Refunded,8976.06
+2034,2034,Wallet,Paid,5409.44
+2035,2035,UPI,Paid,8036.48
+2036,2036,UPI,Paid,17074.57
+2037,2037,UPI,Paid,29181.45
+2038,2038,Net Banking,Paid,17251.72
+2039,2039,Card,Paid,29085.69
+2040,2040,Net Banking,Paid,18230.22
+2041,2041,Wallet,Paid,9757.62
+2042,2042,Net Banking,Refunded,13231.01
+2043,2043,Card,Paid,27654.66
+2044,2044,Net Banking,Paid,21513.8
+2045,2045,Wallet,Paid,12453.5
+2046,2046,Net Banking,Paid,19660.45
+2047,2047,Card,Failed,23545.73
+2048,2048,Cash on Delivery,Failed,18265.1
+2049,2049,Card,Paid,24858.95
+2050,2050,Card,Refunded,14799.29
+2051,2051,Card,Refunded,6807.87
+2052,2052,Card,Paid,4418.07
+2053,2053,Net Banking,Paid,23959.14
+2054,2054,Cash on Delivery,Failed,23597.22
+2055,2055,UPI,Paid,16433.0
+2056,2056,Card,Paid,13697.04
+2057,2057,Wallet,Paid,5069.49
+2058,2058,Net Banking,Paid,11472.59
+2059,2059,UPI,Paid,45609.08
+2060,2060,Wallet,Paid,11850.7
+2061,2061,Wallet,Paid,45744.44
+2062,2062,Net Banking,Paid,13572.81
+2063,2063,Card,Paid,12715.2
+2064,2064,Net Banking,Paid,24437.8
+2065,2065,UPI,Failed,9011.61
+2066,2066,Wallet,Failed,19045.14
+2067,2067,Net Banking,Paid,6972.18
+2068,2068,Cash on Delivery,Paid,22682.24
+2069,2069,Wallet,Paid,31610.49
+2070,2070,UPI,Refunded,44515.87
+2071,2071,UPI,Paid,17659.58
+2072,2072,Card,Refunded,7450.63
+2073,2073,UPI,Paid,11127.59
+2074,2074,Cash on Delivery,Failed,12559.44
+2075,2075,Card,Refunded,15473.66
+2076,2076,Wallet,Paid,14047.25
+2077,2077,Card,Paid,12912.49
+2078,2078,Cash on Delivery,Paid,15773.08
+2079,2079,Card,Paid,41585.88
+2080,2080,Cash on Delivery,Paid,17763.82
+2081,2081,Wallet,Refunded,37188.96
+2082,2082,UPI,Paid,23940.06
+2083,2083,Cash on Delivery,Paid,19652.79
+2084,2084,Net Banking,Paid,36663.14
+2085,2085,Net Banking,Paid,22467.46
+2086,2086,Card,Paid,41784.1
+2087,2087,Cash on Delivery,Paid,19187.52
+2088,2088,Net Banking,Refunded,35299.92
+2089,2089,Wallet,Paid,4348.23
+2090,2090,Cash on Delivery,Paid,20999.9
+2091,2091,Wallet,Paid,22727.97
+2092,2092,Wallet,Paid,10751.56
+2093,2093,UPI,Refunded,21208.97
+2094,2094,Net Banking,Paid,46065.44
+2095,2095,Cash on Delivery,Paid,17084.2
+2096,2096,Net Banking,Paid,6779.28
+2097,2097,Card,Paid,20863.25
+2098,2098,UPI,Paid,21252.33
+2099,2099,Wallet,Paid,17978.89
+2100,2100,UPI,Paid,16117.46
+2101,2101,Net Banking,Failed,31442.41
+2102,2102,UPI,Paid,29041.45
+2103,2103,UPI,Paid,38270.38
+2104,2104,Wallet,Paid,20334.46
+2105,2105,Card,Paid,24604.28
+2106,2106,UPI,Paid,13027.86
+2107,2107,UPI,Paid,29607.21
+2108,2108,Card,Refunded,8603.86
+2109,2109,Cash on Delivery,Paid,23838.93
+2110,2110,Net Banking,Paid,17689.22
+2111,2111,UPI,Refunded,24045.38
+2112,2112,Wallet,Refunded,18061.33
+2113,2113,Wallet,Refunded,34903.68
+2114,2114,Net Banking,Paid,17801.12
+2115,2115,Card,Failed,39975.97
+2116,2116,Cash on Delivery,Paid,18637.03
+2117,2117,Cash on Delivery,Paid,20413.18
+2118,2118,Cash on Delivery,Paid,11363.73
+2119,2119,Net Banking,Refunded,16151.32
+2120,2120,Card,Paid,6737.51
+2121,2121,UPI,Paid,23152.98
+2122,2122,Net Banking,Refunded,4717.58
+2123,2123,Cash on Delivery,Paid,7158.74
+2124,2124,UPI,Paid,24157.34
+2125,2125,Net Banking,Paid,7838.35
+2126,2126,UPI,Refunded,29864.86
+2127,2127,UPI,Refunded,30449.92
+2128,2128,Cash on Delivery,Paid,13086.77
+2129,2129,Cash on Delivery,Failed,23444.56
+2130,2130,UPI,Paid,12663.43
+2131,2131,UPI,Paid,23196.32
+2132,2132,Net Banking,Paid,15199.77
+2133,2133,Card,Paid,20897.02
+2134,2134,Net Banking,Paid,23211.9
+2135,2135,UPI,Refunded,10760.92
+2136,2136,Net Banking,Paid,30931.36
+2137,2137,Wallet,Paid,5105.87
+2138,2138,UPI,Paid,6602.81
+2139,2139,UPI,Paid,14990.35
+2140,2140,UPI,Paid,36068.86
+2141,2141,Card,Paid,35985.11
+2142,2142,UPI,Paid,12411.58
+2143,2143,UPI,Refunded,13443.73
+2144,2144,UPI,Paid,16900.81
+2145,2145,Cash on Delivery,Paid,23754.76
+2146,2146,Wallet,Paid,31161.99
+2147,2147,Cash on Delivery,Paid,34102.92
+2148,2148,Wallet,Paid,10370.53
+2149,2149,Wallet,Paid,19187.92
+2150,2150,Cash on Delivery,Paid,20231.99
+2151,2151,Cash on Delivery,Paid,39192.84
+2152,2152,Net Banking,Paid,46501.88
+2153,2153,Wallet,Paid,28525.01
+2154,2154,Net Banking,Paid,29053.17
+2155,2155,Cash on Delivery,Paid,12691.29
+2156,2156,UPI,Paid,5935.77
+2157,2157,Net Banking,Paid,21227.64
+2158,2158,Card,Paid,9371.14
+2159,2159,Net Banking,Paid,23259.25
+2160,2160,Cash on Delivery,Paid,35226.9
+2161,2161,Cash on Delivery,Paid,15469.04
+2162,2162,UPI,Paid,33083.54
+2163,2163,UPI,Paid,22133.7
+2164,2164,UPI,Paid,7894.61
+2165,2165,Card,Paid,15601.01
+2166,2166,UPI,Failed,16340.07
+2167,2167,Wallet,Refunded,41622.45
+2168,2168,UPI,Paid,39412.92
+2169,2169,Card,Paid,21671.42
+2170,2170,Wallet,Paid,29030.88
+2171,2171,UPI,Refunded,22515.63
+2172,2172,Wallet,Paid,23473.95
+2173,2173,Wallet,Paid,35375.64
+2174,2174,Cash on Delivery,Paid,13453.06
+2175,2175,Wallet,Paid,6414.46
+2176,2176,Wallet,Paid,14706.66
+2177,2177,UPI,Paid,27958.15
+2178,2178,Cash on Delivery,Paid,36467.11
+2179,2179,Wallet,Paid,17569.88
+2180,2180,Net Banking,Paid,14281.44
+2181,2181,Cash on Delivery,Paid,37278.58
+2182,2182,UPI,Refunded,22706.72
+2183,2183,Card,Paid,28125.03
+2184,2184,Card,Paid,24332.6
+2185,2185,Net Banking,Paid,5295.64
+2186,2186,UPI,Paid,24790.04
+2187,2187,Net Banking,Paid,13768.14
+2188,2188,Wallet,Paid,9761.76
+2189,2189,Card,Paid,8072.03
+2190,2190,UPI,Paid,33940.53
+2191,2191,Card,Paid,12757.41
+2192,2192,Wallet,Paid,29287.34
+2193,2193,UPI,Paid,33544.86
+2194,2194,Net Banking,Paid,23703.69
+2195,2195,Card,Paid,38275.72
+2196,2196,Net Banking,Paid,32741.08
+2197,2197,Cash on Delivery,Paid,11469.78
+2198,2198,UPI,Paid,10526.97
+2199,2199,Net Banking,Paid,18909.99
+2200,2200,Card,Paid,18530.1
+2201,2201,Wallet,Paid,4579.13
+2202,2202,Net Banking,Paid,15673.29
+2203,2203,Card,Paid,25632.27
+2204,2204,Card,Paid,11263.72
+2205,2205,Net Banking,Paid,2167.88
+2206,2206,Cash on Delivery,Paid,25065.0
+2207,2207,Net Banking,Paid,25451.22
+2208,2208,Net Banking,Paid,19044.64
+2209,2209,Net Banking,Paid,49714.68
+2210,2210,Card,Failed,22253.32
+2211,2211,UPI,Failed,27608.18
+2212,2212,Card,Paid,5782.35
+2213,2213,Net Banking,Paid,39246.99
+2214,2214,Wallet,Paid,18192.94
+2215,2215,Cash on Delivery,Paid,31237.38
+2216,2216,Cash on Delivery,Paid,13125.12
+2217,2217,Net Banking,Paid,10879.87
+2218,2218,Cash on Delivery,Paid,11978.65
+2219,2219,Card,Paid,29250.78
+2220,2220,Wallet,Paid,39599.62
+2221,2221,Cash on Delivery,Paid,14509.12
+2222,2222,Wallet,Paid,32092.63
+2223,2223,Card,Paid,10474.89
+2224,2224,Card,Paid,19211.88
+2225,2225,UPI,Paid,23094.0
+2226,2226,Cash on Delivery,Paid,4444.52
+2227,2227,Net Banking,Paid,15824.45
+2228,2228,Net Banking,Paid,42960.93
+2229,2229,Card,Paid,13593.53
+2230,2230,Net Banking,Paid,4564.99
+2231,2231,Cash on Delivery,Paid,7231.37
+2232,2232,UPI,Paid,23883.13
+2233,2233,Net Banking,Failed,7720.36
+2234,2234,UPI,Paid,22674.21
+2235,2235,Wallet,Failed,51970.43
+2236,2236,UPI,Refunded,11424.0
+2237,2237,UPI,Paid,11311.18
+2238,2238,Cash on Delivery,Paid,16723.5
+2239,2239,Net Banking,Paid,23596.91
+2240,2240,Card,Paid,47288.86
+2241,2241,Net Banking,Paid,50421.88
+2242,2242,Card,Paid,18847.2
+2243,2243,Net Banking,Paid,7183.4
+2244,2244,Wallet,Paid,19615.46
+2245,2245,Card,Paid,14636.44
+2246,2246,Card,Paid,17552.59
+2247,2247,Card,Paid,22060.76
+2248,2248,UPI,Paid,36710.82
+2249,2249,Card,Paid,28271.25
+2250,2250,Wallet,Failed,8393.55
+2251,2251,Wallet,Paid,14023.37
+2252,2252,Cash on Delivery,Paid,34114.2
+2253,2253,Cash on Delivery,Paid,12470.34
+2254,2254,UPI,Paid,10609.56
+2255,2255,Wallet,Paid,32906.82
+2256,2256,UPI,Paid,30183.36
+2257,2257,UPI,Paid,2483.73
+2258,2258,Net Banking,Paid,13950.37
+2259,2259,Wallet,Paid,13800.8
+2260,2260,Wallet,Paid,17750.32
+2261,2261,UPI,Refunded,21812.05
+2262,2262,Net Banking,Failed,18245.02
+2263,2263,Card,Failed,17474.81
+2264,2264,Cash on Delivery,Paid,30578.15
+2265,2265,Wallet,Paid,17479.92
+2266,2266,Net Banking,Paid,16365.04
+2267,2267,Wallet,Paid,10906.71
+2268,2268,Net Banking,Paid,28823.38
+2269,2269,Cash on Delivery,Paid,32642.59
+2270,2270,Cash on Delivery,Paid,15940.98
+2271,2271,Wallet,Paid,10464.04
+2272,2272,Wallet,Paid,21640.42
+2273,2273,Wallet,Paid,12228.56
+2274,2274,UPI,Paid,19425.85
+2275,2275,Wallet,Paid,20265.45
+2276,2276,Wallet,Paid,28093.46
+2277,2277,Wallet,Paid,42232.51
+2278,2278,Cash on Delivery,Paid,9805.48
+2279,2279,Wallet,Paid,21541.5
+2280,2280,Net Banking,Paid,10289.26
+2281,2281,Cash on Delivery,Paid,14793.96
+2282,2282,Net Banking,Paid,6948.53
+2283,2283,Wallet,Paid,9801.68
+2284,2284,Net Banking,Paid,40941.6
+2285,2285,Wallet,Paid,8449.72
+2286,2286,Cash on Delivery,Paid,13786.04
+2287,2287,Net Banking,Paid,19573.19
+2288,2288,Cash on Delivery,Paid,26631.52
+2289,2289,Wallet,Paid,27702.81
+2290,2290,Net Banking,Paid,9220.5
+2291,2291,Net Banking,Paid,16903.67
+2292,2292,Net Banking,Paid,14401.9
+2293,2293,Card,Failed,16186.35
+2294,2294,Net Banking,Paid,16923.24
+2295,2295,Cash on Delivery,Paid,7925.68
+2296,2296,Net Banking,Paid,29628.81
+2297,2297,Cash on Delivery,Paid,23187.42
+2298,2298,UPI,Paid,12753.7
+2299,2299,Card,Paid,23328.22
+2300,2300,Wallet,Paid,6376.94
+2301,2301,Cash on Delivery,Refunded,26940.11
+2302,2302,Cash on Delivery,Paid,23753.12
+2303,2303,Cash on Delivery,Paid,19753.38
+2304,2304,UPI,Paid,28987.74
+2305,2305,UPI,Paid,8325.09
+2306,2306,UPI,Refunded,18785.8
+2307,2307,Card,Paid,30029.7
+2308,2308,Cash on Delivery,Paid,8393.55
+2309,2309,Net Banking,Paid,37123.68
+2310,2310,Card,Paid,38820.58
+2311,2311,UPI,Paid,20161.68
+2312,2312,Card,Paid,5366.95
+2313,2313,Cash on Delivery,Paid,25248.8
+2314,2314,Net Banking,Paid,7873.98
+2315,2315,Cash on Delivery,Paid,14234.81
+2316,2316,Wallet,Paid,22425.01
+2317,2317,UPI,Paid,32404.46
+2318,2318,Net Banking,Paid,27405.12
+2319,2319,Wallet,Paid,27244.72
+2320,2320,Card,Paid,7671.3
+2321,2321,Card,Paid,13939.76
+2322,2322,Card,Paid,15466.43
+2323,2323,Card,Refunded,39207.35
+2324,2324,Wallet,Refunded,17199.38
+2325,2325,Card,Failed,30847.64
+2326,2326,Wallet,Paid,19992.08
+2327,2327,UPI,Paid,9633.32
+2328,2328,Card,Paid,52036.72
+2329,2329,Wallet,Paid,11688.5
+2330,2330,Net Banking,Paid,17250.64
+2331,2331,Cash on Delivery,Paid,2775.47
+2332,2332,Cash on Delivery,Refunded,38799.45
+2333,2333,Net Banking,Refunded,26155.01
+2334,2334,Net Banking,Paid,39409.28
+2335,2335,UPI,Refunded,9923.03
+2336,2336,Card,Paid,14035.4
+2337,2337,UPI,Paid,15900.01
+2338,2338,Net Banking,Paid,22901.56
+2339,2339,Net Banking,Paid,33973.77
+2340,2340,Card,Paid,29211.24
+2341,2341,Net Banking,Paid,53465.26
+2342,2342,Net Banking,Paid,24337.39
+2343,2343,Wallet,Paid,8861.84
+2344,2344,Cash on Delivery,Failed,45117.24
+2345,2345,UPI,Paid,38020.88
+2346,2346,Wallet,Paid,16438.48
+2347,2347,Card,Paid,54898.6
+2348,2348,Wallet,Paid,35355.48
+2349,2349,Net Banking,Paid,24339.18
+2350,2350,Net Banking,Failed,29004.78
+2351,2351,Net Banking,Paid,33042.74
+2352,2352,Net Banking,Paid,21154.11
+2353,2353,UPI,Failed,31764.6
+2354,2354,Card,Paid,11958.88
+2355,2355,Net Banking,Paid,22624.56
+2356,2356,Cash on Delivery,Paid,15679.09
+2357,2357,UPI,Paid,5767.17
+2358,2358,Cash on Delivery,Paid,21258.83
+2359,2359,Card,Failed,23983.92
+2360,2360,Cash on Delivery,Paid,22540.08
+2361,2361,Wallet,Paid,19640.24
+2362,2362,UPI,Paid,25884.56
+2363,2363,UPI,Paid,6941.64
+2364,2364,Cash on Delivery,Paid,4712.27
+2365,2365,Card,Paid,9750.11
+2366,2366,Net Banking,Paid,23882.36
+2367,2367,Card,Paid,18272.59
+2368,2368,UPI,Paid,8036.06
+2369,2369,Card,Paid,29787.17
+2370,2370,Cash on Delivery,Paid,53362.95
+2371,2371,UPI,Paid,15149.11
+2372,2372,Net Banking,Paid,16521.84
+2373,2373,UPI,Paid,33869.52
+2374,2374,Card,Paid,37229.56
+2375,2375,Net Banking,Paid,19989.15
+2376,2376,Wallet,Paid,12356.21
+2377,2377,Card,Paid,6374.79
+2378,2378,Card,Paid,14518.91
+2379,2379,Net Banking,Paid,23163.72
+2380,2380,UPI,Paid,22405.56
+2381,2381,UPI,Paid,19150.76
+2382,2382,Wallet,Paid,11100.47
+2383,2383,Card,Paid,20622.15
+2384,2384,Card,Paid,14208.1
+2385,2385,Cash on Delivery,Paid,34543.11
+2386,2386,Cash on Delivery,Paid,16016.0
+2387,2387,Net Banking,Paid,14079.51
+2388,2388,Cash on Delivery,Paid,11599.13
+2389,2389,Wallet,Paid,7397.58
+2390,2390,Card,Paid,32832.32
+2391,2391,UPI,Paid,21194.47
+2392,2392,Wallet,Paid,13227.12
+2393,2393,Wallet,Paid,5218.53
+2394,2394,Cash on Delivery,Failed,29557.86
+2395,2395,UPI,Paid,12792.24
+2396,2396,Card,Paid,27495.14
+2397,2397,Card,Paid,11558.24
+2398,2398,Net Banking,Paid,19797.21
+2399,2399,Cash on Delivery,Paid,3514.6
+2400,2400,UPI,Paid,19782.88
+2401,2401,Wallet,Paid,17123.49
+2402,2402,Card,Paid,22124.78
+2403,2403,Wallet,Paid,35459.64
+2404,2404,UPI,Failed,31303.37
+2405,2405,Wallet,Paid,28435.8
+2406,2406,UPI,Paid,24509.34
+2407,2407,Net Banking,Paid,16868.28
+2408,2408,Wallet,Paid,11994.87
+2409,2409,Cash on Delivery,Paid,30218.36
+2410,2410,Wallet,Paid,16844.59
+2411,2411,Cash on Delivery,Paid,27370.32
+2412,2412,Wallet,Paid,39013.92
+2413,2413,Net Banking,Paid,38673.56
+2414,2414,Card,Paid,18830.94
+2415,2415,Wallet,Failed,22150.8
+2416,2416,Cash on Delivery,Paid,40112.9
+2417,2417,Card,Paid,6387.05
+2418,2418,UPI,Paid,22778.84
+2419,2419,Net Banking,Refunded,9471.3
+2420,2420,Cash on Delivery,Paid,29386.14
+2421,2421,Net Banking,Paid,13091.65
+2422,2422,UPI,Paid,12688.73
+2423,2423,Card,Refunded,19514.33
+2424,2424,Wallet,Paid,5430.24
+2425,2425,Card,Paid,30932.76
+2426,2426,UPI,Paid,9302.58
+2427,2427,UPI,Paid,37385.12
+2428,2428,UPI,Paid,28392.62
+2429,2429,Card,Paid,20276.59
+2430,2430,Card,Paid,33067.35
+2431,2431,Card,Failed,12835.87
+2432,2432,Card,Paid,24027.68
+2433,2433,Net Banking,Paid,8661.62
+2434,2434,Cash on Delivery,Paid,11908.66
+2435,2435,Net Banking,Paid,11080.16
+2436,2436,UPI,Paid,4749.36
+2437,2437,Cash on Delivery,Paid,38547.0
+2438,2438,UPI,Failed,9923.04
+2439,2439,Wallet,Paid,25182.94
+2440,2440,Wallet,Paid,27147.82
+2441,2441,Card,Paid,40530.88
+2442,2442,Net Banking,Paid,34392.71
+2443,2443,Wallet,Paid,34523.78
+2444,2444,Card,Paid,17505.03
+2445,2445,UPI,Paid,35499.56
+2446,2446,Wallet,Paid,21538.76
+2447,2447,Wallet,Paid,36509.08
+2448,2448,Card,Paid,28713.7
+2449,2449,Cash on Delivery,Paid,15177.39
+2450,2450,Card,Paid,20282.85
+2451,2451,Wallet,Failed,26322.83
+2452,2452,UPI,Paid,19303.24
+2453,2453,Card,Failed,17335.88
+2454,2454,Card,Paid,36205.39
+2455,2455,Cash on Delivery,Paid,28015.17
+2456,2456,UPI,Paid,31967.38
+2457,2457,Card,Paid,9283.07
+2458,2458,Cash on Delivery,Paid,39124.23
+2459,2459,Card,Paid,30637.12
+2460,2460,Card,Paid,18726.0
+2461,2461,Cash on Delivery,Paid,40641.54
+2462,2462,Card,Failed,11014.83
+2463,2463,UPI,Paid,6663.43
+2464,2464,Wallet,Paid,15357.76
+2465,2465,Net Banking,Failed,13051.5
+2466,2466,UPI,Paid,29304.46
+2467,2467,Net Banking,Paid,17796.34
+2468,2468,Cash on Delivery,Paid,17433.56
+2469,2469,Wallet,Failed,26342.91
+2470,2470,UPI,Paid,36007.74
+2471,2471,Wallet,Paid,12120.08
+2472,2472,UPI,Paid,10365.87
+2473,2473,Wallet,Paid,15011.05
+2474,2474,UPI,Paid,28395.78
+2475,2475,Card,Paid,9559.81
+2476,2476,Cash on Delivery,Paid,15234.38
+2477,2477,Net Banking,Paid,36918.45
+2478,2478,Card,Paid,46755.48
+2479,2479,Card,Paid,33887.82
+2480,2480,Wallet,Paid,37976.68
+2481,2481,Cash on Delivery,Paid,26001.03
+2482,2482,UPI,Paid,12861.69
+2483,2483,Card,Paid,3065.1
+2484,2484,UPI,Paid,6218.22
+2485,2485,UPI,Paid,10604.03
+2486,2486,Cash on Delivery,Paid,23436.65
+2487,2487,Wallet,Paid,18928.53
+2488,2488,Wallet,Paid,12005.69
+2489,2489,Wallet,Paid,27141.74
+2490,2490,Card,Paid,9991.3
+2491,2491,Card,Paid,18725.79
+2492,2492,Cash on Delivery,Paid,27282.24
+2493,2493,Cash on Delivery,Refunded,37524.78
+2494,2494,Cash on Delivery,Paid,18064.28
+2495,2495,Net Banking,Refunded,15791.59
+2496,2496,Card,Failed,29392.69
+2497,2497,UPI,Paid,21343.22
+2498,2498,Net Banking,Paid,18865.84
+2499,2499,UPI,Paid,38486.2
+2500,2500,Card,Paid,26299.92
+2501,2501,UPI,Paid,23561.04
+2502,2502,Cash on Delivery,Paid,10965.53
+2503,2503,Wallet,Paid,24306.54
+2504,2504,Wallet,Paid,37374.48
+2505,2505,UPI,Refunded,25350.78
+2506,2506,Wallet,Paid,13370.52
+2507,2507,Cash on Delivery,Paid,13874.4
+2508,2508,Net Banking,Paid,2560.58
+2509,2509,Wallet,Paid,19673.83
+2510,2510,Net Banking,Paid,19089.1
+2511,2511,Wallet,Paid,38240.79
+2512,2512,UPI,Paid,32131.48
+2513,2513,Card,Refunded,19530.37
+2514,2514,Net Banking,Refunded,20321.77
+2515,2515,Wallet,Paid,20191.8
+2516,2516,Net Banking,Paid,9950.64
+2517,2517,Cash on Delivery,Paid,8858.75
+2518,2518,UPI,Refunded,3527.01
+2519,2519,Card,Paid,18002.81
+2520,2520,UPI,Refunded,10944.13
+2521,2521,Wallet,Paid,14147.65
+2522,2522,Net Banking,Paid,20658.84
+2523,2523,Cash on Delivery,Paid,36242.34
+2524,2524,Wallet,Paid,12990.45
+2525,2525,UPI,Paid,8280.29
+2526,2526,Net Banking,Paid,3985.9
+2527,2527,Cash on Delivery,Paid,13988.06
+2528,2528,Card,Paid,57165.76
+2529,2529,Wallet,Refunded,8472.42
+2530,2530,UPI,Refunded,25048.85
+2531,2531,Net Banking,Paid,13120.9
+2532,2532,Card,Paid,9418.89
+2533,2533,UPI,Paid,22757.7
+2534,2534,Card,Paid,10758.89
+2535,2535,Cash on Delivery,Paid,41355.32
+2536,2536,UPI,Failed,13901.34
+2537,2537,Card,Paid,14228.5
+2538,2538,Cash on Delivery,Paid,31482.44
+2539,2539,Cash on Delivery,Paid,4330.71
+2540,2540,Card,Paid,27409.41
+2541,2541,Card,Paid,12472.74
+2542,2542,Net Banking,Paid,51700.25
+2543,2543,Cash on Delivery,Paid,34411.32
+2544,2544,Card,Paid,13342.82
+2545,2545,Wallet,Paid,17683.66
+2546,2546,Net Banking,Paid,9564.54
+2547,2547,Wallet,Paid,9146.08
+2548,2548,Cash on Delivery,Paid,2943.38
+2549,2549,Net Banking,Paid,8735.34
+2550,2550,UPI,Paid,29696.72
+2551,2551,Card,Paid,19672.75
+2552,2552,Cash on Delivery,Paid,5260.81
+2553,2553,Cash on Delivery,Paid,14079.58
+2554,2554,Wallet,Paid,11946.85
+2555,2555,Card,Paid,3035.63
+2556,2556,Card,Paid,24327.48
+2557,2557,UPI,Failed,38275.32
+2558,2558,Card,Failed,28090.46
+2559,2559,Net Banking,Paid,3803.47
+2560,2560,Net Banking,Paid,21923.71
+2561,2561,Wallet,Paid,4610.67
+2562,2562,Cash on Delivery,Paid,9556.67
+2563,2563,Net Banking,Paid,31506.06
+2564,2564,UPI,Paid,16643.23
+2565,2565,Card,Paid,8631.58
+2566,2566,Card,Paid,18903.38
+2567,2567,Wallet,Paid,31746.61
+2568,2568,UPI,Paid,12182.04
+2569,2569,UPI,Paid,15140.65
+2570,2570,Card,Paid,36495.95
+2571,2571,Net Banking,Paid,13201.35
+2572,2572,Cash on Delivery,Paid,44227.3
+2573,2573,Wallet,Failed,4506.49
+2574,2574,Card,Failed,9588.82
+2575,2575,Card,Failed,18061.31
+2576,2576,Wallet,Paid,12243.27
+2577,2577,Card,Paid,12029.08
+2578,2578,Card,Refunded,24506.72
+2579,2579,Wallet,Failed,23175.72
+2580,2580,UPI,Paid,27272.25
+2581,2581,UPI,Failed,11614.77
+2582,2582,Card,Paid,3300.91
+2583,2583,Card,Paid,25018.68
+2584,2584,Wallet,Paid,5648.2
+2585,2585,Cash on Delivery,Paid,3056.44
+2586,2586,Cash on Delivery,Paid,20517.49
+2587,2587,Cash on Delivery,Paid,10972.67
+2588,2588,Card,Paid,14729.47
+2589,2589,UPI,Paid,22264.0
+2590,2590,Net Banking,Paid,29936.69
+2591,2591,Net Banking,Paid,19445.55
+2592,2592,Card,Paid,21465.06
+2593,2593,Net Banking,Paid,25892.08
+2594,2594,Cash on Delivery,Failed,3438.69
+2595,2595,UPI,Paid,41506.37
+2596,2596,UPI,Paid,34388.04
+2597,2597,Wallet,Paid,37835.4
+2598,2598,UPI,Paid,35778.35
+2599,2599,UPI,Paid,4781.78
+2600,2600,Cash on Delivery,Failed,9145.56
+2601,2601,Wallet,Paid,36376.54
+2602,2602,Card,Paid,15915.84
+2603,2603,Wallet,Paid,39254.48
+2604,2604,Card,Failed,10895.11
+2605,2605,Card,Paid,8683.91
+2606,2606,Cash on Delivery,Paid,27304.7
+2607,2607,UPI,Paid,9978.97
+2608,2608,Card,Paid,25539.48
+2609,2609,UPI,Refunded,16411.31
+2610,2610,Net Banking,Paid,20381.24
+2611,2611,Net Banking,Paid,31035.51
+2612,2612,Net Banking,Paid,21453.48
+2613,2613,Wallet,Paid,13258.87
+2614,2614,Wallet,Paid,17030.76
+2615,2615,Cash on Delivery,Paid,27711.12
+2616,2616,Card,Paid,9546.2
+2617,2617,Card,Paid,1418.17
+2618,2618,Net Banking,Paid,10947.92
+2619,2619,Card,Paid,16698.14
+2620,2620,Net Banking,Paid,15977.7
+2621,2621,Card,Refunded,18392.46
+2622,2622,Card,Failed,11861.94
+2623,2623,Cash on Delivery,Paid,8732.99
+2624,2624,Net Banking,Paid,32002.15
+2625,2625,Card,Paid,37350.56
+2626,2626,Wallet,Paid,29017.82
+2627,2627,UPI,Paid,45589.04
+2628,2628,Cash on Delivery,Paid,22382.6
+2629,2629,Cash on Delivery,Failed,32463.99
+2630,2630,Cash on Delivery,Paid,28171.7
+2631,2631,Wallet,Paid,23174.8
+2632,2632,Cash on Delivery,Paid,32664.62
+2633,2633,Net Banking,Paid,18964.22
+2634,2634,UPI,Paid,14698.04
+2635,2635,Cash on Delivery,Paid,26389.17
+2636,2636,Card,Paid,14698.78
+2637,2637,Cash on Delivery,Paid,10168.56
+2638,2638,UPI,Paid,17007.68
+2639,2639,UPI,Paid,45782.68
+2640,2640,UPI,Paid,31959.99
+2641,2641,Card,Paid,16961.23
+2642,2642,Cash on Delivery,Paid,22534.28
+2643,2643,UPI,Paid,50989.99
+2644,2644,Cash on Delivery,Paid,20004.31
+2645,2645,UPI,Paid,19533.74
+2646,2646,Net Banking,Failed,18950.53
+2647,2647,Card,Refunded,20971.95
+2648,2648,Net Banking,Paid,4102.0
+2649,2649,Wallet,Paid,14348.97
+2650,2650,UPI,Refunded,10729.35
+2651,2651,Wallet,Paid,21801.88
+2652,2652,Card,Paid,18394.54
+2653,2653,Cash on Delivery,Paid,9491.24
+2654,2654,Card,Paid,34274.45
+2655,2655,UPI,Paid,31875.14
+2656,2656,Card,Paid,24128.89
+2657,2657,Wallet,Paid,28344.4
+2658,2658,Card,Paid,9564.57
+2659,2659,UPI,Paid,13679.96
+2660,2660,Card,Paid,13310.69
+2661,2661,Net Banking,Paid,1918.55
+2662,2662,Card,Paid,5051.89
+2663,2663,Cash on Delivery,Paid,22477.49
+2664,2664,Net Banking,Refunded,22715.09
+2665,2665,Net Banking,Paid,27324.74
+2666,2666,Card,Paid,14690.36
+2667,2667,Wallet,Paid,24139.79
+2668,2668,Card,Refunded,23702.72
+2669,2669,UPI,Paid,21141.58
+2670,2670,Cash on Delivery,Paid,33075.94
+2671,2671,Net Banking,Paid,19230.66
+2672,2672,Card,Paid,16993.78
+2673,2673,Card,Paid,4095.32
+2674,2674,Cash on Delivery,Paid,39896.86
+2675,2675,Wallet,Paid,29775.03
+2676,2676,Net Banking,Paid,33040.68
+2677,2677,UPI,Paid,15172.86
+2678,2678,Wallet,Paid,16488.8
+2679,2679,Net Banking,Paid,27245.9
+2680,2680,Card,Paid,3164.08
+2681,2681,UPI,Paid,11224.62
+2682,2682,Net Banking,Paid,3791.72
+2683,2683,Wallet,Paid,27632.48
+2684,2684,Net Banking,Paid,12546.04
+2685,2685,Cash on Delivery,Paid,30311.08
+2686,2686,Card,Paid,5354.55
+2687,2687,Cash on Delivery,Paid,38483.88
+2688,2688,Wallet,Paid,29176.06
+2689,2689,Wallet,Paid,19480.14
+2690,2690,Cash on Delivery,Paid,11870.28
+2691,2691,Cash on Delivery,Paid,16727.36
+2692,2692,Net Banking,Refunded,6046.76
+2693,2693,UPI,Paid,23711.83
+2694,2694,Card,Paid,22978.48
+2695,2695,Card,Refunded,22177.96
+2696,2696,Card,Paid,16234.35
+2697,2697,UPI,Failed,6809.63
+2698,2698,Card,Paid,22913.56
+2699,2699,Card,Refunded,20967.32
+2700,2700,Wallet,Paid,10795.9
+2701,2701,Cash on Delivery,Paid,16731.8
+2702,2702,UPI,Paid,7908.43
+2703,2703,Wallet,Paid,19003.62
+2704,2704,Cash on Delivery,Paid,8224.63
+2705,2705,Wallet,Paid,22779.2
+2706,2706,Cash on Delivery,Paid,30279.52
+2707,2707,UPI,Failed,16341.77
+2708,2708,Card,Paid,36546.24
+2709,2709,Wallet,Failed,27385.54
+2710,2710,Cash on Delivery,Paid,22909.55
+2711,2711,Cash on Delivery,Paid,2003.56
+2712,2712,Cash on Delivery,Paid,13867.58
+2713,2713,Card,Paid,6920.38
+2714,2714,Wallet,Paid,30663.65
+2715,2715,Net Banking,Paid,13728.78
+2716,2716,Card,Paid,8618.2
+2717,2717,Cash on Delivery,Paid,16824.99
+2718,2718,Wallet,Paid,20619.63
+2719,2719,Cash on Delivery,Paid,29410.56
+2720,2720,UPI,Paid,42033.23
+2721,2721,Wallet,Refunded,21316.17
+2722,2722,Card,Paid,6210.06
+2723,2723,Cash on Delivery,Paid,32946.8
+2724,2724,UPI,Failed,28433.5
+2725,2725,Card,Failed,20858.42
+2726,2726,Cash on Delivery,Failed,32869.68
+2727,2727,Cash on Delivery,Paid,42977.34
+2728,2728,Net Banking,Paid,16912.1
+2729,2729,Wallet,Paid,9006.15
+2730,2730,Wallet,Paid,3695.31
+2731,2731,Cash on Delivery,Paid,33928.07
+2732,2732,Card,Paid,20529.11
+2733,2733,Cash on Delivery,Paid,11531.65
+2734,2734,Wallet,Paid,3885.2
+2735,2735,Card,Paid,52483.91
+2736,2736,Card,Paid,22724.44
+2737,2737,Wallet,Paid,21162.77
+2738,2738,Net Banking,Paid,22853.99
+2739,2739,Card,Paid,26300.08
+2740,2740,Cash on Delivery,Paid,31728.48
+2741,2741,UPI,Paid,31693.72
+2742,2742,Net Banking,Paid,20741.98
+2743,2743,UPI,Paid,24860.46
+2744,2744,Wallet,Paid,7988.85
+2745,2745,Cash on Delivery,Paid,26235.48
+2746,2746,Wallet,Paid,19046.75
+2747,2747,Net Banking,Paid,20572.13
+2748,2748,Wallet,Paid,9034.9
+2749,2749,Net Banking,Paid,9670.63
+2750,2750,UPI,Refunded,20576.3
+2751,2751,Net Banking,Paid,13806.73
+2752,2752,Net Banking,Paid,16809.4
+2753,2753,Wallet,Paid,43823.6
+2754,2754,Net Banking,Failed,22988.67
+2755,2755,Net Banking,Paid,13722.68
+2756,2756,Wallet,Paid,6563.06
+2757,2757,Cash on Delivery,Paid,27206.09
+2758,2758,Wallet,Paid,29459.25
+2759,2759,Net Banking,Paid,11570.31
+2760,2760,Cash on Delivery,Paid,9164.44
+2761,2761,Card,Paid,13111.47
+2762,2762,Wallet,Paid,30243.58
+2763,2763,Net Banking,Paid,4913.27
+2764,2764,Cash on Delivery,Paid,31564.68
+2765,2765,Card,Refunded,18000.77
+2766,2766,Wallet,Paid,20564.79
+2767,2767,Net Banking,Paid,7338.86
+2768,2768,Wallet,Paid,24747.12
+2769,2769,Net Banking,Paid,14278.69
+2770,2770,UPI,Paid,19073.91
+2771,2771,Cash on Delivery,Paid,18594.12
+2772,2772,Card,Paid,20816.43
+2773,2773,Card,Refunded,16820.66
+2774,2774,Cash on Delivery,Paid,26679.96
+2775,2775,Net Banking,Failed,12228.43
+2776,2776,Cash on Delivery,Refunded,40854.42
+2777,2777,Card,Paid,24160.02
+2778,2778,Cash on Delivery,Failed,24288.11
+2779,2779,UPI,Failed,17859.68
+2780,2780,Cash on Delivery,Paid,17563.32
+2781,2781,Card,Refunded,39822.49
+2782,2782,Cash on Delivery,Paid,14326.36
+2783,2783,UPI,Paid,18276.93
+2784,2784,UPI,Paid,17718.6
+2785,2785,UPI,Failed,15806.33
+2786,2786,Wallet,Paid,3858.94
+2787,2787,Cash on Delivery,Failed,10151.13
+2788,2788,Cash on Delivery,Paid,27832.29
+2789,2789,Cash on Delivery,Paid,21444.22
+2790,2790,Net Banking,Paid,30055.42
+2791,2791,UPI,Paid,15990.89
+2792,2792,Card,Paid,5983.73
+2793,2793,Net Banking,Paid,3208.83
+2794,2794,Wallet,Failed,24875.01
+2795,2795,UPI,Paid,13640.62
+2796,2796,Cash on Delivery,Refunded,11548.03
+2797,2797,Cash on Delivery,Paid,7401.5
+2798,2798,Wallet,Paid,14767.39
+2799,2799,Card,Paid,12381.71
+2800,2800,Cash on Delivery,Paid,26342.46
+2801,2801,UPI,Paid,16300.52
+2802,2802,Wallet,Paid,15701.46
+2803,2803,Card,Paid,18127.24
+2804,2804,Cash on Delivery,Paid,30120.96
+2805,2805,Net Banking,Paid,17920.59
+2806,2806,Cash on Delivery,Paid,52939.88
+2807,2807,Net Banking,Paid,37476.12
+2808,2808,Card,Refunded,23622.13
+2809,2809,Cash on Delivery,Paid,36155.92
+2810,2810,Cash on Delivery,Paid,10296.76
+2811,2811,Wallet,Paid,7066.94
+2812,2812,Net Banking,Paid,8946.86
+2813,2813,Net Banking,Paid,9368.79
+2814,2814,Net Banking,Paid,9071.44
+2815,2815,Card,Paid,39112.73
+2816,2816,UPI,Paid,29297.82
+2817,2817,Card,Paid,8254.83
+2818,2818,Cash on Delivery,Refunded,33718.41
+2819,2819,UPI,Paid,18883.48
+2820,2820,Wallet,Paid,17987.85
+2821,2821,Wallet,Paid,16627.92
+2822,2822,UPI,Paid,19621.02
+2823,2823,UPI,Paid,9120.44
+2824,2824,Card,Paid,16029.83
+2825,2825,Card,Paid,20757.86
+2826,2826,Net Banking,Paid,48534.4
+2827,2827,Card,Refunded,21904.35
+2828,2828,Wallet,Paid,20295.43
+2829,2829,Net Banking,Paid,11650.42
+2830,2830,Wallet,Paid,7018.9
+2831,2831,Wallet,Paid,16381.46
+2832,2832,Cash on Delivery,Paid,18755.5
+2833,2833,Cash on Delivery,Paid,12583.04
+2834,2834,Wallet,Paid,42656.42
+2835,2835,Cash on Delivery,Refunded,28130.89
+2836,2836,Cash on Delivery,Paid,19492.14
+2837,2837,Net Banking,Paid,7330.13
+2838,2838,Net Banking,Paid,16902.12
+2839,2839,Card,Paid,56368.68
+2840,2840,UPI,Paid,5179.14
+2841,2841,Card,Paid,25052.7
+2842,2842,Card,Failed,9693.39
+2843,2843,Cash on Delivery,Paid,10483.29
+2844,2844,UPI,Paid,24288.55
+2845,2845,UPI,Paid,25097.46
+2846,2846,UPI,Paid,19543.46
+2847,2847,Wallet,Paid,31729.43
+2848,2848,UPI,Paid,20496.43
+2849,2849,Wallet,Refunded,16313.54
+2850,2850,UPI,Refunded,42126.03
+2851,2851,UPI,Failed,12086.22
+2852,2852,Cash on Delivery,Paid,28765.24
+2853,2853,UPI,Refunded,30099.2
+2854,2854,Cash on Delivery,Refunded,16148.54
+2855,2855,Cash on Delivery,Paid,31721.4
+2856,2856,Net Banking,Paid,31842.37
+2857,2857,Net Banking,Paid,25757.44
+2858,2858,Card,Paid,17397.33
+2859,2859,Cash on Delivery,Paid,40088.04
+2860,2860,UPI,Paid,15982.09
+2861,2861,Cash on Delivery,Paid,16784.13
+2862,2862,Cash on Delivery,Paid,28428.5
+2863,2863,UPI,Refunded,22375.44
+2864,2864,UPI,Refunded,20765.3
+2865,2865,Cash on Delivery,Paid,21222.46
+2866,2866,Wallet,Paid,33233.37
+2867,2867,UPI,Paid,13085.01
+2868,2868,Card,Refunded,29265.93
+2869,2869,Card,Paid,18559.14
+2870,2870,UPI,Paid,38878.28
+2871,2871,Cash on Delivery,Paid,16580.09
+2872,2872,Wallet,Paid,10249.15
+2873,2873,Card,Paid,5357.49
+2874,2874,Net Banking,Paid,30191.32
+2875,2875,Cash on Delivery,Paid,36713.31
+2876,2876,Card,Paid,16223.82
+2877,2877,Wallet,Paid,7645.97
+2878,2878,Card,Refunded,30962.06
+2879,2879,Net Banking,Failed,26120.28
+2880,2880,Card,Paid,22695.54
+2881,2881,UPI,Paid,20315.98
+2882,2882,Card,Paid,18651.75
+2883,2883,Wallet,Paid,21192.59
+2884,2884,Card,Paid,19224.26
+2885,2885,Card,Paid,17240.44
+2886,2886,UPI,Paid,14277.75
+2887,2887,UPI,Paid,39694.44
+2888,2888,Cash on Delivery,Paid,19486.96
+2889,2889,Card,Paid,13130.49
+2890,2890,UPI,Paid,11683.06
+2891,2891,Wallet,Refunded,30244.12
+2892,2892,Card,Paid,14838.49
+2893,2893,Cash on Delivery,Paid,18292.31
+2894,2894,Cash on Delivery,Paid,10148.53
+2895,2895,Cash on Delivery,Paid,14421.04
+2896,2896,UPI,Paid,11624.89
+2897,2897,Wallet,Paid,20257.12
+2898,2898,Wallet,Refunded,23586.4
+2899,2899,Cash on Delivery,Paid,26930.56
+2900,2900,Net Banking,Paid,15833.54
+2901,2901,Card,Paid,7779.54
+2902,2902,UPI,Paid,49557.28
+2903,2903,Net Banking,Paid,8922.37
+2904,2904,Card,Paid,11370.56
+2905,2905,Card,Paid,62409.52
+2906,2906,Cash on Delivery,Failed,26933.24
+2907,2907,Cash on Delivery,Paid,10926.62
+2908,2908,Net Banking,Paid,1322.65
+2909,2909,Net Banking,Paid,17482.1
+2910,2910,Wallet,Refunded,20487.03
+2911,2911,Card,Paid,8787.42
+2912,2912,Card,Paid,40176.67
+2913,2913,Card,Paid,28905.68
+2914,2914,UPI,Paid,6072.42
+2915,2915,Net Banking,Failed,22757.44
+2916,2916,Cash on Delivery,Paid,6293.91
+2917,2917,Card,Paid,28552.75
+2918,2918,Cash on Delivery,Paid,59372.12
+2919,2919,Card,Paid,5903.34
+2920,2920,Card,Paid,21641.17
+2921,2921,Card,Paid,20816.33
+2922,2922,Card,Paid,17717.48
+2923,2923,Wallet,Paid,24150.77
+2924,2924,Card,Failed,5135.51
+2925,2925,UPI,Failed,10483.29
+2926,2926,UPI,Failed,15883.11
+2927,2927,Wallet,Failed,33366.89
+2928,2928,Card,Paid,7346.34
+2929,2929,Card,Paid,31068.08
+2930,2930,Net Banking,Paid,19367.27
+2931,2931,UPI,Paid,11232.57
+2932,2932,UPI,Paid,13951.84
+2933,2933,Net Banking,Paid,30137.65
+2934,2934,UPI,Refunded,6165.16
+2935,2935,Net Banking,Paid,35306.48
+2936,2936,UPI,Paid,24614.57
+2937,2937,Card,Paid,37776.12
+2938,2938,Card,Paid,29635.01
+2939,2939,Card,Paid,15424.44
+2940,2940,Net Banking,Paid,19073.92
+2941,2941,UPI,Paid,24691.12
+2942,2942,Wallet,Paid,44946.15
+2943,2943,Card,Paid,31204.65
+2944,2944,Wallet,Refunded,10808.4
+2945,2945,Cash on Delivery,Paid,20788.74
+2946,2946,Net Banking,Paid,7573.58
+2947,2947,Net Banking,Paid,19750.51
+2948,2948,Card,Paid,13604.98
+2949,2949,Wallet,Paid,22372.98
+2950,2950,Net Banking,Refunded,20258.95
+2951,2951,Cash on Delivery,Paid,26621.68
+2952,2952,Wallet,Paid,34572.53
+2953,2953,UPI,Paid,15072.58
+2954,2954,Net Banking,Refunded,26332.1
+2955,2955,Net Banking,Paid,8952.03
+2956,2956,UPI,Paid,42467.14
+2957,2957,Cash on Delivery,Paid,22062.34
+2958,2958,Cash on Delivery,Paid,34134.4
+2959,2959,Card,Paid,16692.17
+2960,2960,Card,Paid,6514.4
+2961,2961,UPI,Paid,24030.4
+2962,2962,Cash on Delivery,Paid,11138.2
+2963,2963,Cash on Delivery,Paid,4816.84
+2964,2964,Cash on Delivery,Paid,27456.93
+2965,2965,Card,Paid,21554.07
+2966,2966,UPI,Paid,22534.19
+2967,2967,UPI,Paid,32987.59
+2968,2968,Card,Paid,21312.13
+2969,2969,Wallet,Failed,8250.8
+2970,2970,Cash on Delivery,Paid,16602.94
+2971,2971,Card,Paid,43557.6
+2972,2972,Card,Paid,19011.63
+2973,2973,Card,Failed,17804.59
+2974,2974,UPI,Paid,22895.28
+2975,2975,UPI,Paid,8997.82
+2976,2976,Card,Paid,14976.33
+2977,2977,Wallet,Paid,35971.14
+2978,2978,Net Banking,Paid,55483.76
+2979,2979,Card,Paid,29278.24
+2980,2980,Cash on Delivery,Paid,10019.94
+2981,2981,Wallet,Refunded,8309.82
+2982,2982,Cash on Delivery,Paid,18514.02
+2983,2983,Net Banking,Paid,33339.22
+2984,2984,Card,Paid,8531.76
+2985,2985,UPI,Paid,33501.55
+2986,2986,Cash on Delivery,Paid,24248.12
+2987,2987,Cash on Delivery,Refunded,34386.34
+2988,2988,Card,Refunded,16869.86
+2989,2989,Net Banking,Paid,11164.92
+2990,2990,Cash on Delivery,Paid,25866.66
+2991,2991,Wallet,Paid,7914.32
+2992,2992,Card,Paid,56970.76
+2993,2993,Cash on Delivery,Paid,17814.04
+2994,2994,Card,Paid,29002.28
+2995,2995,Wallet,Paid,23870.92
+2996,2996,UPI,Paid,7328.25
+2997,2997,Cash on Delivery,Paid,7191.9
+2998,2998,Wallet,Paid,20594.74
+2999,2999,Card,Paid,43523.99
+3000,3000,UPI,Paid,29253.72

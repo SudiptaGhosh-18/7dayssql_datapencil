@@ -1,0 +1,151 @@
+product_id,product_name,category,price,cost
+1,Wireless Mouse 1,Electronics,2047.34,1238.9
+2,Storage Box 2,Home & Kitchen,6240.36,3957.14
+3,Backpack 3,Fashion,6111.16,2965.5
+4,Business Statistics 4,Books,2185.04,984.35
+5,Sunscreen 5,Beauty & Personal Care,2284.42,804.56
+6,Fitness Tracker 6,Sports & Fitness,4767.25,2307.99
+7,Bluetooth Speaker 7,Electronics,800.49,512.82
+8,Organizer 8,Home & Kitchen,5085.18,2905.91
+9,T-Shirt 9,Fashion,2643.71,998.84
+10,Business Statistics 10,Books,5762.48,1943.06
+11,Sunscreen 11,Beauty & Personal Care,799.62,319.16
+12,Fitness Tracker 12,Sports & Fitness,5417.98,3349.75
+13,Power Bank 13,Electronics,6059.13,3611.58
+14,Bedsheet 14,Home & Kitchen,1971.32,710.07
+15,Sunglasses 15,Fashion,6594.22,2569.59
+16,Business Statistics 16,Books,670.83,209.22
+17,Sunscreen 17,Beauty & Personal Care,3863.34,2188.35
+18,Fitness Tracker 18,Sports & Fitness,6507.83,2861.21
+19,USB-C Hub 19,Electronics,2668.77,1659.47
+20,Cookware Set 20,Home & Kitchen,818.16,324.17
+21,Sneakers 21,Fashion,4711.47,2050.21
+22,Business Statistics 22,Books,3814.26,1807.81
+23,Sunscreen 23,Beauty & Personal Care,2808.79,1347.33
+24,Fitness Tracker 24,Sports & Fitness,513.43,204.17
+25,Wireless Mouse 25,Electronics,5571.89,2963.47
+26,Storage Box 26,Home & Kitchen,8796.39,3328.48
+27,Backpack 27,Fashion,3947.33,1837.71
+28,Business Statistics 28,Books,1247.72,815.43
+29,Sunscreen 29,Beauty & Personal Care,7538.9,3159.86
+30,Fitness Tracker 30,Sports & Fitness,595.49,254.44
+31,Bluetooth Speaker 31,Electronics,7129.77,3664.38
+32,Organizer 32,Home & Kitchen,6194.68,2239.42
+33,T-Shirt 33,Fashion,1778.99,1018.93
+34,Business Statistics 34,Books,7442.77,3385.45
+35,Sunscreen 35,Beauty & Personal Care,1659.7,940.63
+36,Fitness Tracker 36,Sports & Fitness,6633.3,2751.32
+37,Power Bank 37,Electronics,4446.66,2902.83
+38,Bedsheet 38,Home & Kitchen,4111.44,1644.06
+39,Sunglasses 39,Fashion,7400.26,2863.57
+40,Business Statistics 40,Books,3361.37,1292.15
+41,Sunscreen 41,Beauty & Personal Care,2211.21,918.98
+42,Fitness Tracker 42,Sports & Fitness,6396.11,3273.18
+43,USB-C Hub 43,Electronics,566.72,247.3
+44,Cookware Set 44,Home & Kitchen,4050.0,2099.49
+45,Sneakers 45,Fashion,5700.81,4004.59
+46,Business Statistics 46,Books,4177.0,1760.19
+47,Sunscreen 47,Beauty & Personal Care,4300.89,2495.71
+48,Fitness Tracker 48,Sports & Fitness,8147.18,3413.54
+49,Wireless Mouse 49,Electronics,622.39,227.56
+50,Storage Box 50,Home & Kitchen,7355.11,3348.55
+51,Backpack 51,Fashion,2719.82,1535.24
+52,Business Statistics 52,Books,5753.88,2204.15
+53,Sunscreen 53,Beauty & Personal Care,4994.42,2348.9
+54,Fitness Tracker 54,Sports & Fitness,5045.39,2067.08
+55,Bluetooth Speaker 55,Electronics,3488.21,1493.69
+56,Organizer 56,Home & Kitchen,7400.17,2611.47
+57,T-Shirt 57,Fashion,4710.72,2020.54
+58,Business Statistics 58,Books,6541.59,4301.16
+59,Sunscreen 59,Beauty & Personal Care,2247.22,1341.93
+60,Fitness Tracker 60,Sports & Fitness,7020.78,3657.52
+61,Power Bank 61,Electronics,6425.93,3227.63
+62,Bedsheet 62,Home & Kitchen,4616.65,2248.03
+63,Sunglasses 63,Fashion,2364.46,1035.01
+64,Business Statistics 64,Books,2094.15,1127.32
+65,Sunscreen 65,Beauty & Personal Care,617.59,328.63
+66,Fitness Tracker 66,Sports & Fitness,6450.99,2691.33
+67,USB-C Hub 67,Electronics,1590.4,685.02
+68,Cookware Set 68,Home & Kitchen,430.01,197.96
+69,Sneakers 69,Fashion,3543.36,1873.6
+70,Business Statistics 70,Books,7961.27,4392.34
+71,Sunscreen 71,Beauty & Personal Care,5128.62,2116.41
+72,Fitness Tracker 72,Sports & Fitness,2219.81,1012.87
+73,Wireless Mouse 73,Electronics,269.74,147.67
+74,Storage Box 74,Home & Kitchen,6817.64,3452.9
+75,Backpack 75,Fashion,4998.5,1716.13
+76,Business Statistics 76,Books,5477.95,2416.89
+77,Sunscreen 77,Beauty & Personal Care,3126.8,2088.1
+78,Fitness Tracker 78,Sports & Fitness,2123.54,1003.6
+79,Bluetooth Speaker 79,Electronics,1315.8,746.84
+80,Organizer 80,Home & Kitchen,6327.77,2508.23
+81,T-Shirt 81,Fashion,7954.86,3992.38
+82,Business Statistics 82,Books,4468.51,1790.23
+83,Sunscreen 83,Beauty & Personal Care,6341.93,2517.54
+84,Fitness Tracker 84,Sports & Fitness,6950.05,2705.77
+85,Power Bank 85,Electronics,2586.0,1141.96
+86,Bedsheet 86,Home & Kitchen,1198.59,449.88
+87,Sunglasses 87,Fashion,4714.29,2853.63
+88,Business Statistics 88,Books,3831.0,1728.21
+89,Sunscreen 89,Beauty & Personal Care,800.58,555.83
+90,Fitness Tracker 90,Sports & Fitness,5895.94,3329.13
+91,USB-C Hub 91,Electronics,2799.62,965.56
+92,Cookware Set 92,Home & Kitchen,4894.44,2660.93
+93,Sneakers 93,Fashion,6284.03,3776.24
+94,Business Statistics 94,Books,6820.56,3749.04
+95,Sunscreen 95,Beauty & Personal Care,6061.55,1904.8
+96,Fitness Tracker 96,Sports & Fitness,3053.6,1696.68
+97,Wireless Mouse 97,Electronics,2024.48,750.41
+98,Storage Box 98,Home & Kitchen,5829.65,2456.91
+99,Backpack 99,Fashion,3779.3,2583.83
+100,Business Statistics 100,Books,3514.18,2410.7
+101,Sunscreen 101,Beauty & Personal Care,1434.47,830.63
+102,Fitness Tracker 102,Sports & Fitness,7123.81,3829.07
+103,Bluetooth Speaker 103,Electronics,1416.04,679.48
+104,Organizer 104,Home & Kitchen,3435.53,1961.24
+105,T-Shirt 105,Fashion,8867.57,3378.29
+106,Business Statistics 106,Books,2886.73,1195.43
+107,Sunscreen 107,Beauty & Personal Care,4785.66,1823.16
+108,Fitness Tracker 108,Sports & Fitness,7455.2,3965.95
+109,Power Bank 109,Electronics,6160.79,3876.03
+110,Bedsheet 110,Home & Kitchen,396.04,154.75
+111,Sunglasses 111,Fashion,1803.99,745.79
+112,Business Statistics 112,Books,2169.14,1273.46
+113,Sunscreen 113,Beauty & Personal Care,8331.59,3288.33
+114,Fitness Tracker 114,Sports & Fitness,5188.59,2376.42
+115,USB-C Hub 115,Electronics,2339.9,819.6
+116,Cookware Set 116,Home & Kitchen,3769.55,1647.52
+117,Sneakers 117,Fashion,2806.33,1909.17
+118,Business Statistics 118,Books,2973.56,1577.84
+119,Sunscreen 119,Beauty & Personal Care,2855.97,1610.78
+120,Fitness Tracker 120,Sports & Fitness,7046.95,2461.07
+121,Wireless Mouse 121,Electronics,4222.22,1790.19
+122,Storage Box 122,Home & Kitchen,2547.34,1067.16
+123,Backpack 123,Fashion,2213.49,660.02
+124,Business Statistics 124,Books,5066.57,2725.27
+125,Sunscreen 125,Beauty & Personal Care,1430.81,736.53
+126,Fitness Tracker 126,Sports & Fitness,3808.32,1688.16
+127,Bluetooth Speaker 127,Electronics,6330.17,3665.31
+128,Organizer 128,Home & Kitchen,5539.35,2083.2
+129,T-Shirt 129,Fashion,1480.94,719.37
+130,Business Statistics 130,Books,7458.87,3118.59
+131,Sunscreen 131,Beauty & Personal Care,2708.36,828.97
+132,Fitness Tracker 132,Sports & Fitness,3947.39,1932.01
+133,Power Bank 133,Electronics,2794.54,1882.68
+134,Bedsheet 134,Home & Kitchen,3735.21,1802.01
+135,Sunglasses 135,Fashion,7422.13,3957.11
+136,Business Statistics 136,Books,4813.95,2612.81
+137,Sunscreen 137,Beauty & Personal Care,4926.51,2362.86
+138,Fitness Tracker 138,Sports & Fitness,556.03,178.54
+139,USB-C Hub 139,Electronics,5779.82,3484.25
+140,Cookware Set 140,Home & Kitchen,891.5,410.66
+141,Sneakers 141,Fashion,1474.74,1009.16
+142,Business Statistics 142,Books,1544.11,636.13
+143,Sunscreen 143,Beauty & Personal Care,7043.52,4228.23
+144,Fitness Tracker 144,Sports & Fitness,2109.56,1296.13
+145,Wireless Mouse 145,Electronics,5075.75,2192.75
+146,Storage Box 146,Home & Kitchen,6246.94,2409.52
+147,Backpack 147,Fashion,5373.4,3117.48
+148,Business Statistics 148,Books,2525.41,1615.89
+149,Sunscreen 149,Beauty & Personal Care,3377.99,1952.04
+150,Fitness Tracker 150,Sports & Fitness,8492.72,2573.23
