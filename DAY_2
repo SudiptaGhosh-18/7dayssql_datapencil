@@ -1,9 +1,9 @@
-#1
+# 1
 SELECT COUNT(order_id) AS total_orders 
 FROM orders2;
 3000
 
-#2
+# 2
 SELECT status, COUNT(order_id) AS order_count 
 FROM orders2 
 GROUP BY status;
@@ -14,7 +14,7 @@ Cancelled	236
 Shipped	385
 Processing	303
 
-#3
+# 3
 SELECT * FROM orders2 
 ORDER BY order_date DESC 
 LIMIT 10;
@@ -32,7 +32,7 @@ LIMIT 10;
 
 
 
-#4
+# 4
 SELECT order_id, SUM(quantity * unit_price) AS total_amount
 FROM order_items
 GROUP BY order_id
@@ -48,7 +48,7 @@ LIMIT 10;
 2992	56970.76
 1497	56825.24
 
-#5
+# 5
 SELECT order_date, COUNT(order_id) AS orders_per_day
 FROM orders2
 GROUP BY order_date
@@ -154,7 +154,7 @@ ORDER BY order_date ASC;
 2025-04-11	4
 2025-04-12	6
 
-#6
+# 6
 SELECT DATE_FORMAT(order_date, '%Y-%m') AS order_month, COUNT(order_id) AS total_orders
 FROM orders2
 GROUP BY order_month
@@ -184,7 +184,7 @@ ORDER BY total_orders DESC;
 
 
 
-#8
+# 8
 SELECT c.customer_id, c.full_name, COUNT(o.order_id) AS order_count
 FROM customers c
 JOIN orders2 o ON c.customer_id = o.customer_id
